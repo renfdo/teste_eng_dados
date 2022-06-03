@@ -4,7 +4,7 @@
 
 ### Objetivo
 
-Desenvolvimento de processo de ETL para entregar os dados de modo a atender os requisitos descritos abaixo.
+Desenvolvimento de um processo de ETL com foco na disponibilização de dados de modo a atender os requisitos descritos abaixo.
 
 Esse teste deve avaliar a qualidade técnica na manipulacão de dados, otimizacão de performance, tratamento de qualidade e particionamento dos dados.
 
