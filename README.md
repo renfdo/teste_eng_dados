@@ -53,4 +53,4 @@ Apresentar um documento com a arquitetura proposta para execução desse projeto
  - Apresentação poderá ser feita na sua própria máquina. </br>
  - O projeto deve ser disponibilizado em um repositório git de sua prefêrencia desde que o avaliador tenha acesso.
 
-[dados]: ../dados/
+[dados]: ./dados/
