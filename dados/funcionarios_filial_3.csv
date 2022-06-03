@@ -1,0 +1,500 @@
+id;document;name;phoneNumber;birthDate;state;gender;filial
+1;72072384281;Srta. Lucicleide Nogueira;(93) 40478-5087;29-10-1963;Rio Grande do Norte;masculino;filial_3
+2;399.436.963-03;Cristiane Oliveira;+55 (31) 5681-1613;24-12-1986;Amazonas;;filial_3
+3;70553356127;Iarali Oliveira;(72) 1555-3616;17-01-1979;Rondônia;feminino;filial_3
+4;00612110796;Dr. Adauto Oliveira Jr.;(61) 6532-6617;23-05-1989;Minas Gerais;;filial_3
+5;48974582937;Lydia Franco;(43) 86976-5772;10-02-1966;RN;;filial_3
+6;56.607.660/3152-63;Sra. Tersildo Batista;(70) 73760-8099;04-03-1977;Sergipe;masculino;filial_3
+7;36321885530720;Romilda Oliveira;(24) 31801-1850;26-01-1970;MT;feminino;filial_3
+8;386.373.837-34;Suzana Batista;(14) 11050-9034;14-08-1984;SC;masculino;filial_3
+9;21468344129;Maciel Braga;+55 (33) 2983-4099;17-09-1966;MA;masculino;filial_3
+10;34624453085;Sra. Sr. Kiyoko Nogueira;+55 (67) 5357-7132;01-09-1972;Roraima;feminino;filial_3
+11;86250121595;Cristina Barros;(01) 6944-5921;05-02-1973;ES;;filial_3
+12;40444273301;Dr. Thalita Melo;+55 (27) 0934-8426;10-02-1968;AL;feminino;filial_3
+13;72744869341;Sra. Analice Moreira Filho;(45) 89792-7133;22-09-1974;BA;masculino;filial_3
+14;83231948401;Sra. Rachel Jr.;+55 (30) 6553-2551;23-04-1971;CE;feminino;filial_3
+15;21234856166;Dr. Kátia Barros;+55 (95) 8205-5468;28-07-1963;Pará;feminino;filial_3
+16;81.332.444/8256-64;Raimunda Melo Neto;(83) 18747-3131;22-04-1986;Mato Grosso;;filial_3
+17;23425308386;Aderbal Costa;+55 (84) 1765-3501;11-06-1975;Amapá;masculino;filial_3
+18;48764886862640;Dr. Valmir Carvalho;(43) 23808-6933;18-04-1982;Pernambuco;feminino;filial_3
+19;50452862000;Roges;+55 (98) 7262-2865;08-09-1981;SC;feminino;filial_3
+20;18764440613;Leticia Oliveira;(57) 65581-9084;22-10-1976;DF;feminino;filial_3
+21;53517859354;Dr. Amadeu Pereira;+55 (42) 8798-5989;16-06-1988;RR;;filial_3
+22;64439151515;Odirlei Braga;+55 (12) 2461-2736;17-02-1975;Rio Grande do Sul;masculino;filial_3
+23;58276885764;Sra. Sirlene Xavier Neto;(49) 0288-0362;07-01-1985;AM;feminino;filial_3
+24;47468634164326;Sra. Kazuhiro Souza;Fatores;20-10-1974;MS;feminino;filial_3
+25;28678932597;Cícero Melo;(23) 3015-2544;26-07-1984;Pernambuco;masculino;filial_3
+26;33364443002083;Josimar Silva Jr.;+55 (41) 6256-8707;08-11-1989;Rio Grande do Norte;feminino;filial_3
+27;12658943105;Milena Carvalho Neto;+55 (25) 8337-2504;16-03-1979;Santa Catarina;feminino;filial_3
+28;45030863168;Rinaldo Xavier;+55 (13) 4929-2145;14-12-1981;Rio Grande do Sul;feminino;filial_3
+29;854.105.333-48;Sra. Maurico Carvalho;(34) 8031-5732;17-04-1964;Mato Grosso do Sul;;filial_3
+30;855.874.262-62;Luanna Nogueira;(93) 0869-4496;19-02-1976;Acre;masculino;filial_3
+31;40036738590;Valéria;+55 (92) 1767-7849;12-04-1989;Goiás;feminino;filial_3
+32;23372129806;Sr. Rosilene;+55 (49) 1937-9969;14-12-1970;Santa Catarina;feminino;filial_3
+33;95784791311;Sra. Maisa Moreira;Mercados;09-06-1974;Amazonas;feminino;filial_3
+34;54216013821;Srta. Witney Xavier;+55 (48) 8136-8217;11-01-1981;Tocantins;feminino;filial_3
+35;76665539270;Cosmo Silva;(98) 9154-8441;09-01-1985;Rio Grande do Sul;feminino;filial_3
+36;123.307.477-64;Srta. Maeve;(94) 5316-8318;25-02-1969;RO;;filial_3
+37;371.598.778-29;Srta. Neide Reis;(15) 88391-8484;27-06-1976;ES;;filial_3
+38;20129121509;Sra. Miguel Batista;+55 (13) 9983-8988;03-12-1977;AP;masculino;filial_3
+39;42574561401211;Sra. Neci Silva;(22) 26290-0974;12-05-1964;GO;masculino;filial_3
+40;772.531.804-61;Tereza;+55 (09) 2952-4757;15-05-1985;Paraná;masculino;filial_3
+41;23186939607;Danilo Macedo Filho;+55 (79) 3137-0158;28-11-1962;Rio Grande do Sul;feminino;filial_3
+42;251.343.362-96;Giseli Melo Jr.;+55 (38) 7904-9548;13-10-1966;AL;masculino;filial_3
+43;68070732653314;Sra. Hanno Carvalho;+55 (63) 1771-1007;18-09-1965;RJ;feminino;filial_3
+44;40873210276600;Jovenal Santos;+55 (56) 2837-1221;01-01-1983;Mato Grosso do Sul;feminino;filial_3
+45;571.454.632-61;Dr. Claudete Moraes;(27) 50989-8387;28-09-1978;Goiás;feminino;filial_3
+46;05148179503;Fabiola Melo;(38) 7040-9934;24-01-1988;Espírito Santo;feminino;filial_3
+47;94561145460;Srta. Bruce Reis;(86) 00822-6053;02-06-1973;RJ;feminino;filial_3
+48;26161985500;Srta. Orandi Moraes Neto;(12) 40492-1030;03-05-1986;Espírito Santo;feminino;filial_3
+49;23212222719;Dr. Valdinei Franco;(70) 96229-1500;19-06-1966;MS;;filial_3
+50;904.463.135-72;Tomislav Braga;(99) 81516-2794;10-10-1969;SC;masculino;filial_3
+51;834.833.535-85;Domilson Moreira;+55 (34) 6770-5158;03-12-1987;Espírito Santo;feminino;filial_3
+52;378.623.486-80;Srta. Saikinia Xavier Jr.;+55 (28) 6657-0834;28-12-1965;ES;;filial_3
+53;30424363040338;Paola Albuquerque Filho;(38) 49397-7328;04-07-1977;DF;feminino;filial_3
+54;82583471872;Miriam Pereira Filho;(89) 8529-3569;17-02-1969;Alagoas;;filial_3
+55;27157669129;Leandra Franco;(67) 17814-6432;14-07-1969;Mato Grosso do Sul;feminino;filial_3
+56;18.274.535/0476-94;Srta. Alain Moreira Jr.;(41) 8940-2585;07-05-1964;SC;masculino;filial_3
+57;46856600242835;Sr. Edison Carvalho;(14) 9072-6062;27-04-1982;AP;feminino;filial_3
+58;01387435760;Dr. Caren Braga;(05) 9309-1575;21-12-1984;SC;masculino;filial_3
+59;12812767737180;Suzan;(93) 48581-6250;27-04-1970;Piauí;masculino;filial_3
+60;51820901610;Srta. Gersino Saraiva Neto;(02) 08155-1849;25-06-1980;Alagoas;;filial_3
+61;583.853.714-00;Sr. Munekazu Moraes;+55 (89) 0074-2416;08-05-1980;Espírito Santo;masculino;filial_3
+62;13.462.778/2434-90;Emilio Martins Filho Jr.;(98) 1304-5078;17-06-1987;MT;masculino;filial_3
+63;12156400224795;Bachir Martins Filho;(92) 2802-7595;03-11-1985;AP;feminino;filial_3
+64;108.283.121-25;Srta. Julian Silva;(07) 71820-4737;10-12-1980;Pernambuco;masculino;filial_3
+65;535.708.262-60;Graziela Carvalho;(41) 52957-1576;15-05-1977;PR;feminino;filial_3
+66;960.561.626-21;Edvaldo;+55 (41) 3610-3592;27-10-1970;Minas Gerais;masculino;filial_3
+67;95716720684;Joyce Neto;(34) 6035-2595;30-07-1985;PR;;filial_3
+68;83491815169;Anselmo Carvalho;+55 (98) 9416-0044;25-07-1968;MS;feminino;filial_3
+69;35513111020;Sra. Aílton Carvalho Neto;(43) 98594-6686;22-06-1979;São Paulo;masculino;filial_3
+70;212.753.291-01;Sra. Edinei Souza Jr.;(90) 9779-2835;06-06-1976;Goiás;feminino;filial_3
+71;14.566.501/3234-07;Rocio Jr.;(31) 34630-4119;21-09-1966;Minas Gerais;masculino;filial_3
+72;342.465.338-15;Leny Santos;(46) 0836-7980;07-12-1979;Maranhão;masculino;filial_3
+73;48659133277;Anatalia Martins;+55 (11) 2387-1663;05-06-1981;Mato Grosso do Sul;masculino;filial_3
+74;59844886120;Cláudio Moraes Filho;(52) 1570-6868;18-04-1971;Minas Gerais;masculino;filial_3
+75;668.524.106-33;Heloisa Albuquerque;(07) 16406-5034;10-09-1973;Rio Grande do Sul;feminino;filial_3
+76;63587225060;Rose Batista;(40) 93711-0549;20-05-1974;Goiás;feminino;filial_3
+77;04334157467;Melissa Braga Jr.;(03) 2187-8940;01-11-1967;BA;feminino;filial_3
+78;273.501.667-61;Heleno;(59) 32742-7046;20-01-1964;São Paulo;masculino;filial_3
+79;87123601086384;Cicero Santos;+55 (75) 4197-4692;05-06-1982;MA;masculino;filial_3
+80;65411891701;Li Silva Neto;+55 (29) 8220-1874;08-07-1986;Distrito Federal;feminino;filial_3
+81;056.707.545-14;Italo Carvalho;(27) 6277-0502;09-07-1979;PE;masculino;filial_3
+82;95517881840;Darcy Braga;+55 (20) 4187-2794;04-06-1971;RR;feminino;filial_3
+83;256.151.432-31;Srta. Elienai Moraes Neto;+55 (61) 9865-0286;14-06-1980;Ceará;masculino;filial_3
+84;146.673.349-75;Sra. Thaisa Moreira Filho;+55 (63) 5373-0708;19-08-1968;PI;masculino;filial_3
+85;324.459.233-36;Dr. Dr. Allysson Souza;(20) 6216-4423;26-10-1969;CE;feminino;filial_3
+86;846.118.956-61;Eustaquio Melo Filho;(70) 40844-9069;28-07-1988;Minas Gerais;;filial_3
+87;81735254015181;Martin Moraes Jr.;(19) 1199-1589;07-12-1974;PI;;filial_3
+88;53.632.450/6008-61;Praxedes;+55 (77) 5997-2974;12-10-1976;RS;masculino;filial_3
+89;25608177304;Sra. Nanci Souza;(87) 44565-7446;27-12-1974;Tocantins;;filial_3
+90;11.624.660/2802-60;Hector Moreira;(61) 89318-2259;05-01-1979;PI;feminino;filial_3
+91;01051382246578;Srta. Evely Costa;+55 (45) 6112-7454;12-07-1986;MS;masculino;filial_3
+92;356.941.424-89;Amando Saraiva Filho;(23) 89547-0523;02-07-1981;AM;masculino;filial_3
+93;46.478.674/2184-02;Hiromi Batista;(06) 3817-7499;05-06-1980;Minas Gerais;masculino;filial_3
+94;897.423.835-70;Marilene Souza;+55 (88) 4383-6025;07-06-1979;RO;feminino;filial_3
+95;739.870.613-83;Rosemeire Martins;(61) 36378-7866;26-02-1968;DF;masculino;filial_3
+96;27636440847784;Sr. Mariella Braga;+55 (92) 2831-7004;18-05-1978;Amapá;;filial_3
+97;23876268699;Sr. Marta Xavier Filho;(35) 5041-0077;14-05-1985;Rio Grande do Norte;masculino;filial_3
+98;37811939770;Dr. Roberson Carvalho;(64) 60134-4936;27-01-1975;Pará;feminino;filial_3
+99;61235767558;Maurivon;(56) 84308-4977;07-10-1976;Roraima;;filial_3
+100;92741777632;Marizete Neto;+55 (51) 2273-3869;16-06-1972;RO;;filial_3
+101;33683552794;Giovane Moreira Jr.;(09) 89878-3551;16-03-1985;ES;feminino;filial_3
+102;54871848604;Guido Macedo;+55 (99) 1958-3152;11-11-1983;CE;feminino;filial_3
+103;50128728000;Dr. Srta. Sady Santos Jr.;(74) 37843-2420;16-06-1987;PR;feminino;filial_3
+104;656.312.267-15;Alexandra;+55 (17) 2514-1398;20-08-1968;PE;masculino;filial_3
+105;536.106.737-70;Cláudio Melo Neto;(24) 87641-3953;05-04-1962;Mato Grosso;feminino;filial_3
+106;90078496110;Sr. Bruno Batista Neto;(18) 1395-6891;20-01-1976;PE;masculino;filial_3
+107;54127681055;Viviana Melo;+55 (46) 2817-0536;25-12-1965;Paraná;feminino;filial_3
+108;03821330624261;Sr. Hilton Barros;(52) 68029-7470;23-07-1974;Sergipe;masculino;filial_3
+109;343.072.486-43;Olimpio;Marca;01-04-1968;Bahia;masculino;filial_3
+110;61941173039;Wanderli Franco Jr.;(11) 61941-8269;01-08-1963;Amapá;masculino;filial_3
+111;72304544762;Clelio Melo;+55 (91) 5862-1670;24-03-1977;Amapá;;filial_3
+112;25328767195;Ira Costa;(25) 0399-1081;27-08-1978;SP;feminino;filial_3
+113;78753088451896;Emanoel Santos;+55 (51) 4589-1567;05-12-1963;RN;feminino;filial_3
+114;691.420.798-45;Wladimir Oliveira;(93) 00904-7427;23-06-1965;Pará;;filial_3
+115;374.574.583-36;Munekazu Nogueira Neto;(56) 5085-7236;27-10-1965;AC;masculino;filial_3
+116;71008223514;Ernane;+55 (29) 9732-4267;14-12-1986;RR;;filial_3
+117;37.475.155/6116-65;Mauro Santos;+55 (79) 5929-6134;19-12-1973;Rio Grande do Sul;masculino;filial_3
+118;181.672.488-28;Dr. Durvalino Pereira Filho;+55 (42) 8452-7470;23-12-1986;DF;masculino;filial_3
+119;51317661095;Dr. Jiro Silva;(58) 1144-7021;19-12-1970;Goiás;feminino;filial_3
+120;221.850.513-42;Zdravko Melo;(95) 6447-7966;17-05-1974;PA;masculino;filial_3
+121;12582769509;Srta. Marcel Albuquerque Jr.;(06) 60697-3613;25-03-1970;AL;feminino;filial_3
+122;42121780484868;Juscelino;+55 (25) 6655-6395;13-03-1989;Rio Grande do Sul;masculino;filial_3
+123;08928221471;Nadir Macedo;(74) 4453-3810;24-08-1963;MS;feminino;filial_3
+124;11178662209;Sra. Valeria Souza Jr. Jr.;+55 (57) 8115-2030;29-09-1987;AM;feminino;filial_3
+125;582.797.166-96;Idalia Martins Jr.;(72) 5542-5798;01-01-1988;GO;masculino;filial_3
+126;87467056354;Orozino Souza;(24) 9692-1189;18-05-1983;AC;feminino;filial_3
+127;554.258.126-98;Dr. Mercedes Albuquerque;(20) 95270-2445;02-03-1981;MS;masculino;filial_3
+128;63125108675;Janete Moraes;(37) 71563-9721;08-07-1965;PA;feminino;filial_3
+129;86346775105666;Sr. Vera Carvalho;(30) 59653-7552;23-12-1984;PB;masculino;filial_3
+130;99372719757;Dinês Costa;(61) 4401-4035;12-02-1973;MT;;filial_3
+131;518.152.237-82;Hipolito;(74) 7548-3548;29-12-1976;SC;feminino;filial_3
+132;74730760458707;Srta. Raul Xavier Filho;(43) 4297-1478;14-09-1980;AP;masculino;filial_3
+133;75831025888;Ken Santos Neto;+55 (50) 8667-1273;26-03-1987;Rondônia;feminino;filial_3
+134;16.365.670/2453-30;Augusto Saraiva;(10) 78546-0547;20-08-1982;Goiás;feminino;filial_3
+135;74843717690;Carolina Macedo;+55 (76) 0766-9027;03-01-1967;AC;masculino;filial_3
+136;53365116842;Braz Albuquerque;+55 (26) 2242-7717;19-03-1966;Rio de Janeiro;feminino;filial_3
+137;66508171813232;Sra. Elcio;(73) 43052-3649;03-07-1962;RJ;;filial_3
+138;07.887.438/2680-70;Telma Saraiva Filho;+55 (45) 1187-2123;03-03-1968;Rio Grande do Norte;feminino;filial_3
+139;08506010677865;Dr. Zuleno Macedo;(06) 25096-6007;11-06-1966;ES;feminino;filial_3
+140;16147345434293;Manuel Neto;(01) 99015-4502;14-03-1986;Minas Gerais;feminino;filial_3
+141;63362523820081;Odisseus Carvalho;+55 (00) 2211-4626;29-09-1965;Mato Grosso;feminino;filial_3
+142;75886816593;Sr. Viviana Albuquerque;Mobilidade;01-06-1964;São Paulo;feminino;filial_3
+143;80366368308403;Laércio Moraes;(20) 0655-8828;01-08-1983;DF;feminino;filial_3
+144;16476347330;Sra. Sra. Vicente Silva;(80) 6205-4511;08-03-1971;ES;masculino;filial_3
+145;76515233244497;Dr. Sidclei;(43) 83891-4025;21-01-1987;Rondônia;;filial_3
+146;37247865148;Dalmiro Moreira Neto;(60) 65852-1920;23-05-1976;SP;masculino;filial_3
+147;48.632.057/6643-05;Ramon Saraiva Filho;(23) 27878-7823;24-02-1969;Rio Grande do Norte;masculino;filial_3
+148;39409427231;Sr. Gerd Costa;(67) 9366-9554;06-02-1983;DF;masculino;filial_3
+149;27.615.002/2135-60;Renate Reis Jr.;(06) 97025-6984;04-03-1964;Amazonas;feminino;filial_3
+150;16075536191;Benedicto;(93) 1424-7341;08-08-1965;Goiás;masculino;filial_3
+151;28313634111;Eber Souza;(19) 20733-7258;23-08-1974;PA;masculino;filial_3
+152;70122203707205;Maraci Silva Jr.;(19) 7516-6385;01-01-1978;AM;feminino;filial_3
+153;88542186508;Srta. Fábio Batista Neto;(52) 4504-8749;24-07-1968;Acre;feminino;filial_3
+154;146.318.832-35;Sra. Barbara Reis;(70) 4305-7652;19-12-1973;SP;masculino;filial_3
+155;58728733959;Thereza Jr.;+55 (31) 9821-6377;22-10-1965;Ceará;feminino;filial_3
+156;542.617.672-87;Natal Saraiva Filho;(35) 46693-7981;24-08-1971;Sergipe;masculino;filial_3
+157;17481878722;Sra. Adnilson Martins;+55 (15) 3299-7679;09-06-1977;Paraíba;feminino;filial_3
+158;27976470418;Celmo;(72) 45735-1552;13-11-1987;São Paulo;masculino;filial_3
+159;97338009376;Sr. Lionson Reis;(73) 21624-7732;19-03-1964;AC;feminino;filial_3
+160;20394855973;Danielle Martins;+55 (34) 7269-2739;10-06-1989;PI;masculino;filial_3
+161;57897733467;Amaro Nogueira;+55 (28) 6623-6096;10-07-1972;Maranhão;feminino;filial_3
+162;63076274767;Altaide;+55 (84) 4153-4832;13-08-1982;Alagoas;masculino;filial_3
+163;34184011470;Sr. Francisco Carvalho;(05) 86633-7410;26-01-1970;Ceará;feminino;filial_3
+164;87291186978;Sr. Edval;(46) 73930-6627;19-01-1988;Rio Grande do Norte;masculino;filial_3
+165;55118469457;Sr. Juarez;(61) 4641-2584;03-02-1976;RJ;;filial_3
+166;56573460551470;Sr. Roselia Albuquerque Filho;Comunicações;08-11-1973;AL;masculino;filial_3
+167;21.057.777/3328-31;Vinícius Franco;(63) 2662-1670;13-09-1971;AM;;filial_3
+168;89244044587;Elisabeth Santos Neto;(45) 07786-6823;22-08-1976;MA;;filial_3
+169;45854049619;Dr. Thami Martins;(10) 4511-6100;04-10-1969;Bahia;feminino;filial_3
+170;70728288346;Alessandra;+55 (81) 5961-0547;27-04-1969;ES;masculino;filial_3
+171;15153514520743;Dr. Sr. Osorio Moraes;(44) 2367-1293;15-10-1962;Paraíba;feminino;filial_3
+172;175.527.684-28;Denise;Comunicações;27-03-1977;PE;feminino;filial_3
+173;04158815444;Elizabeth Filho;+55 (02) 0082-2981;17-03-1967;AL;masculino;filial_3
+174;16003760060500;Enaldyê Reis Jr.;+55 (10) 6531-1172;04-06-1989;Acre;masculino;filial_3
+175;62624221530;Eloizo Filho;(59) 96139-2297;28-07-1989;Pará;;filial_3
+176;79179668283;Dr. Roselly Macedo;(30) 47450-1094;31-08-1988;RS;masculino;filial_3
+177;20639043674;Bernadete Martins;(84) 9851-6903;24-04-1969;Alagoas;masculino;filial_3
+178;66118047731;Srta. Elizete Martins Neto;(36) 2303-2834;15-07-1968;CE;feminino;filial_3
+179;44711992693;Srta. Robison Silva Filho;+55 (42) 7005-9201;13-10-1981;Mato Grosso;masculino;filial_3
+180;43111684890;Dr. Alfredo Costa;(24) 63305-3354;24-05-1972;AM;;filial_3
+181;152.849.396-62;Jesus;+55 (25) 7333-2036;13-05-1983;Mato Grosso do Sul;;filial_3
+182;41447938690;Dr. Magali;(81) 16315-0504;30-07-1965;Mato Grosso;masculino;filial_3
+183;71223630820;Flavia Moraes;(56) 1977-0007;20-12-1977;RR;;filial_3
+184;51311612319;Iracy Reis;(16) 0086-5599;15-10-1967;São Paulo;feminino;filial_3
+185;70808863722634;Srta. Germino Santos Neto;+55 (52) 4187-6342;14-01-1977;Amazonas;feminino;filial_3
+186;06012653458351;Clenio Franco Filho;+55 (15) 9941-3812;05-09-1969;MS;masculino;filial_3
+187;41910262161;Fusako Carvalho Neto;(24) 0733-6273;20-07-1965;Tocantins;feminino;filial_3
+188;730.166.607-17;Admir Silva Jr.;+55 (38) 3875-6259;09-09-1976;RN;masculino;filial_3
+189;42441572040;Averlandson Moreira;+55 (24) 2359-3610;28-08-1966;AM;feminino;filial_3
+190;49152225518;Glorineide Souza;(11) 86934-6735;05-11-1973;MT;feminino;filial_3
+191;669.856.726-47;Sra. Roselia Macedo;(83) 3860-2270;10-06-1965;PB;feminino;filial_3
+192;914.422.823-63;Srta. Altavir;(71) 0619-3644;19-01-1984;Mato Grosso;masculino;filial_3
+193;05385057085140;Olga Silva;(20) 8020-2479;14-11-1962;Rio de Janeiro;masculino;filial_3
+194;14744347037;Julia Batista;+55 (06) 8142-1127;15-07-1972;Santa Catarina;feminino;filial_3
+195;346.788.306-00;Gleisson Xavier;+55 (54) 7183-4687;12-12-1987;Rio Grande do Norte;masculino;filial_3
+196;45388218457;Ezequiel Souza Filho;Operações;21-08-1964;BA;masculino;filial_3
+197;06.485.342/6878-48;Srta. Hercilio;(59) 7220-4548;02-09-1988;MT;feminino;filial_3
+198;28787415798;Dioneia Costa;(58) 4516-2649;29-12-1978;AC;masculino;filial_3
+199;64473873382;Izilda Martins Jr.;(62) 24565-5773;26-05-1970;RS;masculino;filial_3
+200;53472247541;Sr. Srta. Claudionor Braga Filho;+55 (05) 0740-3967;17-03-1982;Goiás;masculino;filial_3
+201;044.784.116-54;Dácio Moreira;+55 (28) 5929-0881;02-09-1974;ES;masculino;filial_3
+202;75443636510;Sr. Elenice Silva;(82) 36955-2718;16-11-1972;Piauí;masculino;filial_3
+203;16862343344295;Luciana Reis Jr.;+55 (47) 4230-7826;23-08-1970;Rondônia;masculino;filial_3
+204;41344231551;Monica Saraiva;+55 (04) 0361-7418;24-12-1981;São Paulo;masculino;filial_3
+205;89949756243;Cassia Batista;+55 (60) 9512-5757;03-03-1969;Santa Catarina;;filial_3
+206;78846782410;Srta. Rute Melo;(22) 7528-8040;01-10-1989;SC;masculino;filial_3
+207;882.534.794-41;Alexandre Jr.;(34) 8586-5736;22-01-1986;GO;masculino;filial_3
+208;185.852.308-78;Tereza Silva;+55 (27) 3107-6854;22-09-1968;Pernambuco;masculino;filial_3
+209;54650535033574;Dr. Haroldo;(87) 5269-2237;15-05-1982;Mato Grosso do Sul;masculino;filial_3
+210;102.762.631-97;Damião Silva;(12) 6300-3364;09-11-1974;ES;masculino;filial_3
+211;92238476644;Srta. Valnir Santos;(80) 05724-1337;28-03-1967;Mato Grosso do Sul;feminino;filial_3
+212;70358334726754;Osvaldo Carvalho;(03) 89760-6917;27-01-1965;Sergipe;feminino;filial_3
+213;564.723.376-75;Joyce Moreira Jr.;(71) 6085-9674;09-02-1987;BA;feminino;filial_3
+214;70516046073701;Nadja Costa;(42) 9175-3874;23-12-1965;RO;feminino;filial_3
+215;71.551.461/0308-65;Sr. Lara Pereira;(48) 73403-1707;06-10-1964;Minas Gerais;feminino;filial_3
+216;34129280384;Sr. Lauro Braga;+55 (47) 0369-7082;05-07-1977;Ceará;masculino;filial_3
+217;11304566250;Gioliano Saraiva;(34) 4994-3582;19-02-1973;MT;feminino;filial_3
+218;76490097427;Uilton Silva;(27) 1488-9022;02-08-1977;RN;;filial_3
+219;258.626.958-69;Marilene Nogueira Jr.;(87) 5447-1076;15-12-1973;BA;masculino;filial_3
+220;647.058.155-21;Edmar Moreira;(28) 9905-0093;19-01-1988;ES;;filial_3
+221;21627950788;Sr. Ana Costa Neto;(45) 20671-6185;16-03-1976;AC;feminino;filial_3
+222;42446816550;Nivon Silva Jr.;(46) 3011-7575;24-03-1964;Mato Grosso do Sul;feminino;filial_3
+223;65336758848115;Dr. Vilma Martins;Comunicações;11-06-1975;PR;masculino;filial_3
+224;13621512896;Nessim Braga;+55 (14) 4237-4905;21-02-1963;RR;masculino;filial_3
+225;85534845774131;Osvalton Franco;+55 (71) 1723-2769;31-01-1964;Rio de Janeiro;feminino;filial_3
+226;40444662334383;Sr. Vivian Souza;(14) 14263-1296;18-09-1971;Espírito Santo;masculino;filial_3
+227;57.354.168/3213-42;Oswaldo Albuquerque;(91) 0630-8350;13-01-1969;Ceará;masculino;filial_3
+228;87446802001422;Sr. Sr. Mikhael Pereira;(67) 21709-5131;09-04-1972;Paraíba;masculino;filial_3
+229;236.240.547-83;Dalton Costa;(66) 7281-4140;28-12-1974;Pernambuco;masculino;filial_3
+230;87584200451;Marília Costa Filho;(66) 01838-1907;14-04-1989;Alagoas;feminino;filial_3
+231;438.974.845-95;Deusimar Melo Neto;(26) 6813-5902;17-03-1969;MS;masculino;filial_3
+232;63825548012873;Amanda Batista Neto Jr.;+55 (07) 1287-6772;07-01-1975;Pernambuco;masculino;filial_3
+233;96168181717;Srta. Nello Martins Filho;(48) 5780-0175;30-10-1962;PE;masculino;filial_3
+234;06.634.036/5836-13;Vinicio Silva;(79) 49576-2884;25-02-1969;Distrito Federal;masculino;filial_3
+235;57543062100;Sra. Anne Franco Filho;+55 (73) 0694-7896;06-12-1965;Sergipe;feminino;filial_3
+236;10593482255;Guinel Batista Filho;(94) 78796-6767;29-08-1980;SP;feminino;filial_3
+237;18361717498;Jarbas Xavier Filho;(04) 36303-2934;03-07-1968;Ceará;feminino;filial_3
+238;08051757600733;Gabrielle Moraes;(33) 09492-8789;03-03-1969;Distrito Federal;feminino;filial_3
+239;16861857756176;Srta. Sr. Tomiko Albuquerque;(56) 16070-2759;22-05-1982;CE;;filial_3
+240;261.814.702-20;Dr. Salin Souza;+55 (40) 7276-7625;18-03-1979;MS;feminino;filial_3
+241;71735229270;Sr. Nicolau Silva;(72) 06331-2213;04-07-1968;Rio Grande do Norte;feminino;filial_3
+242;11163348600;Zenaide;(17) 79910-1322;12-06-1986;Sergipe;;filial_3
+243;098.654.186-90;Jeova Nogueira Neto;+55 (34) 0243-9767;19-07-1981;Goiás;masculino;filial_3
+244;463.144.545-90;Eidi Santos;+55 (18) 6083-7749;24-04-1970;Goiás;masculino;filial_3
+245;38069048042;Sra. Adenir Pereira Filho;(72) 8183-3263;19-12-1970;BA;masculino;filial_3
+246;45225840215634;Dr. Edevado Nogueira Filho;(63) 24818-8691;19-01-1989;Paraná;masculino;filial_3
+247;15637403899;Sra. Cirene Melo;(34) 08584-8661;07-05-1962;Rio Grande do Norte;feminino;filial_3
+248;16078405535;Andreas Santos Jr.;+55 (00) 1515-8821;02-11-1977;SC;masculino;filial_3
+249;21.884.087/4720-03;Clovis;+55 (24) 0949-2634;23-08-1982;SP;;filial_3
+250;47.422.806/7077-15;Dr. Dejair Pereira;+55 (18) 5869-4253;08-04-1968;Goiás;masculino;filial_3
+251;59656500199;Duarte Xavier;+55 (90) 6107-7490;08-07-1963;Roraima;masculino;filial_3
+252;636.420.306-02;Nidia Carvalho Jr.;(31) 0772-2247;17-05-1986;PI;;filial_3
+253;77883175432;Demétrio Filho;+55 (32) 5425-5712;08-02-1964;Roraima;;filial_3
+254;48667764710;Roberio Costa;(34) 6674-1673;03-01-1974;Sergipe;masculino;filial_3
+255;32453268074;Carmem Pereira;(94) 0643-1630;05-04-1969;Roraima;feminino;filial_3
+256;658.090.315-52;Ronilton Batista;+55 (32) 1324-5854;24-07-1968;RN;feminino;filial_3
+257;76027467754;Ramirez Reis Jr.;(64) 7408-4201;25-05-1984;RR;masculino;filial_3
+258;31281357200;Bruna Reis Filho;(63) 98290-5363;16-12-1973;Paraíba;masculino;filial_3
+259;09290947276;Joel Nogueira Neto;(54) 31482-6393;04-10-1987;Roraima;feminino;filial_3
+260;50343633827300;Dr. Eunice Barros;(91) 9877-7400;20-06-1976;Rondônia;feminino;filial_3
+261;18451214142;Cyrus Carvalho Filho;+55 (50) 6202-0327;21-02-1984;Acre;masculino;filial_3
+262;714.243.423-68;Dr. Dan Moraes;(29) 39430-6060;15-06-1985;Roraima;feminino;filial_3
+263;743.477.646-34;Srta. Iracy Franco;(94) 37543-5870;03-08-1964;MT;masculino;filial_3
+264;33486874650103;Srta. Attilio Melo;(72) 1386-1775;05-02-1963;PB;feminino;filial_3
+265;14452665209;Dr. Jacob Nogueira Neto;(96) 0772-4159;15-01-1970;Acre;feminino;filial_3
+266;70.100.452/7602-73;Edmundo Santos Filho Neto;+55 (66) 3873-3813;20-03-1972;Piauí;feminino;filial_3
+267;64.271.481/6822-10;Srta. Kelson Carvalho Neto Filho;(48) 7633-5551;29-01-1981;Acre;;filial_3
+268;55805150816;Teófilo;+55 (75) 7910-0233;18-10-1969;PE;;filial_3
+269;29108121117;Harumi Franco;(82) 63048-7383;31-12-1966;MT;feminino;filial_3
+270;19662658246;Ronivom Pereira Neto;(74) 5242-0535;25-05-1989;Rio de Janeiro;feminino;filial_3
+271;11533197725;Alide Carvalho Jr.;(80) 6787-3829;06-11-1972;Bahia;feminino;filial_3
+272;48273162362;Sr. Dilson Melo;Qualidade;14-01-1967;Tocantins;feminino;filial_3
+273;79444413667;Gláucio Albuquerque;+55 (15) 6624-9862;05-01-1978;RS;masculino;filial_3
+274;43956337301;Sra. Martha Santos;(72) 81966-9865;14-01-1982;Mato Grosso;feminino;filial_3
+275;78761853631;Srta. Eunice Carvalho;(03) 8096-7887;23-03-1975;AC;;filial_3
+276;26176845394;Srta. Laís Saraiva Jr.;(25) 29377-8181;26-05-1965;GO;;filial_3
+277;18533552750;Saulo Xavier Neto;(89) 83144-7625;03-11-1972;DF;feminino;filial_3
+278;306.534.326-66;Srta. Cassius Costa;(06) 68493-1707;14-04-1986;PR;masculino;filial_3
+279;59151492199;Sra. Sr. Gerusa Batista;(26) 44524-3508;05-04-1964;Bahia;masculino;filial_3
+280;40.156.183/7840-57;Sr. Nilda;+55 (71) 7890-9941;13-01-1982;Roraima;masculino;filial_3
+281;117.310.378-30;Gerardo Pereira;+55 (95) 4425-2581;15-02-1971;MT;masculino;filial_3
+282;80.424.433/3782-89;Delmar Franco;(89) 60988-9242;27-03-1964;PE;masculino;filial_3
+283;34676082167234;Cristiane Melo;(44) 03551-8789;19-04-1963;MS;;filial_3
+284;78636773431;Munekazu Costa;(17) 8636-6835;16-06-1978;PI;feminino;filial_3
+285;33502923728;Dr. Elvira Moraes;(24) 2567-0852;24-01-1972;Paraná;masculino;filial_3
+286;31396723145;Srta. Laine Melo;(48) 86842-4796;10-02-1968;AL;;filial_3
+287;94339645940;Auristela Souza Filho;(37) 55809-7486;10-11-1975;RJ;feminino;filial_3
+288;08201231160881;Sr. Enithevaldo Jr.;(83) 0445-4204;15-02-1987;Paraíba;feminino;filial_3
+289;44062421470;Welson Macedo Filho;Funcionalidade;16-03-1980;Roraima;;filial_3
+290;48293271892;Srta. Alexandro Souza;(26) 22171-8254;24-04-1977;PE;masculino;filial_3
+291;46622341826;Chiun Carvalho Jr.;(98) 54029-2357;20-12-1971;Mato Grosso do Sul;masculino;filial_3
+292;59724293149;Armindo Carvalho Neto Neto;(88) 3722-3672;16-07-1985;AL;masculino;filial_3
+293;22317326882;Mark Saraiva Jr. Filho;+55 (20) 7719-6353;30-04-1981;AL;feminino;filial_3
+294;82167876939;Dr. Elislabelle Macedo;+55 (26) 0003-3225;18-01-1990;MS;masculino;filial_3
+295;08467966602;Sr. Estevao Santos;(16) 7938-3196;11-04-1965;AC;;filial_3
+296;48625431461;Sr. Marily Neto;(06) 24150-9419;22-03-1986;Sergipe;feminino;filial_3
+297;65606038628009;Sr. Tarcísio Moreira;(08) 93877-8948;30-10-1966;Pará;feminino;filial_3
+298;74659834956;Beno;+55 (12) 3658-6310;15-07-1981;PB;;filial_3
+299;113.362.611-45;Sr. Jirinaldo Moreira;+55 (33) 8281-0789;22-03-1985;Rio Grande do Norte;masculino;filial_3
+300;63154381481;Fábio;(06) 6850-1217;17-06-1975;Pará;masculino;filial_3
+301;72472769164;Eneida Braga;(93) 4854-4782;04-09-1965;Bahia;feminino;filial_3
+302;169.145.249-12;Dr. Adão Reis;(72) 98347-0525;26-09-1989;Sergipe;;filial_3
+303;14825654628605;Lenilso Martins;(24) 47428-9182;04-01-1963;MT;feminino;filial_3
+304;64.475.674/1068-96;Otávio Melo;(94) 90016-9801;06-05-1988;Alagoas;feminino;filial_3
+305;35622288800;Márcia Martins;+55 (54) 5313-3449;29-12-1962;RO;masculino;filial_3
+306;18202062400085;Ludyenne Martins Neto;Marca;23-10-1988;Tocantins;masculino;filial_3
+307;48131034283852;Sr. Elza Oliveira Jr.;(94) 9866-1508;08-05-1965;PR;masculino;filial_3
+308;20513038949;Srta. Sebastiao Nogueira Jr.;(34) 15996-8340;09-09-1966;Goiás;feminino;filial_3
+309;866.275.489-92;Dione Pereira;(52) 71920-6944;24-12-1977;PI;feminino;filial_3
+310;81751716260;Mercedes Xavier;(61) 26378-5161;31-01-1971;Espírito Santo;masculino;filial_3
+311;29153174453;Conceição Moreira Neto Jr.;(59) 01345-9998;13-01-1979;Distrito Federal;masculino;filial_3
+312;56866974186;Marinoel Pereira Neto;(72) 33144-4735;22-08-1969;Rio Grande do Norte;feminino;filial_3
+313;74.505.033/1607-55;Daniella Barros Filho Filho;+55 (24) 9779-0811;20-09-1975;MT;masculino;filial_3
+314;55270124459;Inacio Batista Jr. Neto;+55 (89) 8572-8661;04-12-1989;AL;masculino;filial_3
+315;267.768.744-50;Gastão Pereira;+55 (87) 1650-6208;09-08-1969;Paraíba;feminino;filial_3
+316;15623129790;Cibele Batista Jr.;(31) 92991-5886;26-07-1968;SP;feminino;filial_3
+317;41.157.382/7311-94;Dr. Claudia Neto;(42) 7385-8527;25-08-1988;Santa Catarina;feminino;filial_3
+318;17804045021623;Rozania;+55 (19) 5279-9417;15-11-1969;RN;feminino;filial_3
+319;46221587742816;Jirinaldo Saraiva Filho;+55 (88) 3408-3796;19-12-1965;MA;feminino;filial_3
+320;33816548296;Julie Moraes Filho;(35) 37751-4029;15-09-1966;Amazonas;feminino;filial_3
+321;648.445.776-03;Ananias Moraes;+55 (21) 4215-3078;12-08-1975;Alagoas;masculino;filial_3
+322;27433714472;Thaíne Franco;(76) 4779-9957;10-08-1975;DF;masculino;filial_3
+323;984.046.322-51;Walid Oliveira;+55 (90) 8447-8554;03-05-1971;PE;;filial_3
+324;77219122535;Dr. Christianne Carvalho;(60) 04685-6275;02-07-1979;Santa Catarina;masculino;filial_3
+325;533.234.447-36;Gil Saraiva Filho Neto;(40) 33533-0805;30-11-1964;PB;feminino;filial_3
+326;447.224.732-18;Virgínia Reis;(09) 2359-0571;16-10-1967;Paraná;masculino;filial_3
+327;423.162.784-34;Sérgio Silva Filho;A infraestrutura;31-03-1965;Tocantins;masculino;filial_3
+328;334.457.428-04;Srta. Edileuza Carvalho Jr.;Táticas;02-10-1971;Goiás;masculino;filial_3
+329;84630771450;Candida;(73) 16722-8251;04-04-1980;RN;feminino;filial_3
+330;41.271.656/8728-24;Waldomiro Batista Neto;(89) 3388-9363;06-04-1970;Maranhão;feminino;filial_3
+331;78524422343;Sr. Djaci Albuquerque Filho;(69) 09971-5829;12-08-1970;Alagoas;;filial_3
+332;49274471386;Simao Albuquerque;(22) 7360-8413;24-04-1987;Mato Grosso do Sul;masculino;filial_3
+333;37473360683250;Sany Santos;(02) 45397-0982;08-09-1963;ES;masculino;filial_3
+334;496.373.220-35;Sra. Charles Oliveira Neto;+55 (97) 4340-4008;21-05-1986;Acre;masculino;filial_3
+335;277.971.962-14;Damaris Martins Filho;+55 (75) 2159-9093;22-09-1985;DF;feminino;filial_3
+336;386.978.733-39;Annibal;(19) 26398-6357;12-12-1979;AM;feminino;filial_3
+337;77247242701;Sr. Ruberval Oliveira Jr.;(29) 69452-0566;12-12-1968;Mato Grosso do Sul;masculino;filial_3
+338;55452065822;Dianary;(75) 1871-3318;27-09-1982;Alagoas;feminino;filial_3
+339;24986549847;Thierry Filho;+55 (64) 6296-7677;22-01-1990;São Paulo;masculino;filial_3
+340;28184354630;Sr. Daridio Macedo;+55 (58) 4898-2072;15-11-1973;Alagoas;feminino;filial_3
+341;17023483268;Thereza;(81) 4123-4479;30-08-1975;SC;masculino;filial_3
+342;54085974319;Cleomar Barros Filho;(39) 35282-7738;30-05-1964;PR;masculino;filial_3
+343;328.246.711-73;Sra. Christhianne Souza;+55 (13) 1055-1786;04-11-1975;GO;masculino;filial_3
+344;74360574720;Glaucia Oliveira;+55 (95) 1199-4862;01-04-1971;Minas Gerais;;filial_3
+345;70240242831;Sérvio Braga Jr.;+55 (13) 1834-0040;03-12-1986;Piauí;masculino;filial_3
+346;64.704.585/4142-69;Daridio;+55 (75) 4240-2899;10-04-1967;Pará;;filial_3
+347;54771877602;Larissa Nogueira Jr.;+55 (50) 9799-6957;23-04-1989;Pernambuco;feminino;filial_3
+348;41315066120137;Mércia Souza;+55 (55) 5587-4194;01-04-1968;RR;feminino;filial_3
+349;51.363.160/2370-63;Sérgio Albuquerque Jr.;+55 (33) 4476-2433;21-07-1984;MT;feminino;filial_3
+350;42585783804;Yolimar Costa;(06) 97393-1812;07-12-1980;RS;feminino;filial_3
+351;11530834188841;Sra. Rosimari Oliveira Filho;(58) 8690-3117;12-07-1977;DF;masculino;filial_3
+352;64816152830;Srta. Elton;(31) 6624-8798;17-03-1963;Espírito Santo;masculino;filial_3
+353;14342835266;Elenita Nogueira;(80) 3544-6828;17-05-1983;RN;masculino;filial_3
+354;222.638.685-85;Martelenes Barros;+55 (70) 1601-1108;12-02-1985;Minas Gerais;feminino;filial_3
+355;77561410431030;Srta. Soraya Carvalho;(80) 7223-5963;06-10-1986;Mato Grosso;masculino;filial_3
+356;083.570.266-99;Aminadab Costa Jr.;+55 (49) 3695-5539;12-04-1966;São Paulo;feminino;filial_3
+357;48876447369;Fábio Moraes;(02) 2097-9015;25-04-1967;Bahia;masculino;filial_3
+358;531.961.114-58;Yanina Nogueira;(43) 8386-9654;25-02-1985;Mato Grosso;feminino;filial_3
+359;11047666224494;Dr. Sonia Pereira Neto;+55 (99) 2118-3593;20-09-1984;PA;;filial_3
+360;02724366239;Lamarque Reis Jr.;(93) 3657-8651;11-05-1974;Sergipe;masculino;filial_3
+361;81151662437;Sr. Vania Santos;(51) 53134-9056;10-10-1973;Acre;masculino;filial_3
+362;64313374760;Dr. Edmar;(49) 88009-2807;29-02-1988;Pernambuco;masculino;filial_3
+363;264.877.875-66;Maria Albuquerque;(85) 7009-1590;30-08-1977;São Paulo;;filial_3
+364;15307083261360;Srta. Dijosilene Franco Filho;(67) 40843-1089;09-12-1987;AM;feminino;filial_3
+365;80.250.867/8631-75;Claudir Costa;+55 (41) 4635-2309;19-05-1964;Rio Grande do Norte;masculino;filial_3
+366;46852827138665;Sr. Graziela Martins;(63) 79059-3822;11-01-1983;MT;masculino;filial_3
+367;47258129430;Dr. Jasper;+55 (67) 8355-0999;07-09-1965;Sergipe;masculino;filial_3
+368;88157835127;Sra. Dr. Kélvia Santos;(32) 78156-8101;01-09-1968;Santa Catarina;masculino;filial_3
+369;68771978445;Etrus;(20) 1557-4680;17-10-1988;Maranhão;;filial_3
+370;372.762.188-56;Moises Xavier;+55 (63) 9007-0040;04-08-1962;Amazonas;masculino;filial_3
+371;31157215874;Geisa Moreira;(56) 2598-0538;21-06-1965;PA;feminino;filial_3
+372;204.376.268-06;Wagton Macedo Filho;(42) 2330-2092;14-01-1965;Tocantins;masculino;filial_3
+373;42030229164;Sr. Decio Santos;+55 (23) 2517-0992;04-01-1975;Acre;masculino;filial_3
+374;02354813534754;Quimie Batista Neto;+55 (31) 6651-8118;09-03-1979;Pernambuco;;filial_3
+375;33787715051180;Carla Saraiva;(71) 8791-5187;07-01-1973;Amapá;feminino;filial_3
+376;447.118.161-00;Averlandson Carvalho;+55 (69) 2516-5500;14-08-1983;BA;feminino;filial_3
+377;87481560430872;Cleide Nogueira;(10) 6577-7652;06-09-1967;AM;feminino;filial_3
+378;477.122.358-05;Iarali Carvalho;(88) 93902-9723;09-12-1970;Bahia;masculino;filial_3
+379;42722355590;Cibele;+55 (30) 9005-9930;14-06-1983;AM;feminino;filial_3
+380;07.647.586/1117-03;Anderson Pereira Filho;(02) 1618-5539;31-10-1975;GO;masculino;filial_3
+381;62967158704;Clelber Martins Jr.;+55 (91) 7716-7683;14-08-1979;AC;masculino;filial_3
+382;21546864117536;Jiucelia Santos;+55 (25) 9180-5033;08-10-1964;RN;masculino;filial_3
+383;56851287625;Sra. Dr. Geni Costa;(28) 4916-6176;20-12-1980;Amapá;;filial_3
+384;15723155636;Sra. Elenice Xavier Jr.;(48) 9969-3028;24-06-1989;RO;feminino;filial_3
+385;68586315346;Dr. Tereza Albuquerque;Integração;22-05-1966;SC;masculino;filial_3
+386;04666324526;Sebastiana Pereira;+55 (55) 7167-2026;07-04-1974;GO;masculino;filial_3
+387;22779765399;Dr. Souza Reis;(74) 82366-1092;02-04-1986;Ceará;masculino;filial_3
+388;31815212802;Marie Martins;+55 (02) 3790-1383;12-03-1985;MA;feminino;filial_3
+389;55754185522401;Sr. Larissa Silva;+55 (75) 0827-9579;07-10-1989;Rio Grande do Norte;masculino;filial_3
+390;71322768404;Renilda Souza;(66) 2092-9240;21-06-1971;AL;feminino;filial_3
+391;76867867650;Karine Moreira;(26) 11403-2603;09-04-1987;AM;feminino;filial_3
+392;06041911895;Lorena Costa;(56) 49671-8630;10-02-1962;MA;feminino;filial_3
+393;98277263236;Jozivaldo Reis;(69) 86686-0061;26-06-1964;Ceará;feminino;filial_3
+394;54683428474;Sra. Serjo Franco;(83) 8913-9304;27-04-1976;CE;;filial_3
+395;55.677.058/8133-45;Renilda Xavier Neto;(47) 64164-3087;20-07-1976;Bahia;;filial_3
+396;263.525.671-34;Irson Saraiva Neto;+55 (02) 4402-4803;29-06-1963;GO;masculino;filial_3
+397;372.664.261-70;Srta. Sirlene Costa Neto;(93) 4767-7041;10-02-1978;RN;feminino;filial_3
+398;11.205.684/4476-77;Sra. Givaldo Carvalho Jr.;(00) 0855-2630;15-06-1963;Amapá;masculino;filial_3
+399;42.247.061/5320-27;Srta. Sra. Fernanda Silva;(85) 2641-9324;01-08-1984;Paraná;;filial_3
+400;84294085410;Adalto Carvalho Jr.;(29) 33858-5571;18-03-1987;RO;feminino;filial_3
+401;326.562.923-60;Sr. Abdias Jr.;+55 (62) 9612-4045;03-08-1966;Roraima;masculino;filial_3
+402;649.755.557-94;Patricia Jr.;(72) 7614-7153;22-07-1964;RR;masculino;filial_3
+403;352.885.162-78;Cesaltino;(32) 4980-5153;01-06-1966;Ceará;feminino;filial_3
+404;70191716138;Sra. Toshimassa Pereira;+55 (21) 5783-5051;18-07-1984;AP;feminino;filial_3
+405;03291272412;Adnilson Moreira;+55 (81) 1006-5144;22-02-1979;São Paulo;feminino;filial_3
+406;85083131015750;Ormenzindo Jr.;(23) 8670-7848;16-06-1964;Goiás;feminino;filial_3
+407;46666293002;Filadelfo Carvalho Jr.;(77) 5199-9763;08-02-1981;GO;masculino;filial_3
+408;16276101460;Sr. Michelangelo Carvalho Jr.;(82) 75651-9984;12-12-1970;BA;masculino;filial_3
+409;788.377.147-77;Ester Barros;+55 (09) 8244-4310;06-02-1981;Rondônia;feminino;filial_3
+410;51303168101647;Auristela Neto;(22) 03260-1327;16-01-1972;AM;;filial_3
+411;45956256001;Andrea Souza;(19) 9172-0590;21-03-1988;Maranhão;feminino;filial_3
+412;52454510502;Sra. Marla Carvalho;Rede;28-12-1963;MT;feminino;filial_3
+413;45018861754636;Joseilda Reis Filho;(39) 30745-4535;12-09-1982;MS;feminino;filial_3
+414;64566222785709;Cristiani Macedo Jr.;+55 (34) 5065-4799;24-02-1972;PE;masculino;filial_3
+415;754.063.347-60;Sr. Berenice Batista Neto Neto;(66) 8397-3501;17-01-1974;PA;feminino;filial_3
+416;78644534149;Sr. Agatha Reis Filho;+55 (42) 2606-0736;27-09-1971;PE;feminino;filial_3
+417;527.401.425-95;Christopher Martins Filho;+55 (89) 7378-9418;31-07-1973;Sergipe;feminino;filial_3
+418;91284072452;Sra. Srta. Adalberto Moreira;(46) 8418-7158;20-06-1979;PE;masculino;filial_3
+419;18.522.274/8544-07;Dioneia Albuquerque Jr.;(73) 0024-5461;02-08-1966;Goiás;masculino;filial_3
+420;64260303755780;Sra. Francisdil;Dados;07-10-1963;Amapá;feminino;filial_3
+421;84577621096;Róger Reis;(45) 3778-3241;01-11-1968;PE;feminino;filial_3
+422;47.711.051/1830-95;Eli Macedo Neto Neto;+55 (99) 2852-3612;07-10-1963;MA;feminino;filial_3
+423;55196915761;Srta. Mércia Moraes Neto;(03) 19791-0478;31-01-1989;RS;feminino;filial_3
+424;676.918.685-37;Galileo Moraes Jr.;+55 (13) 5708-7539;18-04-1983;Mato Grosso do Sul;;filial_3
+425;62101716452386;Sra. Quioxy Reis;(41) 7676-7347;08-05-1983;ES;feminino;filial_3
+426;277.726.384-18;Fabricio Batista Neto;(27) 29176-6324;13-11-1964;MA;feminino;filial_3
+427;79967580500;Cleto Saraiva;(97) 1772-6799;02-02-1971;SC;feminino;filial_3
+428;83519885107;Srta. Sr. Geny Oliveira Filho;+55 (87) 2158-6568;20-04-1968;Paraná;masculino;filial_3
+429;74272628755;Scheila Barros Filho;(44) 7049-6831;30-01-1983;CE;feminino;filial_3
+430;032.373.103-10;Christine Neto;(15) 07074-5573;23-12-1972;RN;feminino;filial_3
+431;36066911147;Maureni Neto;(60) 36386-5671;30-01-1963;PR;;filial_3
+432;42340207088303;Rita Carvalho Filho;(52) 15596-0259;30-09-1975;AP;feminino;filial_3
+433;48.540.340/8626-05;Nirceu Xavier;(00) 4763-1393;29-09-1972;PB;masculino;filial_3
+434;05407625555;Katias Pereira Neto;(96) 8646-7996;29-06-1983;ES;feminino;filial_3
+435;741.363.741-35;Dr. José Macedo Neto;(03) 6778-7891;16-11-1989;Pernambuco;masculino;filial_3
+436;813.262.054-20;Josemar Nogueira;+55 (31) 2672-9448;08-08-1966;PR;masculino;filial_3
+437;57468437361603;Sra. Eini Albuquerque Jr.;(91) 5855-2055;14-03-1980;Distrito Federal;feminino;filial_3
+438;35217577142;Iris Silva Filho;+55 (77) 6551-3830;02-11-1985;Bahia;feminino;filial_3
+439;319.551.676-48;Patrícia Nogueira;(65) 4680-5482;05-11-1985;Mato Grosso do Sul;masculino;filial_3
+440;360.120.265-44;Sra. Silvia;(62) 30175-8289;07-04-1986;DF;feminino;filial_3
+441;46364723578;Delfino Pereira;(25) 01046-5639;01-12-1980;Distrito Federal;;filial_3
+442;78276215470514;Raimunda;(03) 8468-5961;17-09-1973;RJ;feminino;filial_3
+443;115.286.127-10;Sr. Sr. Denise Nogueira;(79) 02989-5979;21-09-1976;Santa Catarina;;filial_3
+444;142.682.368-13;Sr. Eber Barros;(86) 63457-0877;31-08-1986;Paraná;masculino;filial_3
+445;28888202138329;Sr. Nerissa Souza;+55 (16) 4113-4068;30-05-1962;PA;masculino;filial_3
+446;36778683273806;Nerissa;(09) 40545-4157;24-08-1974;Rio Grande do Sul;feminino;filial_3
+447;22077732482;Lusimeire Xavier;+55 (82) 5278-4771;22-12-1964;AM;;filial_3
+448;24835925114;Yuko Barros;(73) 91624-1439;25-02-1972;Paraná;feminino;filial_3
+449;68575666258702;Lucicleide Saraiva Neto;(26) 75756-5080;14-09-1966;Distrito Federal;feminino;filial_3
+450;36842193630;Dr. Julia Saraiva Filho;(40) 37587-6136;26-12-1967;PE;masculino;filial_3
+451;89827862286;Nivaldo Nogueira;+55 (03) 3424-4812;06-10-1979;Rio Grande do Norte;feminino;filial_3
+452;67341781703583;Sr. Vera Souza Jr. Filho;(14) 60749-2894;27-11-1975;Paraná;masculino;filial_3
+453;45778178002220;Adimilsom Oliveira;(29) 0938-7888;24-11-1982;Alagoas;feminino;filial_3
+454;70447920499;Anizio Nogueira Filho;Implementação;12-03-1989;Ceará;feminino;filial_3
+455;25629557220;Dr. Geovane Reis Filho;(92) 27304-8013;19-07-1962;Paraná;feminino;filial_3
+456;01765313783;Leo Melo Jr. Neto;(87) 2802-8053;21-02-1962;Rondônia;feminino;filial_3
+457;36173317850;Édio;(68) 91265-4457;23-08-1962;MA;feminino;filial_3
+458;60597340145;Dr. Rogênio Martins;(53) 63960-2389;13-01-1985;Distrito Federal;;filial_3
+459;31266635165;Juliana;+55 (38) 0816-5865;17-09-1987;Rondônia;feminino;filial_3
+460;696.517.505-29;Daniella;+55 (42) 3020-2438;23-01-1984;São Paulo;masculino;filial_3
+461;40776452207;Linneu Filho;+55 (09) 3678-6661;27-01-1967;DF;feminino;filial_3
+462;774.385.150-87;Sr. Andrew;+55 (84) 5292-4303;19-11-1983;Pará;feminino;filial_3
+463;33.522.707/2717-30;Wendell Albuquerque;(78) 59803-0232;13-05-1988;Piauí;feminino;filial_3
+464;785.666.154-25;Valderi Albuquerque Filho;(52) 89584-2371;27-09-1963;RS;feminino;filial_3
+465;57172663104313;Dr. Leonardo;(91) 7005-7310;03-09-1975;PI;feminino;filial_3
+466;13874251373;Enilson Macedo Jr.;(46) 13498-1596;16-04-1974;PI;feminino;filial_3
+467;65812662800;Euzébio;(10) 6562-6915;10-06-1975;CE;feminino;filial_3
+468;61688273331358;Cyntia Reis;(52) 6445-7220;07-05-1964;GO;;filial_3
+469;70448641127;Hercilia Carvalho Jr.;+55 (63) 5322-7568;06-11-1971;DF;feminino;filial_3
+470;35805553759;Eran Oliveira Filho Filho;+55 (97) 7767-4208;23-06-1976;MA;feminino;filial_3
+471;34847231813;Sidney Moraes Neto;+55 (49) 1389-8488;24-05-1971;Santa Catarina;masculino;filial_3
+472;67.485.510/4163-57;Sr. Adijonson Moraes Jr.;+55 (83) 6374-0866;10-08-1979;MT;feminino;filial_3
+473;70.528.420/7876-35;Srta. Junia Franco;(10) 78520-6276;20-03-1969;PE;;filial_3
+474;264.133.725-83;Sra. Yolimar Moreira;(76) 3089-7357;08-12-1963;Rio Grande do Norte;feminino;filial_3
+475;628.491.816-09;Leone Moraes;(04) 3250-2374;25-11-1976;Mato Grosso;masculino;filial_3
+476;22001293003;Walter Saraiva;+55 (60) 6457-0038;09-05-1974;Acre;masculino;filial_3
+477;63466548292;Noelton Carvalho Neto;(87) 4131-7402;19-02-1989;RO;masculino;filial_3
+478;83175328288;Sr. Helena Carvalho;(06) 9696-6800;01-01-1989;PI;;filial_3
+479;72534085412472;Srta. Gessé Saraiva;(99) 7560-0558;14-05-1968;SC;;filial_3
+480;28536202721073;Srta. Claudemir Batista;(12) 0612-0777;18-02-1979;Santa Catarina;feminino;filial_3
+481;94989238419;Gleydson Saraiva Filho;(79) 24909-8217;16-11-1979;Distrito Federal;feminino;filial_3
+482;14013637842837;Sr. Jomar Filho;+55 (89) 2807-7147;21-08-1968;PR;;filial_3
+483;921.113.116-26;Sra. Loide;+55 (82) 8157-8391;17-05-1976;Santa Catarina;masculino;filial_3
+484;17213660363205;Janette Filho;(68) 40119-5002;02-12-1979;GO;feminino;filial_3
+485;587.480.121-90;Sra. Vanduir Pereira;(14) 9898-1079;01-05-1970;Amazonas;feminino;filial_3
+486;04018693699;Guo Carvalho;+55 (94) 7040-6812;27-12-1973;Rio Grande do Norte;feminino;filial_3
+487;15442732341100;Rovilson Carvalho Filho;(93) 8905-0751;20-12-1966;PI;masculino;filial_3
+488;56562781230;Sra. Izilda Carvalho;(85) 16450-8096;02-09-1973;Sergipe;masculino;filial_3
+489;82866815920;Srta. Elan Santos;+55 (71) 8734-2710;03-06-1971;RR;masculino;filial_3
+490;73186380538549;Attilio Moreira;(86) 77147-6943;05-05-1964;Tocantins;feminino;filial_3
+491;71739190378;Erineide Nogueira;(55) 4848-7190;03-08-1963;Ceará;masculino;filial_3
+492;847.148.176-63;Maraci Reis;+55 (74) 6248-1013;26-03-1971;DF;;filial_3
+493;11106497627;Sylvio Costa;(78) 8969-4674;15-05-1965;Rio Grande do Norte;feminino;filial_3
+494;27344878020;Dr. Tomiko;(14) 6781-2481;31-03-1962;Rio Grande do Sul;;filial_3
+495;261.818.851-96;Sra. Vamberto Souza;(05) 99954-9333;04-10-1969;Alagoas;feminino;filial_3
+496;15328223322;Tereza Santos;(80) 40442-5454;10-05-1974;Ceará;masculino;filial_3
+497;81929862415;Mariane Franco;(75) 4919-9216;18-12-1970;MS;feminino;filial_3
+498;52324877791;Alipio Oliveira;(99) 0171-7835;26-07-1964;AL;masculino;filial_3
+499;57.334.351/8680-75;Tu Melo;(63) 03148-1135;02-02-1979;Roraima;feminino;filial_3

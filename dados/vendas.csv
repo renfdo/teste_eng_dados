@@ -1,0 +1,3000 @@
+id;id_vendor;filial;date;value;vehicle
+1;141;filial_2;26-02-2022 07:04:46;860274;Rolls Royce Aventador
+2;54;filial_2;14-02-2022 05:15:49;451149;Tesla F-150
+3;460;filial_3;15-04-2022 01:15:41;972515;Rolls Royce Taurus
+4;397;filial_1;11-03-2022 01:05:32;661196;Lamborghini Colorado
+5;493;filial_3;20-02-2022 01:07:00;280032;Ferrari PT Cruiser
+6;334;filial_1;04-02-2022 09:59:10;445388;Hyandai Element
+7;98;filial_1;07-03-2022 06:57:28;895646;Bugatti LeBaron
+8;124;filial_3;26-02-2022 10:27:42;437181;Land Rover Camaro
+9;123;filial_2;04-03-2022 11:20:00;285897;Dodge LeBaron
+10;470;filial_2;21-02-2022 06:08:57;364562;Hyandai Aventador
+11;85;filial_1;02-05-2022 04:10:03;58986;Hyandai Colorado
+12;305;filial_1;19-05-2022 08:33:44;989254;Chevrolet Grand Caravan
+13;492;filial_1;05-04-2022 09:31:41;402677;Honda Grand Caravan
+14;61;filial_2;12-04-2022 03:21:35;328673;Nissan Mercielago
+15;430;filial_2;04-04-2022 11:52:07;397546;Jaguar Expedition
+16;423;filial_2;13-05-2022 09:03:03;260229;Aston Martin Fiesta
+17;379;filial_1;18-05-2022 01:04:20;805449;Chrysler Grand Cherokee
+18;485;filial_3;02-05-2022 01:22:51;513746;Mercedes Benz Challenger
+19;349;filial_3;26-02-2022 02:23:23;423101;Bugatti Golf
+20;57;filial_1;03-04-2022 12:29:33;297470;Audi Cruze
+21;188;filial_1;15-03-2022 10:05:15;231219;Porsche Expedition
+22;189;filial_2;03-04-2022 12:02:22;525440;Jaguar Jetta
+23;91;filial_1;29-04-2022 02:47:36;257272;Nissan Cruze
+24;365;filial_2;02-03-2022 10:31:26;422231;Fiat Mustang
+25;329;filial_1;30-03-2022 10:30:57;272627;Maserati Mustang
+26;377;filial_3;20-02-2022 09:32:58;828215;Volkswagen Cruze
+27;415;filial_1;18-03-2022 07:06:13;783474;Volkswagen 911
+28;35;filial_2;01-03-2022 05:26:26;486025;Kia A4
+29;407;filial_2;13-03-2022 09:42:30;865774;Chevrolet Taurus
+30;277;filial_2;28-04-2022 05:46:04;608837;Audi PT Cruiser
+31;197;filial_1;21-02-2022 12:58:34;230048;Porsche Expedition
+32;165;filial_1;01-04-2022 11:48:43;122743;Jeep Charger
+33;256;filial_2;07-02-2022 10:23:06;207706;Land Rover Ranchero
+34;488;filial_2;12-04-2022 04:02:04;251110;Volkswagen Model 3
+35;458;filial_2;15-03-2022 02:13:35;74133;Ferrari Civic
+36;4;filial_1;16-03-2022 04:14:13;551557;Chevrolet LeBaron
+37;484;filial_1;28-03-2022 04:14:14;628927;Land Rover Mustang
+38;240;filial_2;22-02-2022 02:26:38;963925;Ferrari Land Cruiser
+39;349;filial_2;20-03-2022 06:22:06;577343;BMW Charger
+40;389;filial_2;18-05-2022 11:39:41;407855;Rolls Royce Sentra
+41;17;filial_1;30-05-2022 03:33:42;75337;BMW Volt
+42;356;filial_2;25-02-2022 03:18:35;193549;Hyandai Grand Caravan
+43;258;filial_2;18-04-2022 11:54:59;267571;Dodge Countach
+44;131;filial_1;27-04-2022 06:24:19;455714;Tesla Volt
+45;188;filial_3;11-02-2022 12:46:18;424061;Hyandai CTS
+46;22;filial_1;24-05-2022 10:50:56;83030;Lamborghini Durango
+47;287;filial_1;23-05-2022 06:28:53;523642;Honda Spyder
+48;449;filial_2;01-05-2022 10:42:07;626307;Chevrolet Accord
+49;235;filial_1;09-02-2022 11:59:04;756154;Honda F-150
+50;368;filial_3;07-04-2022 07:03:54;636477;Kia Accord
+51;126;filial_3;12-04-2022 04:52:45;640573;Honda Model S
+52;396;filial_1;25-03-2022 07:55:42;880595;Dodge XTS
+53;445;filial_2;03-03-2022 09:25:48;154086;Aston Martin Fiesta
+54;37;filial_2;06-03-2022 07:48:47;679882;Mini Escalade
+55;269;filial_1;12-04-2022 03:08:00;278426;Cadillac Wrangler
+56;311;filial_2;16-04-2022 09:10:36;82328;Cadillac Golf
+57;184;filial_1;22-03-2022 07:43:20;821900;Audi Taurus
+58;133;filial_2;29-04-2022 10:50:59;593126;Chevrolet F-150
+59;231;filial_3;27-05-2022 05:45:24;406936;Nissan Model T
+60;378;filial_1;20-05-2022 03:33:34;74664;Aston Martin Taurus
+61;457;filial_3;11-05-2022 10:43:14;691854;Jeep F-150
+62;366;filial_3;15-05-2022 09:53:30;229722;Bentley CTS
+63;451;filial_2;24-03-2022 02:36:11;339610;Bentley Aventador
+64;239;filial_2;13-02-2022 09:34:42;670991;Jeep Golf
+65;167;filial_1;28-05-2022 10:44:52;912376;Chrysler Silverado
+66;346;filial_3;21-02-2022 11:44:47;235333;Chrysler Alpine
+67;201;filial_2;03-03-2022 07:50:56;486870;Rolls Royce Mercielago
+68;460;filial_2;16-03-2022 11:46:11;444677;Mini XTS
+69;382;filial_1;03-04-2022 10:16:29;861697;Jaguar A4
+70;492;filial_3;23-05-2022 05:33:36;695701;Porsche Malibu
+71;82;filial_1;02-02-2022 11:22:54;342183;Fiat Challenger
+72;100;filial_1;21-03-2022 05:49:04;210864;Volkswagen Element
+73;23;filial_3;21-05-2022 05:27:36;141554;Bugatti Charger
+74;493;filial_2;20-02-2022 08:55:14;778609;Toyota Colorado
+75;452;filial_2;27-04-2022 06:23:32;863223;Honda Focus
+76;102;filial_2;05-02-2022 08:16:32;516862;Cadillac Mercielago
+77;463;filial_3;04-05-2022 12:11:04;322267;Jeep Durango
+78;174;filial_2;18-05-2022 03:16:36;224314;BMW Mercielago
+79;327;filial_2;18-04-2022 06:19:42;829345;Jeep F-150
+80;232;filial_2;13-05-2022 05:34:11;893656;Chevrolet Impala
+81;456;filial_3;28-02-2022 07:29:50;891453;Mercedes Benz Explorer
+82;371;filial_2;21-03-2022 01:25:51;133139;Mercedes Benz Fiesta
+83;342;filial_3;23-05-2022 12:31:03;103712;Aston Martin Fiesta
+84;234;filial_3;01-02-2022 10:52:45;729271;Tesla Cruze
+85;438;filial_3;28-05-2022 01:46:21;897123;Jeep Spyder
+86;311;filial_1;03-02-2022 11:24:30;375935;Hyandai Altima
+87;412;filial_2;23-03-2022 05:59:54;696557;Volkswagen Accord
+88;421;filial_1;24-02-2022 05:43:45;994321;Ferrari Model 3
+89;249;filial_1;02-02-2022 08:03:26;454175;Bugatti Grand Cherokee
+90;367;filial_3;08-03-2022 09:57:56;315018;Hyandai PT Cruiser
+91;188;filial_1;15-03-2022 05:15:10;191737;Fiat Durango
+92;4;filial_2;28-05-2022 05:11:49;438031;Chevrolet Impala
+93;315;filial_2;08-02-2022 12:42:30;117536;BMW Cruze
+94;286;filial_3;06-03-2022 07:04:41;348231;Rolls Royce Camry
+95;349;filial_3;06-05-2022 01:52:19;566606;Rolls Royce LeBaron
+96;231;filial_3;21-03-2022 07:17:33;241171;Land Rover Model T
+97;287;filial_3;26-04-2022 08:33:41;654414;Tesla Camry
+98;148;filial_2;16-05-2022 07:09:24;521305;Porsche Ranchero
+99;40;filial_1;21-02-2022 08:03:08;757956;Kia Wrangler
+100;74;filial_1;16-04-2022 03:13:08;757467;Audi A8
+101;432;filial_3;01-03-2022 02:07:31;659358;Land Rover Accord
+102;440;filial_1;15-03-2022 01:38:24;258943;Audi Prius
+103;396;filial_3;24-03-2022 01:08:38;576833;Fiat Malibu
+104;40;filial_1;20-04-2022 02:52:00;51804;Tesla A4
+105;491;filial_3;23-02-2022 10:35:14;389582;Jeep Beetle
+106;42;filial_1;03-04-2022 07:53:12;437216;Hyandai Colorado
+107;125;filial_3;27-04-2022 11:45:08;200431;Kia Land Cruiser
+108;154;filial_2;20-04-2022 07:42:20;372751;Cadillac Challenger
+109;441;filial_2;01-03-2022 02:58:24;584296;Ford A4
+110;333;filial_1;09-02-2022 02:46:09;121266;Chevrolet ATS
+111;33;filial_3;20-04-2022 12:01:10;967772;Audi Camaro
+112;473;filial_1;09-02-2022 11:29:48;924427;Chevrolet Model T
+113;418;filial_2;02-03-2022 05:22:29;577908;Fiat Escalade
+114;206;filial_2;23-03-2022 11:20:39;679681;Chevrolet PT Cruiser
+115;485;filial_1;12-04-2022 02:59:31;459780;Jeep El Camino
+116;382;filial_2;09-03-2022 05:27:29;611095;Cadillac Sentra
+117;40;filial_3;22-03-2022 01:12:38;712038;Chevrolet Prius
+118;489;filial_2;27-05-2022 08:18:44;208847;Bentley Durango
+119;92;filial_1;24-05-2022 11:41:59;611127;Ford Alpine
+120;445;filial_2;02-05-2022 01:39:44;356210;Jaguar Model S
+121;339;filial_1;26-04-2022 07:15:11;767456;Cadillac Fiesta
+122;243;filial_2;29-04-2022 06:52:52;719879;Audi Jetta
+123;372;filial_1;05-03-2022 06:41:28;639011;Honda Model T
+124;411;filial_2;22-03-2022 08:15:34;827491;Aston Martin Aventador
+125;341;filial_3;27-02-2022 12:21:13;280842;Jaguar Prius
+126;137;filial_3;08-04-2022 12:37:09;878900;Rolls Royce A4
+127;216;filial_2;06-03-2022 02:39:02;319768;Bugatti Colorado
+128;388;filial_3;28-02-2022 07:39:40;105631;Audi Corvette
+129;209;filial_3;25-05-2022 05:32:22;321417;Rolls Royce Roadster
+130;485;filial_1;09-04-2022 10:15:36;342395;Honda Taurus
+131;261;filial_2;20-02-2022 01:19:28;498135;Bentley Model S
+132;325;filial_1;02-02-2022 12:22:25;242167;Volkswagen Jetta
+133;144;filial_2;28-05-2022 08:16:29;410383;Tesla Wrangler
+134;47;filial_1;10-03-2022 08:49:24;969744;Maserati Volt
+135;441;filial_3;29-03-2022 08:15:30;755583;Porsche Wrangler
+136;153;filial_3;10-04-2022 10:46:27;257736;BMW Aventador
+137;203;filial_2;06-02-2022 07:23:39;91567;Rolls Royce Taurus
+138;57;filial_2;18-05-2022 02:59:27;372112;Chevrolet Wrangler
+139;300;filial_1;19-05-2022 02:06:00;998392;Dodge A4
+140;4;filial_3;05-03-2022 01:20:04;218558;Dodge 911
+141;344;filial_3;20-04-2022 09:06:38;792506;Rolls Royce Fiesta
+142;271;filial_3;23-02-2022 01:09:21;803531;Honda Cruze
+143;289;filial_3;08-03-2022 11:26:58;397501;Lamborghini Model T
+144;96;filial_2;07-03-2022 05:18:24;166269;Dodge Civic
+145;61;filial_3;15-04-2022 05:47:23;827177;Bentley Corvette
+146;202;filial_2;31-03-2022 12:27:11;103407;Audi 911
+147;16;filial_1;11-03-2022 02:47:07;651056;Fiat Prius
+148;144;filial_2;16-05-2022 09:06:14;891656;Cadillac PT Cruiser
+149;314;filial_3;12-05-2022 01:43:24;867309;Ford Grand Caravan
+150;152;filial_2;25-05-2022 10:43:06;880054;Jeep Grand Cherokee
+151;98;filial_1;03-03-2022 11:22:43;253658;BMW Durango
+152;353;filial_1;25-04-2022 10:43:29;910051;Porsche A8
+153;409;filial_1;24-05-2022 07:51:55;812376;Toyota Ranchero
+154;401;filial_1;26-05-2022 05:43:30;170561;Chrysler Durango
+155;136;filial_2;08-02-2022 08:49:04;942648;Lamborghini Countach
+156;249;filial_3;20-02-2022 05:57:59;871168;Fiat Cruze
+157;213;filial_2;10-04-2022 08:54:05;458048;Cadillac Mustang
+158;23;filial_2;11-05-2022 03:54:55;130055;Volkswagen Civic
+159;490;filial_3;10-04-2022 08:31:31;909526;Cadillac Civic
+160;269;filial_3;19-02-2022 03:56:30;347829;Mini Impala
+161;203;filial_1;02-03-2022 12:56:13;322460;Volkswagen Corvette
+162;38;filial_1;23-03-2022 01:08:45;983405;Ford Altima
+163;378;filial_1;16-03-2022 11:50:37;765480;Rolls Royce Challenger
+164;275;filial_1;16-04-2022 11:13:16;495758;Porsche Aventador
+165;191;filial_2;10-03-2022 03:39:41;617956;Aston Martin 911
+166;125;filial_2;23-04-2022 01:11:32;689213;Audi Civic
+167;71;filial_2;15-05-2022 10:20:52;558826;Lamborghini LeBaron
+168;155;filial_2;13-05-2022 09:32:33;66267;Maserati F-150
+169;259;filial_2;04-05-2022 10:43:16;248728;Ferrari Camry
+170;277;filial_1;23-05-2022 11:51:13;710937;Dodge Grand Caravan
+171;409;filial_2;29-05-2022 11:33:04;97312;Honda Roadster
+172;262;filial_2;11-02-2022 06:27:46;994424;Ford Beetle
+173;195;filial_1;25-05-2022 08:46:48;597696;Audi Malibu
+174;144;filial_1;22-04-2022 10:09:30;273401;Kia Grand Cherokee
+175;88;filial_3;03-04-2022 04:26:35;281604;BMW Spyder
+176;276;filial_1;14-05-2022 06:47:53;420373;Chrysler Beetle
+177;434;filial_2;17-04-2022 12:54:28;863965;Hyandai XTS
+178;216;filial_2;02-05-2022 08:00:11;832243;Mercedes Benz Explorer
+179;157;filial_1;02-02-2022 07:46:44;543443;BMW Grand Caravan
+180;30;filial_3;14-03-2022 05:21:22;311896;Mini Mustang
+181;186;filial_2;11-02-2022 03:16:03;656267;Bugatti Camry
+182;43;filial_1;25-02-2022 04:45:56;130874;Chrysler F-150
+183;16;filial_3;05-05-2022 09:38:38;421901;Toyota Durango
+184;345;filial_3;21-04-2022 06:41:47;180826;Chrysler Ranchero
+185;263;filial_1;25-04-2022 10:11:18;814774;Maserati PT Cruiser
+186;322;filial_2;27-02-2022 12:05:29;95190;Ferrari Countach
+187;209;filial_2;27-04-2022 11:53:09;319793;Toyota Altima
+188;387;filial_3;28-05-2022 01:22:33;64825;Hyandai ATS
+189;294;filial_2;02-03-2022 11:43:16;391659;Aston Martin LeBaron
+190;255;filial_3;15-02-2022 06:13:44;720253;Kia ATS
+191;187;filial_2;11-03-2022 10:15:15;960643;Jaguar Colorado
+192;287;filial_3;21-04-2022 02:39:50;585830;Aston Martin Fiesta
+193;352;filial_1;09-03-2022 09:15:12;365261;Bugatti Roadster
+194;110;filial_3;02-05-2022 11:29:19;110122;Fiat Camaro
+195;90;filial_1;17-02-2022 11:06:58;908353;Mini Fiesta
+196;347;filial_2;11-02-2022 02:48:49;889321;Tesla A4
+197;21;filial_1;15-03-2022 09:22:17;640549;Chrysler F-150
+198;444;filial_2;17-03-2022 09:56:40;886217;Kia Element
+199;418;filial_3;20-03-2022 04:02:13;789672;Dodge Model T
+200;226;filial_2;13-04-2022 02:21:50;887759;Volkswagen Focus
+201;378;filial_1;08-05-2022 07:02:38;529284;Rolls Royce PT Cruiser
+202;93;filial_1;13-05-2022 07:58:34;721065;Ferrari Fiesta
+203;343;filial_1;02-02-2022 08:37:03;427524;Chrysler Countach
+204;329;filial_2;10-02-2022 02:54:58;491187;Toyota Silverado
+205;400;filial_2;23-04-2022 03:22:00;813899;Nissan XTS
+206;270;filial_1;06-05-2022 07:09:09;533161;Maserati Challenger
+207;205;filial_1;09-05-2022 02:30:13;363064;Ferrari Alpine
+208;259;filial_1;20-02-2022 09:00:30;200903;Chevrolet Sentra
+209;254;filial_2;24-03-2022 09:23:42;176470;Ford A8
+210;474;filial_3;23-03-2022 10:49:55;906762;Bentley Impala
+211;429;filial_2;02-02-2022 08:25:41;468587;Maserati Aventador
+212;408;filial_2;06-04-2022 04:06:46;210486;Chrysler Model 3
+213;439;filial_2;02-03-2022 06:13:04;283463;Lamborghini Camaro
+214;211;filial_2;12-03-2022 01:39:31;364999;Honda Corvette
+215;367;filial_3;14-04-2022 06:27:37;574147;Mercedes Benz Explorer
+216;73;filial_1;29-04-2022 03:51:17;451659;Jeep Model T
+217;16;filial_3;10-02-2022 07:43:37;749662;BMW LeBaron
+218;8;filial_3;24-05-2022 12:34:14;476852;Land Rover Camaro
+219;376;filial_1;17-02-2022 10:50:31;234084;Audi Ranchero
+220;44;filial_1;27-02-2022 12:02:55;171170;Rolls Royce Silverado
+221;152;filial_3;13-03-2022 07:00:14;806915;Maserati Silverado
+222;44;filial_1;07-02-2022 02:06:38;224485;Rolls Royce A8
+223;228;filial_1;03-02-2022 07:17:15;453452;Nissan Volt
+224;340;filial_3;09-02-2022 08:14:20;313368;Maserati Explorer
+225;67;filial_1;25-05-2022 10:04:36;298732;Nissan Corvette
+226;417;filial_1;17-02-2022 07:04:47;888932;Volkswagen Malibu
+227;76;filial_2;11-05-2022 12:28:53;203178;Cadillac Volt
+228;268;filial_2;07-02-2022 07:37:17;862263;Mini LeBaron
+229;374;filial_1;19-03-2022 10:56:11;370065;Chevrolet Ranchero
+230;93;filial_1;25-02-2022 01:14:12;712885;Audi Camry
+231;172;filial_3;05-02-2022 12:00:39;367307;Maserati Element
+232;466;filial_2;06-05-2022 02:27:24;121352;Maserati A8
+233;217;filial_1;26-02-2022 12:19:41;219194;Rolls Royce Civic
+234;388;filial_1;05-02-2022 08:17:59;120827;Nissan Volt
+235;335;filial_2;21-05-2022 11:42:22;217872;Ferrari Grand Caravan
+236;148;filial_2;14-02-2022 01:30:34;820878;Honda Golf
+237;475;filial_3;25-05-2022 12:32:15;845657;Bugatti F-150
+238;171;filial_3;17-05-2022 11:55:40;889050;Lamborghini Model T
+239;346;filial_3;22-02-2022 03:10:27;413177;Ford Model T
+240;184;filial_2;22-03-2022 05:53:53;505840;BMW Roadster
+241;363;filial_1;11-05-2022 07:23:39;616376;Fiat Taurus
+242;447;filial_3;08-04-2022 02:46:26;136858;Rolls Royce ATS
+243;136;filial_1;15-02-2022 08:39:08;79795;Porsche Mercielago
+244;470;filial_1;28-04-2022 11:11:00;864307;Mini A8
+245;130;filial_2;19-04-2022 02:31:30;353343;BMW Escalade
+246;31;filial_3;29-03-2022 01:49:15;664945;Mercedes Benz Model 3
+247;415;filial_2;15-04-2022 01:48:25;494233;Toyota Expedition
+248;296;filial_2;14-05-2022 04:10:16;389014;Ford Cruze
+249;89;filial_1;15-05-2022 08:45:19;247311;Porsche Challenger
+250;99;filial_3;02-02-2022 09:35:46;844859;Fiat Focus
+251;235;filial_1;04-05-2022 05:29:38;283414;Jaguar CTS
+252;97;filial_2;23-05-2022 12:55:01;334069;Porsche Colorado
+253;329;filial_3;14-03-2022 07:22:28;527875;Lamborghini Expedition
+254;483;filial_3;05-03-2022 10:26:48;952717;Volkswagen Mustang
+255;9;filial_2;09-03-2022 06:19:11;112410;Cadillac Escalade
+256;333;filial_2;09-03-2022 07:29:34;518095;Bentley Aventador
+257;393;filial_3;15-04-2022 06:24:40;167774;Jaguar Sentra
+258;115;filial_3;15-04-2022 12:53:57;672057;Dodge Camry
+259;478;filial_3;16-04-2022 11:42:30;574353;Ferrari Jetta
+260;18;filial_2;16-04-2022 02:10:42;50548;Jeep Impala
+261;468;filial_1;30-04-2022 03:33:07;338212;Ferrari Altima
+262;68;filial_3;23-02-2022 04:52:19;697863;Cadillac CTS
+263;371;filial_1;24-02-2022 03:45:55;529564;Porsche F-150
+264;292;filial_2;17-04-2022 10:32:17;339844;Ford Silverado
+265;406;filial_2;20-05-2022 05:52:00;713724;Volkswagen Model 3
+266;46;filial_2;24-03-2022 11:11:41;875409;Fiat Malibu
+267;436;filial_2;24-02-2022 02:42:19;225463;Jaguar Land Cruiser
+268;44;filial_1;16-02-2022 08:12:00;497417;Nissan Taurus
+269;75;filial_1;27-02-2022 09:18:01;626052;Volkswagen Impala
+270;7;filial_1;11-03-2022 08:27:36;554874;Chevrolet Spyder
+271;180;filial_3;04-04-2022 01:11:54;186508;Toyota Escalade
+272;95;filial_2;04-05-2022 03:31:11;645686;Bentley Colorado
+273;8;filial_1;14-05-2022 04:17:52;358442;Porsche A8
+274;303;filial_2;19-02-2022 05:46:59;302505;Jaguar Alpine
+275;317;filial_1;26-04-2022 05:17:31;97017;Volkswagen Silverado
+276;318;filial_3;14-04-2022 08:33:20;912225;Honda Wrangler
+277;78;filial_2;01-03-2022 09:32:26;370899;Nissan Charger
+278;450;filial_2;21-05-2022 11:40:31;223362;Chevrolet Grand Cherokee
+279;291;filial_1;17-02-2022 06:11:08;83101;Honda Jetta
+280;166;filial_2;14-04-2022 05:49:03;479113;BMW A4
+281;69;filial_3;07-04-2022 05:54:21;418313;Mercedes Benz Ranchero
+282;105;filial_3;07-05-2022 10:30:59;497439;Rolls Royce Golf
+283;95;filial_2;07-03-2022 07:27:43;273401;Tesla Malibu
+284;221;filial_2;03-03-2022 02:13:52;399008;Nissan Focus
+285;273;filial_3;30-04-2022 02:50:13;589601;Tesla Countach
+286;302;filial_2;02-02-2022 02:32:31;472333;Maserati CTS
+287;105;filial_2;02-05-2022 06:08:15;236920;Tesla Civic
+288;400;filial_2;15-03-2022 11:30:02;497269;Fiat El Camino
+289;87;filial_2;05-04-2022 08:19:59;502538;Fiat Corvette
+290;441;filial_3;26-04-2022 12:21:48;223692;Aston Martin Roadster
+291;394;filial_1;05-03-2022 09:45:43;281008;Jaguar Golf
+292;300;filial_1;02-02-2022 11:38:28;813496;Fiat Beetle
+293;262;filial_2;03-05-2022 11:20:58;576219;Aston Martin Wrangler
+294;212;filial_1;23-04-2022 05:16:59;191232;Bentley Charger
+295;83;filial_1;11-03-2022 08:56:32;196682;Tesla 911
+296;440;filial_1;11-05-2022 03:09:27;920517;Lamborghini Ranchero
+297;5;filial_2;29-04-2022 10:11:28;846398;Hyandai Charger
+298;221;filial_2;14-05-2022 04:24:10;150135;Dodge XTS
+299;206;filial_1;27-05-2022 02:58:05;402483;Chrysler Focus
+300;328;filial_1;08-03-2022 12:27:24;955861;Kia Mercielago
+301;349;filial_3;24-03-2022 09:15:24;73782;Cadillac Land Cruiser
+302;398;filial_2;19-05-2022 08:40:27;483003;Porsche Corvette
+303;93;filial_1;21-05-2022 11:36:11;394725;Tesla Model T
+304;166;filial_3;11-05-2022 08:59:27;362189;Chevrolet Fiesta
+305;360;filial_3;11-05-2022 04:06:51;537166;Jeep Model S
+306;461;filial_2;24-04-2022 01:29:31;947030;Audi F-150
+307;323;filial_2;30-04-2022 12:36:37;550772;Kia Aventador
+308;145;filial_2;19-05-2022 10:59:41;215481;Fiat Accord
+309;447;filial_3;11-04-2022 11:04:12;756836;Maserati Focus
+310;365;filial_2;17-03-2022 03:59:52;204886;Audi Roadster
+311;97;filial_1;02-04-2022 12:05:56;206831;Jaguar Spyder
+312;486;filial_1;16-04-2022 12:07:47;688512;Bentley A8
+313;115;filial_1;10-02-2022 05:22:52;979088;Porsche Cruze
+314;276;filial_3;03-05-2022 09:42:59;183538;Rolls Royce Element
+315;371;filial_1;03-02-2022 06:37:09;503820;Kia Golf
+316;443;filial_1;27-02-2022 08:56:03;510722;Toyota Charger
+317;410;filial_1;02-05-2022 04:30:26;829383;Jaguar El Camino
+318;202;filial_1;11-04-2022 08:35:47;433367;Porsche Ranchero
+319;123;filial_3;01-02-2022 08:05:05;728722;Toyota Wrangler
+320;333;filial_2;26-05-2022 01:19:22;277616;Land Rover Challenger
+321;407;filial_1;20-05-2022 11:47:12;958340;Jaguar Model T
+322;147;filial_3;02-02-2022 04:15:59;246161;Ferrari Altima
+323;459;filial_1;12-04-2022 07:46:12;883720;Jaguar Camry
+324;221;filial_2;07-05-2022 03:28:46;882980;Porsche Focus
+325;479;filial_1;09-02-2022 12:11:16;194101;Fiat Corvette
+326;179;filial_2;20-03-2022 08:52:54;835708;Audi Explorer
+327;21;filial_1;23-05-2022 08:59:47;381923;Hyandai Cruze
+328;212;filial_3;05-04-2022 12:32:51;541011;Aston Martin Grand Caravan
+329;281;filial_1;19-04-2022 10:37:52;189802;Ford Explorer
+330;90;filial_1;18-04-2022 10:08:38;342032;Kia Focus
+331;222;filial_1;21-05-2022 08:49:12;120202;Tesla Ranchero
+332;417;filial_1;26-02-2022 12:55:29;479741;Hyandai Camry
+333;397;filial_3;17-03-2022 04:19:39;592661;Land Rover Camaro
+334;78;filial_3;15-04-2022 06:08:31;724480;Dodge Countach
+335;496;filial_3;05-03-2022 09:49:53;618207;Dodge Malibu
+336;472;filial_2;04-05-2022 09:04:39;73876;Kia Model S
+337;42;filial_1;21-02-2022 10:59:33;232191;Nissan Roadster
+338;320;filial_1;05-03-2022 06:13:47;327106;Kia El Camino
+339;443;filial_2;27-05-2022 11:30:41;917635;Ford Alpine
+340;389;filial_3;23-05-2022 11:30:07;71032;Mercedes Benz Roadster
+341;212;filial_2;14-03-2022 10:37:29;588092;BMW Land Cruiser
+342;216;filial_2;12-04-2022 06:55:32;62596;Fiat F-150
+343;478;filial_2;14-05-2022 07:25:24;304494;Land Rover Grand Caravan
+344;303;filial_1;23-05-2022 08:49:19;549263;Land Rover Golf
+345;277;filial_3;08-04-2022 02:10:40;384914;Honda Grand Caravan
+346;264;filial_2;14-02-2022 09:52:27;314772;Ford Aventador
+347;339;filial_1;01-02-2022 02:47:27;478020;Toyota Ranchero
+348;343;filial_1;03-02-2022 03:09:46;563002;Volkswagen El Camino
+349;251;filial_3;15-02-2022 07:35:38;408147;Tesla Roadster
+350;444;filial_1;07-02-2022 06:57:37;883051;Lamborghini Ranchero
+351;439;filial_2;06-02-2022 05:14:07;710589;Land Rover Camry
+352;94;filial_3;23-03-2022 04:03:35;483616;Hyandai Model T
+353;194;filial_3;30-05-2022 11:40:59;435008;Land Rover Mercielago
+354;461;filial_3;20-05-2022 02:19:00;857099;Audi Camry
+355;34;filial_2;01-03-2022 12:33:40;194255;Mercedes Benz Altima
+356;246;filial_1;08-02-2022 08:59:42;583124;Dodge Charger
+357;337;filial_1;16-03-2022 05:29:37;498737;Ferrari Spyder
+358;183;filial_1;27-04-2022 02:38:41;572087;Kia Camaro
+359;165;filial_2;23-03-2022 02:35:42;91660;Hyandai Land Cruiser
+360;99;filial_2;19-05-2022 09:53:06;877975;Jeep PT Cruiser
+361;270;filial_3;22-05-2022 02:36:30;928417;Jaguar Explorer
+362;70;filial_2;27-02-2022 06:46:16;352278;BMW Land Cruiser
+363;398;filial_2;15-05-2022 02:30:18;603267;Jeep Accord
+364;261;filial_1;15-04-2022 06:49:54;247669;Nissan Explorer
+365;95;filial_1;06-05-2022 03:39:51;614261;Chevrolet Camaro
+366;164;filial_1;27-02-2022 03:08:56;294289;Bugatti Mustang
+367;317;filial_2;15-05-2022 02:18:11;650643;Cadillac Expedition
+368;82;filial_1;27-02-2022 04:23:54;924335;Chrysler XTS
+369;185;filial_1;26-02-2022 05:27:00;254009;Porsche Wrangler
+370;66;filial_3;20-04-2022 05:38:02;898882;Jaguar CTS
+371;46;filial_1;13-05-2022 05:04:54;567250;BMW A8
+372;17;filial_2;27-05-2022 05:47:16;889955;Kia Roadster
+373;35;filial_1;02-05-2022 12:48:12;316221;Land Rover XTS
+374;190;filial_1;09-02-2022 04:39:44;727416;Fiat Escalade
+375;35;filial_3;07-02-2022 08:10:13;227824;Mini El Camino
+376;138;filial_2;17-03-2022 06:02:30;594162;Land Rover Roadster
+377;160;filial_3;20-03-2022 06:16:38;318945;Cadillac Golf
+378;472;filial_1;22-04-2022 02:50:17;449930;Chevrolet Aventador
+379;224;filial_1;05-04-2022 12:18:17;464194;Audi ATS
+380;53;filial_1;08-03-2022 06:18:18;770038;Fiat Beetle
+381;253;filial_2;16-05-2022 06:43:17;573695;Honda F-150
+382;146;filial_1;09-02-2022 03:47:50;878925;Lamborghini A4
+383;26;filial_1;09-04-2022 08:16:51;848243;Cadillac Golf
+384;116;filial_2;21-02-2022 12:49:28;136639;Mercedes Benz Golf
+385;414;filial_2;14-03-2022 07:32:23;993165;Chrysler Camaro
+386;437;filial_1;07-05-2022 07:30:11;470098;Chevrolet Land Cruiser
+387;402;filial_2;22-04-2022 01:16:02;305012;Cadillac Model T
+388;116;filial_2;14-03-2022 03:44:48;491746;Ford ATS
+389;37;filial_3;29-05-2022 03:28:26;759826;Land Rover Fiesta
+390;189;filial_2;24-03-2022 03:51:06;675418;BMW XTS
+391;75;filial_1;18-04-2022 06:14:47;906390;Nissan F-150
+392;235;filial_1;15-05-2022 01:10:32;513376;Mercedes Benz Taurus
+393;133;filial_2;24-05-2022 07:32:07;258548;Jaguar Impala
+394;291;filial_1;12-04-2022 06:18:09;162830;Land Rover Camry
+395;351;filial_1;15-04-2022 05:08:22;868993;Audi ATS
+396;199;filial_1;08-02-2022 09:44:32;345891;Ferrari A8
+397;254;filial_3;04-04-2022 11:27:34;502331;Aston Martin ATS
+398;233;filial_1;30-04-2022 02:53:00;303824;Dodge Grand Caravan
+399;11;filial_1;17-05-2022 02:52:32;950982;Porsche A8
+400;414;filial_3;07-03-2022 06:09:11;913141;Bugatti El Camino
+401;418;filial_3;01-02-2022 02:04:04;809360;Tesla F-150
+402;376;filial_3;24-03-2022 05:59:44;390823;Chevrolet Fiesta
+403;203;filial_2;05-04-2022 10:23:27;922972;Jeep Model S
+404;243;filial_2;01-04-2022 06:09:19;542365;Maserati Expedition
+405;476;filial_3;12-02-2022 08:50:46;543043;Toyota Ranchero
+406;418;filial_1;05-03-2022 12:14:55;244537;Lamborghini Mustang
+407;287;filial_1;09-03-2022 03:30:24;385600;Jaguar Wrangler
+408;232;filial_3;05-03-2022 08:48:46;661066;Lamborghini Challenger
+409;420;filial_1;10-04-2022 01:17:20;684905;Honda LeBaron
+410;117;filial_2;15-03-2022 01:07:40;273035;Cadillac Model T
+411;454;filial_1;10-04-2022 03:35:25;123758;Dodge A8
+412;465;filial_3;30-04-2022 05:29:59;942330;Maserati El Camino
+413;164;filial_2;15-03-2022 10:18:14;860447;Lamborghini PT Cruiser
+414;463;filial_2;28-02-2022 10:22:49;778061;Rolls Royce Silverado
+415;68;filial_2;30-03-2022 03:59:08;696442;Porsche Roadster
+416;109;filial_3;06-05-2022 01:20:00;852300;Nissan 911
+417;446;filial_3;09-02-2022 04:53:24;140574;Audi Roadster
+418;365;filial_3;05-04-2022 04:51:12;422450;Bentley Camaro
+419;82;filial_1;04-04-2022 01:54:54;671440;Kia Wrangler
+420;360;filial_1;17-03-2022 07:56:14;691163;Fiat Land Cruiser
+421;382;filial_3;06-02-2022 09:31:19;470464;Kia Impala
+422;416;filial_1;20-05-2022 05:27:01;306724;Mercedes Benz Ranchero
+423;415;filial_1;22-03-2022 01:04:19;591051;Honda Expedition
+424;151;filial_2;16-05-2022 11:52:37;66772;Rolls Royce Roadster
+425;324;filial_3;31-03-2022 07:19:59;414160;Nissan Durango
+426;260;filial_2;16-05-2022 02:06:05;90566;Chevrolet Countach
+427;120;filial_2;23-02-2022 01:12:06;856255;Nissan Model 3
+428;395;filial_2;14-04-2022 02:54:34;335498;Rolls Royce Spyder
+429;10;filial_3;28-04-2022 05:00:17;990169;Bugatti Ranchero
+430;447;filial_3;21-05-2022 07:31:33;824075;Cadillac Grand Cherokee
+431;455;filial_1;23-04-2022 10:36:26;57391;Ferrari Aventador
+432;31;filial_2;02-05-2022 08:35:48;370881;Jaguar Corvette
+433;183;filial_1;21-04-2022 10:20:25;219875;Porsche Civic
+434;244;filial_2;14-02-2022 01:53:12;140299;Rolls Royce Countach
+435;52;filial_3;29-04-2022 03:06:44;206316;Nissan Focus
+436;339;filial_3;08-02-2022 04:37:07;138827;Tesla Taurus
+437;255;filial_3;04-02-2022 09:16:24;986311;Jeep El Camino
+438;404;filial_3;10-02-2022 05:44:33;953793;Tesla Countach
+439;33;filial_2;12-03-2022 04:42:52;426814;Maserati Element
+440;132;filial_3;08-05-2022 12:56:16;731642;Jaguar Element
+441;33;filial_3;02-04-2022 01:15:38;651621;Dodge Model T
+442;387;filial_3;27-04-2022 09:32:48;114021;Lamborghini Element
+443;17;filial_3;26-03-2022 06:30:15;864003;Chrysler ATS
+444;201;filial_3;11-05-2022 01:21:39;587400;Porsche Fiesta
+445;469;filial_3;10-02-2022 11:49:20;148777;Audi Durango
+446;297;filial_2;29-04-2022 12:41:06;385515;Ford Civic
+447;423;filial_3;07-04-2022 03:37:35;994008;Porsche Focus
+448;374;filial_3;12-05-2022 05:45:03;876023;Jeep Malibu
+449;192;filial_2;12-03-2022 09:11:41;153557;Toyota Countach
+450;337;filial_1;11-05-2022 06:28:45;328245;Porsche Model 3
+451;7;filial_1;28-05-2022 05:38:28;446862;Toyota Prius
+452;395;filial_2;15-02-2022 09:20:20;336844;Volkswagen Aventador
+453;451;filial_2;30-04-2022 07:12:47;949944;Chevrolet Ranchero
+454;247;filial_3;18-02-2022 09:05:43;894647;Lamborghini Alpine
+455;452;filial_3;03-03-2022 05:20:30;834475;Porsche PT Cruiser
+456;344;filial_3;23-02-2022 08:31:02;922814;Kia Beetle
+457;32;filial_3;03-04-2022 10:44:33;567359;Chrysler A8
+458;406;filial_2;01-02-2022 02:38:59;579216;Lamborghini Silverado
+459;420;filial_1;05-02-2022 12:50:14;691392;Dodge Volt
+460;481;filial_2;26-02-2022 02:41:01;981439;Maserati Escalade
+461;395;filial_1;28-02-2022 03:03:50;329398;Chevrolet ATS
+462;304;filial_1;15-04-2022 05:30:25;963531;Aston Martin Golf
+463;399;filial_3;10-03-2022 03:27:25;917980;Jaguar Focus
+464;232;filial_2;07-03-2022 08:23:40;334806;Chrysler Countach
+465;399;filial_2;15-02-2022 03:05:53;542196;Cadillac Grand Cherokee
+466;313;filial_1;23-05-2022 12:50:33;436783;Audi F-150
+467;127;filial_3;02-04-2022 07:28:02;767175;Maserati Durango
+468;198;filial_2;23-04-2022 08:58:04;770616;Ford XTS
+469;210;filial_2;20-05-2022 01:57:26;491344;Volkswagen Grand Caravan
+470;109;filial_1;25-03-2022 10:22:44;174998;Ford Wrangler
+471;484;filial_1;12-04-2022 07:37:55;136785;Kia Mercielago
+472;334;filial_2;30-03-2022 07:04:35;377693;Porsche Jetta
+473;60;filial_2;22-02-2022 04:38:18;902867;BMW Model 3
+474;326;filial_1;03-02-2022 11:10:20;239448;Porsche El Camino
+475;491;filial_3;05-04-2022 03:24:21;583731;Bugatti Element
+476;52;filial_2;11-02-2022 02:20:45;497419;Nissan CTS
+477;117;filial_2;20-05-2022 12:26:00;130043;Bentley CTS
+478;217;filial_3;02-04-2022 02:41:00;775928;Kia Land Cruiser
+479;226;filial_3;18-04-2022 06:51:33;801764;Mini Explorer
+480;218;filial_1;09-04-2022 03:03:44;986431;BMW F-150
+481;444;filial_3;29-04-2022 04:08:51;398051;Toyota Jetta
+482;160;filial_2;26-02-2022 01:16:33;353140;Mini XTS
+483;300;filial_3;14-03-2022 09:20:02;992827;Jeep Accord
+484;157;filial_2;01-02-2022 05:34:23;86876;Tesla El Camino
+485;190;filial_3;16-05-2022 07:06:10;809120;Maserati XTS
+486;124;filial_1;30-04-2022 07:16:37;983189;Jeep Model T
+487;405;filial_2;30-04-2022 03:17:08;552925;Chevrolet Spyder
+488;417;filial_2;09-02-2022 12:56:06;731597;Tesla A8
+489;394;filial_3;05-03-2022 01:30:22;53623;Land Rover Golf
+490;462;filial_3;11-03-2022 04:59:47;852293;Land Rover Grand Cherokee
+491;51;filial_2;03-03-2022 04:11:25;250889;Mercedes Benz Model T
+492;180;filial_1;13-05-2022 09:39:31;293501;Kia Charger
+493;433;filial_3;18-02-2022 03:41:50;830047;Aston Martin Mercielago
+494;231;filial_1;19-04-2022 08:08:13;921307;Rolls Royce Prius
+495;74;filial_3;22-05-2022 01:06:00;862674;Mercedes Benz Beetle
+496;494;filial_3;30-05-2022 09:59:57;800093;Kia Escalade
+497;184;filial_3;26-05-2022 05:00:32;824380;Bentley A8
+498;214;filial_2;01-04-2022 06:46:50;969890;Lamborghini LeBaron
+499;230;filial_2;13-03-2022 11:30:59;847361;Rolls Royce Alpine
+500;151;filial_2;12-04-2022 11:06:54;897227;Lamborghini Challenger
+501;305;filial_1;27-02-2022 02:49:24;779906;Tesla XTS
+502;106;filial_2;21-05-2022 09:33:04;940344;Maserati El Camino
+503;359;filial_2;31-03-2022 02:41:01;109893;Dodge Malibu
+504;395;filial_2;25-02-2022 04:34:28;140560;Hyandai Model T
+505;429;filial_2;11-03-2022 01:59:30;173955;Mercedes Benz LeBaron
+506;463;filial_1;08-05-2022 07:20:39;456619;Bugatti Countach
+507;382;filial_1;01-03-2022 05:13:09;910015;Cadillac Accord
+508;354;filial_2;16-02-2022 11:10:08;501480;Bentley Prius
+509;183;filial_1;08-03-2022 10:02:05;293231;Honda Expedition
+510;256;filial_2;18-04-2022 04:34:40;212618;BMW Jetta
+511;400;filial_1;04-04-2022 12:20:10;595990;Rolls Royce Camry
+512;66;filial_2;06-05-2022 07:59:04;827386;BMW Malibu
+513;391;filial_2;03-02-2022 10:06:11;997706;Land Rover Cruze
+514;4;filial_2;02-05-2022 07:08:11;126346;Ford Corvette
+515;208;filial_1;27-05-2022 08:23:37;212121;BMW Land Cruiser
+516;417;filial_1;03-03-2022 03:16:25;883717;Dodge 911
+517;475;filial_2;12-05-2022 06:17:16;160963;Porsche ATS
+518;466;filial_2;22-05-2022 03:58:20;244606;Dodge ATS
+519;31;filial_3;08-04-2022 03:06:56;221884;Ferrari Mercielago
+520;163;filial_2;13-02-2022 06:40:03;822542;Lamborghini ATS
+521;434;filial_3;02-02-2022 02:25:47;652167;Nissan 911
+522;133;filial_3;27-03-2022 01:29:27;97630;Cadillac Wrangler
+523;121;filial_1;09-03-2022 06:38:56;127863;Bugatti PT Cruiser
+524;241;filial_2;18-02-2022 01:57:46;735373;Ford Accord
+525;411;filial_2;21-02-2022 04:27:07;262823;Jaguar Mercielago
+526;80;filial_1;06-02-2022 07:37:56;453647;Hyandai Civic
+527;18;filial_3;28-04-2022 05:58:04;350398;Toyota Alpine
+528;283;filial_2;20-03-2022 05:26:11;785483;Fiat Explorer
+529;317;filial_1;24-03-2022 07:19:21;244107;Tesla LeBaron
+530;346;filial_1;16-04-2022 01:28:02;182541;Dodge PT Cruiser
+531;428;filial_3;07-04-2022 07:17:11;869254;Jaguar Altima
+532;261;filial_3;14-05-2022 07:51:21;591482;Rolls Royce Accord
+533;386;filial_1;11-05-2022 04:04:30;362725;BMW A4
+534;387;filial_1;17-05-2022 09:27:02;750730;Rolls Royce Golf
+535;326;filial_3;26-02-2022 03:34:13;261902;Maserati XTS
+536;18;filial_1;08-02-2022 10:41:40;542514;Hyandai PT Cruiser
+537;235;filial_1;23-04-2022 02:47:59;289717;Cadillac Sentra
+538;363;filial_3;02-05-2022 07:03:04;920069;Nissan Spyder
+539;312;filial_2;21-02-2022 05:23:59;865072;Jaguar A8
+540;450;filial_1;20-03-2022 05:06:02;827655;Chrysler Golf
+541;90;filial_2;13-03-2022 02:46:04;884188;Hyandai A8
+542;113;filial_3;01-03-2022 10:51:57;663929;Chrysler Aventador
+543;347;filial_2;14-02-2022 12:19:17;958504;Hyandai Durango
+544;126;filial_3;19-05-2022 10:33:47;673717;Chevrolet Golf
+545;407;filial_2;26-02-2022 12:39:30;988576;Lamborghini Wrangler
+546;373;filial_1;17-02-2022 04:02:24;902718;Bentley Wrangler
+547;152;filial_2;23-05-2022 12:31:56;984705;Nissan Element
+548;369;filial_2;15-03-2022 10:56:27;420041;Fiat Land Cruiser
+549;371;filial_3;07-04-2022 03:48:30;759530;Toyota Beetle
+550;171;filial_3;01-03-2022 11:36:33;368734;Jaguar F-150
+551;350;filial_3;01-02-2022 08:48:01;78575;Lamborghini Expedition
+552;35;filial_1;08-04-2022 07:02:08;458114;Hyandai Mustang
+553;56;filial_1;13-05-2022 09:02:31;442630;Dodge Charger
+554;48;filial_3;30-05-2022 01:41:30;981034;Bentley Fiesta
+555;371;filial_1;09-03-2022 11:35:11;247435;Aston Martin Taurus
+556;371;filial_1;24-04-2022 03:24:33;864234;Mercedes Benz Challenger
+557;8;filial_3;14-03-2022 10:27:49;702564;Lamborghini Altima
+558;200;filial_2;06-03-2022 08:19:03;904649;Jaguar Jetta
+559;13;filial_1;28-04-2022 10:33:26;934761;Ferrari Aventador
+560;257;filial_3;21-03-2022 07:45:05;158855;Bentley Model T
+561;313;filial_2;19-03-2022 06:50:10;191518;Honda Explorer
+562;269;filial_2;18-04-2022 03:23:19;238775;Porsche Corvette
+563;249;filial_2;05-03-2022 02:08:15;944221;Honda Cruze
+564;467;filial_2;22-02-2022 01:18:09;783395;Bugatti Wrangler
+565;290;filial_3;03-02-2022 03:20:30;981653;Rolls Royce Model S
+566;99;filial_3;24-02-2022 11:06:19;435913;Bugatti 911
+567;445;filial_3;16-03-2022 01:07:52;686192;Tesla Impala
+568;304;filial_3;25-04-2022 09:04:27;630217;Cadillac Countach
+569;225;filial_2;15-02-2022 09:00:34;372354;Land Rover Mercielago
+570;192;filial_2;18-04-2022 06:03:24;837789;Jaguar XTS
+571;168;filial_1;17-05-2022 08:48:56;768645;Maserati Impala
+572;334;filial_3;27-04-2022 01:25:24;712192;Volkswagen Spyder
+573;454;filial_1;12-03-2022 03:29:32;312045;Ferrari LeBaron
+574;497;filial_1;22-05-2022 09:22:06;642142;Tesla Corvette
+575;475;filial_1;18-03-2022 08:16:35;189425;Toyota Colorado
+576;349;filial_1;08-05-2022 05:42:41;732233;Kia El Camino
+577;131;filial_1;06-03-2022 09:31:02;405589;Jaguar Cruze
+578;352;filial_3;18-02-2022 03:29:42;657939;Land Rover Sentra
+579;284;filial_2;16-04-2022 04:15:06;210329;Chevrolet Silverado
+580;185;filial_1;28-04-2022 12:28:06;820738;Jaguar Ranchero
+581;313;filial_2;18-03-2022 06:18:29;61221;Porsche ATS
+582;49;filial_2;25-03-2022 04:49:54;309170;Jaguar Land Cruiser
+583;327;filial_3;23-02-2022 11:30:41;307292;Aston Martin Colorado
+584;340;filial_1;26-03-2022 02:01:53;760137;Lamborghini CTS
+585;342;filial_2;19-03-2022 03:44:26;880555;Nissan Sentra
+586;35;filial_1;22-05-2022 01:12:21;662495;Jeep Expedition
+587;73;filial_1;20-04-2022 12:34:15;82413;Lamborghini Golf
+588;318;filial_2;22-05-2022 08:22:07;853563;Honda Colorado
+589;17;filial_1;03-05-2022 10:44:26;626445;Volkswagen Volt
+590;205;filial_1;08-04-2022 11:08:42;213286;Ferrari El Camino
+591;493;filial_3;05-03-2022 09:44:46;308117;Ferrari Aventador
+592;45;filial_1;04-03-2022 05:09:43;266777;Jaguar Accord
+593;65;filial_1;21-05-2022 01:34:35;656049;Nissan Expedition
+594;139;filial_2;22-04-2022 05:08:08;169367;Kia Taurus
+595;396;filial_2;17-02-2022 05:13:41;549959;Bugatti Golf
+596;281;filial_3;10-02-2022 05:21:34;99066;Porsche F-150
+597;460;filial_3;12-03-2022 04:00:17;270621;Honda Land Cruiser
+598;223;filial_1;14-03-2022 06:13:49;760716;Ferrari Alpine
+599;297;filial_1;28-05-2022 08:16:43;953050;Fiat Alpine
+600;103;filial_3;17-04-2022 11:36:15;690517;Bugatti Colorado
+601;305;filial_3;27-04-2022 10:41:23;210442;Fiat Element
+602;107;filial_3;15-04-2022 01:31:09;306949;Rolls Royce Prius
+603;344;filial_3;01-05-2022 04:26:16;301327;Honda Colorado
+604;484;filial_3;26-02-2022 11:42:24;304015;Porsche Prius
+605;325;filial_3;17-05-2022 11:42:37;950961;Bentley Element
+606;492;filial_3;19-02-2022 05:57:26;609708;Mercedes Benz Beetle
+607;287;filial_1;15-04-2022 10:36:14;931991;Volkswagen Corvette
+608;124;filial_2;02-03-2022 08:31:15;618128;Tesla Silverado
+609;341;filial_1;01-04-2022 10:36:56;865858;Aston Martin 911
+610;460;filial_1;29-05-2022 08:29:58;871208;Aston Martin Model S
+611;112;filial_2;09-04-2022 02:32:53;587167;Ferrari Aventador
+612;17;filial_3;01-04-2022 04:52:44;523388;Honda PT Cruiser
+613;320;filial_2;01-03-2022 05:03:24;742874;Hyandai Escalade
+614;279;filial_1;10-05-2022 10:21:33;117181;Chevrolet Grand Caravan
+615;344;filial_3;17-05-2022 07:53:38;146306;Porsche Fiesta
+616;226;filial_3;24-02-2022 11:43:48;288970;Ferrari Charger
+617;239;filial_3;31-03-2022 08:13:17;371528;Audi Model T
+618;340;filial_1;27-03-2022 05:14:11;158801;Chevrolet Malibu
+619;235;filial_2;26-05-2022 11:32:28;97822;Land Rover A8
+620;487;filial_1;29-04-2022 08:06:25;145400;Ferrari Altima
+621;412;filial_3;17-02-2022 08:30:56;647678;Land Rover Wrangler
+622;7;filial_2;25-02-2022 10:05:01;672045;Mercedes Benz Altima
+623;465;filial_1;04-03-2022 01:57:29;281352;Toyota XTS
+624;323;filial_1;29-05-2022 09:04:33;917450;Chevrolet Jetta
+625;38;filial_3;14-04-2022 06:50:39;690069;BMW Altima
+626;188;filial_1;25-03-2022 02:05:24;412037;Volkswagen CTS
+627;498;filial_2;04-05-2022 06:26:05;511471;Chevrolet Camaro
+628;129;filial_2;06-04-2022 10:47:28;525386;Chrysler Alpine
+629;215;filial_1;12-02-2022 09:34:39;665102;Maserati Mercielago
+630;34;filial_2;24-03-2022 10:38:41;64409;Maserati Grand Caravan
+631;275;filial_2;08-02-2022 11:51:48;462835;Dodge Mustang
+632;155;filial_3;04-02-2022 01:08:04;373146;Tesla El Camino
+633;421;filial_1;30-05-2022 01:48:47;122186;Mercedes Benz Model 3
+634;51;filial_1;05-04-2022 11:06:56;773734;Mini Wrangler
+635;462;filial_2;03-04-2022 01:34:50;718234;Jaguar Volt
+636;258;filial_3;23-03-2022 12:14:51;635748;BMW Mercielago
+637;174;filial_1;04-05-2022 03:17:58;940929;Jaguar Challenger
+638;40;filial_1;23-02-2022 01:05:13;889072;Ferrari Volt
+639;163;filial_3;28-03-2022 10:13:00;524231;Mercedes Benz Element
+640;260;filial_3;20-04-2022 07:16:03;719018;Kia Focus
+641;296;filial_3;05-02-2022 07:35:03;334789;Nissan Explorer
+642;310;filial_3;14-03-2022 02:26:23;317513;Bentley Mustang
+643;367;filial_3;17-04-2022 05:16:42;435482;Rolls Royce Mustang
+644;275;filial_3;13-02-2022 05:38:26;651855;Jeep Model S
+645;122;filial_2;17-03-2022 06:43:18;483165;Jaguar Silverado
+646;115;filial_3;09-05-2022 02:41:52;866850;Toyota Beetle
+647;133;filial_3;23-02-2022 04:04:24;233800;Porsche Mercielago
+648;354;filial_1;01-04-2022 04:13:14;159087;Kia Grand Cherokee
+649;360;filial_2;19-02-2022 01:27:43;704998;Lamborghini XTS
+650;20;filial_3;17-05-2022 07:40:48;148162;Hyandai Charger
+651;401;filial_2;08-05-2022 02:06:04;695934;Porsche Wrangler
+652;149;filial_2;06-02-2022 07:00:13;418834;Bentley Prius
+653;451;filial_2;15-05-2022 06:05:35;364605;Honda Grand Caravan
+654;168;filial_1;10-04-2022 06:48:14;426763;Maserati Durango
+655;1;filial_2;19-05-2022 09:30:37;881850;Volkswagen Escalade
+656;125;filial_3;31-03-2022 06:03:38;443412;Nissan Durango
+657;448;filial_2;14-05-2022 02:35:15;527777;Cadillac Volt
+658;361;filial_2;21-03-2022 07:55:40;525391;Chevrolet Malibu
+659;316;filial_2;22-04-2022 07:57:41;915331;BMW Camry
+660;294;filial_3;06-04-2022 12:58:11;888451;Audi Alpine
+661;151;filial_3;03-05-2022 08:48:09;688724;Aston Martin Focus
+662;244;filial_1;11-03-2022 03:01:58;673220;Cadillac Jetta
+663;144;filial_1;21-03-2022 12:10:46;944255;Ferrari Element
+664;275;filial_3;07-05-2022 12:16:14;759396;Jeep Grand Caravan
+665;17;filial_1;26-05-2022 03:06:17;528688;Rolls Royce Jetta
+666;211;filial_2;26-05-2022 07:17:35;308945;Bugatti Taurus
+667;163;filial_1;22-04-2022 06:05:28;168121;Hyandai ATS
+668;114;filial_2;28-03-2022 09:12:49;328122;Lamborghini XTS
+669;246;filial_3;10-05-2022 01:08:55;325524;Honda Grand Cherokee
+670;80;filial_3;29-03-2022 06:31:42;904900;Rolls Royce Volt
+671;180;filial_1;02-02-2022 06:50:29;159904;BMW Durango
+672;150;filial_2;06-05-2022 01:32:55;638697;Land Rover A8
+673;32;filial_2;07-02-2022 08:52:36;621432;BMW CTS
+674;240;filial_2;10-02-2022 10:45:49;265535;Porsche Model 3
+675;224;filial_1;15-05-2022 05:28:29;365505;Kia Camaro
+676;281;filial_3;28-03-2022 04:56:55;487722;Aston Martin Sentra
+677;417;filial_2;26-03-2022 06:34:02;378368;Ferrari Accord
+678;188;filial_1;29-03-2022 10:50:45;842118;Audi Golf
+679;61;filial_1;05-03-2022 12:25:15;364926;Ford A4
+680;327;filial_1;15-04-2022 12:38:51;603706;Maserati Aventador
+681;98;filial_2;23-02-2022 05:38:50;77656;Maserati Spyder
+682;226;filial_3;24-04-2022 08:48:12;749855;Bentley Element
+683;349;filial_2;27-02-2022 06:08:49;511329;Dodge Camaro
+684;485;filial_3;10-02-2022 07:09:07;418226;Mercedes Benz Jetta
+685;84;filial_2;21-02-2022 01:48:20;711761;Lamborghini Roadster
+686;370;filial_3;29-04-2022 07:26:08;578457;Porsche Accord
+687;495;filial_3;20-03-2022 10:21:14;478946;Chevrolet Focus
+688;156;filial_1;05-05-2022 10:08:17;286709;Fiat Grand Cherokee
+689;347;filial_3;27-04-2022 04:59:44;990037;BMW Escalade
+690;319;filial_2;27-04-2022 01:19:22;244633;Honda Prius
+691;434;filial_2;30-03-2022 02:42:46;709896;Maserati Fiesta
+692;164;filial_1;10-02-2022 10:10:38;649891;Jaguar PT Cruiser
+693;148;filial_3;14-03-2022 08:25:15;903228;Nissan Impala
+694;343;filial_1;19-03-2022 11:30:17;214759;Aston Martin Jetta
+695;55;filial_2;18-03-2022 11:51:30;947183;Kia Mustang
+696;91;filial_3;02-02-2022 06:31:29;280061;Chrysler XTS
+697;211;filial_1;13-04-2022 07:03:56;807411;Volkswagen Corvette
+698;43;filial_2;08-02-2022 10:44:28;205828;Chrysler Challenger
+699;270;filial_3;02-04-2022 03:07:54;991385;Ferrari Escalade
+700;233;filial_2;19-05-2022 03:50:34;415804;Porsche Corvette
+701;232;filial_1;16-05-2022 08:14:16;611490;Audi CTS
+702;366;filial_2;20-02-2022 11:43:07;986228;Nissan Corvette
+703;126;filial_3;27-03-2022 10:36:21;233065;Ford Model 3
+704;127;filial_3;16-03-2022 04:44:22;668715;Volkswagen Challenger
+705;14;filial_1;06-05-2022 04:28:43;587611;Ford Escalade
+706;385;filial_2;09-04-2022 03:13:41;327380;Tesla Land Cruiser
+707;260;filial_2;24-02-2022 12:36:31;99558;Toyota Element
+708;25;filial_1;02-05-2022 03:13:19;309070;Fiat Sentra
+709;249;filial_3;01-03-2022 07:36:45;961937;Nissan Civic
+710;330;filial_3;19-02-2022 12:48:07;57609;Kia A4
+711;356;filial_2;23-04-2022 08:32:09;951322;Lamborghini Expedition
+712;78;filial_2;27-04-2022 09:44:23;162465;Jeep Model S
+713;205;filial_3;14-04-2022 03:49:43;723704;Mercedes Benz F-150
+714;122;filial_3;04-02-2022 07:48:42;375053;Dodge Countach
+715;228;filial_2;09-04-2022 11:02:59;151582;Honda Focus
+716;27;filial_2;28-04-2022 03:53:06;931562;Cadillac Colorado
+717;290;filial_3;17-03-2022 09:04:43;566711;Maserati Roadster
+718;133;filial_2;13-04-2022 12:13:30;375166;Dodge Beetle
+719;288;filial_1;24-02-2022 09:20:48;482794;Hyandai Mercielago
+720;354;filial_3;03-02-2022 09:20:16;960173;Rolls Royce Civic
+721;242;filial_1;19-02-2022 09:16:46;767854;Chrysler Civic
+722;455;filial_3;08-05-2022 12:12:27;517524;Mini Taurus
+723;3;filial_3;13-04-2022 06:45:37;501188;Fiat Golf
+724;459;filial_1;03-04-2022 10:59:38;245488;Bugatti Camaro
+725;278;filial_1;25-03-2022 10:50:11;664052;Nissan Beetle
+726;211;filial_1;12-04-2022 07:52:48;782982;Tesla Silverado
+727;41;filial_2;28-02-2022 10:17:05;754735;Ford Alpine
+728;83;filial_1;14-03-2022 05:56:43;194059;Cadillac Spyder
+729;203;filial_1;29-05-2022 03:49:36;63878;Tesla Beetle
+730;30;filial_2;08-05-2022 09:48:39;949259;Fiat Corvette
+731;317;filial_1;12-03-2022 02:11:28;582493;Honda Roadster
+732;9;filial_3;03-04-2022 02:42:34;465959;Mercedes Benz Altima
+733;443;filial_3;20-02-2022 10:36:42;962520;Hyandai Camry
+734;437;filial_2;22-03-2022 08:12:50;932098;Mercedes Benz Silverado
+735;219;filial_1;09-05-2022 05:21:47;828563;Porsche Spyder
+736;302;filial_2;08-03-2022 05:03:46;763901;Volkswagen Model T
+737;232;filial_2;27-03-2022 06:22:21;684909;Jeep Beetle
+738;467;filial_3;16-05-2022 04:47:48;958109;Tesla Beetle
+739;196;filial_2;02-02-2022 09:03:53;916743;Toyota ATS
+740;118;filial_1;18-05-2022 04:25:59;127271;Rolls Royce Grand Caravan
+741;236;filial_3;18-03-2022 09:39:54;174415;Audi XTS
+742;60;filial_3;26-05-2022 04:01:34;547608;Maserati A8
+743;13;filial_3;04-02-2022 01:28:31;651386;Cadillac Model T
+744;280;filial_2;19-05-2022 07:23:48;598508;Aston Martin Explorer
+745;482;filial_1;15-02-2022 01:40:57;295853;Jaguar Corvette
+746;208;filial_2;27-02-2022 03:26:19;701598;Volkswagen Camaro
+747;94;filial_2;11-04-2022 04:13:50;697034;Toyota Civic
+748;452;filial_2;20-03-2022 09:06:52;586105;Mini Impala
+749;108;filial_1;01-03-2022 10:37:01;205782;Audi Beetle
+750;337;filial_1;21-02-2022 05:27:26;95655;Dodge A4
+751;396;filial_2;18-05-2022 10:53:27;479317;Jaguar A4
+752;309;filial_2;06-04-2022 06:45:30;734626;Cadillac A4
+753;198;filial_3;20-04-2022 01:28:03;548356;Toyota Challenger
+754;364;filial_2;21-02-2022 08:27:39;990897;Chevrolet Focus
+755;268;filial_1;27-03-2022 01:13:18;271453;Jeep Roadster
+756;176;filial_1;10-05-2022 08:05:12;62976;Honda LeBaron
+757;426;filial_2;29-03-2022 04:10:12;393550;Hyandai Explorer
+758;308;filial_3;08-03-2022 07:29:40;535390;Hyandai Taurus
+759;492;filial_2;27-03-2022 05:24:27;745550;Toyota Sentra
+760;33;filial_2;27-05-2022 02:08:41;144735;Chrysler Volt
+761;124;filial_3;26-05-2022 05:09:13;187266;Land Rover Fiesta
+762;476;filial_3;11-03-2022 07:38:37;412187;Hyandai PT Cruiser
+763;463;filial_2;01-02-2022 11:53:55;308360;Dodge Mercielago
+764;369;filial_1;25-04-2022 09:44:27;398262;Ferrari Accord
+765;138;filial_1;10-04-2022 02:03:35;311587;Jaguar Ranchero
+766;37;filial_2;18-04-2022 09:57:16;719623;Jaguar Challenger
+767;283;filial_3;24-02-2022 09:26:44;438844;Honda Fiesta
+768;325;filial_2;01-02-2022 08:42:10;732439;Dodge Sentra
+769;405;filial_2;20-04-2022 08:58:23;614021;Fiat Silverado
+770;255;filial_3;05-03-2022 09:16:36;306336;Volkswagen Explorer
+771;408;filial_3;15-03-2022 07:42:32;88980;Lamborghini Explorer
+772;499;filial_1;21-04-2022 07:43:06;523119;Cadillac Beetle
+773;141;filial_1;21-05-2022 03:41:22;138753;Lamborghini Charger
+774;1;filial_3;20-04-2022 03:16:39;749458;Dodge Explorer
+775;260;filial_3;25-03-2022 01:48:29;180510;Audi Mercielago
+776;93;filial_1;26-02-2022 09:53:49;684084;Land Rover Focus
+777;36;filial_2;07-05-2022 11:28:56;823094;Audi F-150
+778;110;filial_1;01-05-2022 12:37:25;435718;Bugatti ATS
+779;208;filial_1;17-03-2022 05:38:35;199471;Jaguar Model 3
+780;493;filial_2;13-02-2022 10:22:56;509508;Fiat Charger
+781;239;filial_1;02-05-2022 01:23:34;670720;Rolls Royce Sentra
+782;131;filial_2;16-02-2022 03:55:50;591649;Aston Martin Camry
+783;335;filial_1;19-05-2022 11:38:41;575545;Rolls Royce LeBaron
+784;319;filial_2;07-02-2022 04:33:00;119477;Mercedes Benz Roadster
+785;153;filial_3;16-03-2022 03:20:48;269870;Chevrolet Silverado
+786;248;filial_3;08-02-2022 10:51:22;244470;Jaguar ATS
+787;472;filial_2;29-03-2022 09:10:48;146248;Maserati Model S
+788;448;filial_1;22-02-2022 12:19:13;495399;Audi Golf
+789;447;filial_2;01-05-2022 09:00:35;965826;Jeep Wrangler
+790;340;filial_3;27-05-2022 08:14:59;92095;Land Rover Prius
+791;24;filial_1;01-03-2022 12:33:41;496576;Bugatti Model S
+792;96;filial_1;20-04-2022 10:42:39;893624;Tesla Altima
+793;61;filial_2;29-04-2022 01:43:21;657529;Mini Colorado
+794;186;filial_3;13-05-2022 03:39:28;602865;Ford El Camino
+795;456;filial_2;02-03-2022 07:39:08;308096;Chrysler Alpine
+796;6;filial_2;12-03-2022 10:53:31;961725;Cadillac Focus
+797;79;filial_1;08-02-2022 10:05:20;473986;Chevrolet Spyder
+798;397;filial_1;25-05-2022 11:08:28;559706;Mercedes Benz Aventador
+799;448;filial_3;02-02-2022 04:40:14;575986;Bentley LeBaron
+800;122;filial_1;12-05-2022 05:17:11;861518;Toyota Volt
+801;179;filial_3;29-03-2022 07:38:04;551448;Bentley Land Cruiser
+802;320;filial_3;11-03-2022 07:44:19;592663;Chevrolet Camry
+803;461;filial_3;01-03-2022 03:39:54;554278;Tesla Civic
+804;34;filial_1;05-02-2022 07:30:26;463275;Hyandai Model 3
+805;475;filial_1;24-04-2022 12:29:38;675111;Honda PT Cruiser
+806;115;filial_3;10-02-2022 09:06:14;57296;Ferrari Expedition
+807;226;filial_3;13-05-2022 10:48:11;315423;Tesla Escalade
+808;494;filial_1;25-04-2022 11:01:48;678220;BMW F-150
+809;204;filial_1;27-03-2022 03:41:59;582670;Honda XTS
+810;439;filial_1;31-03-2022 10:02:50;907545;Mercedes Benz Altima
+811;119;filial_3;08-02-2022 05:23:52;362084;Chevrolet Mercielago
+812;490;filial_3;11-05-2022 02:33:59;398834;Aston Martin Silverado
+813;36;filial_2;17-05-2022 11:12:44;314571;Bugatti El Camino
+814;481;filial_3;20-02-2022 06:42:30;185429;Chrysler LeBaron
+815;122;filial_3;05-05-2022 10:35:36;219367;Aston Martin Camaro
+816;189;filial_3;20-05-2022 11:01:19;830442;Hyandai Sentra
+817;340;filial_1;23-03-2022 05:59:39;397072;Volkswagen PT Cruiser
+818;228;filial_3;04-02-2022 04:03:44;958477;Bugatti A8
+819;75;filial_2;03-02-2022 02:26:11;98275;Audi Colorado
+820;54;filial_3;12-05-2022 01:46:49;930586;Ford Expedition
+821;74;filial_2;07-02-2022 05:48:04;51163;Bentley Challenger
+822;199;filial_1;16-05-2022 04:04:38;477128;Audi Sentra
+823;168;filial_3;01-03-2022 04:59:33;55808;Bentley Altima
+824;277;filial_3;17-05-2022 06:36:43;191614;Jeep Taurus
+825;56;filial_2;28-05-2022 04:04:18;998125;Land Rover A4
+826;55;filial_2;11-05-2022 02:47:05;998967;Toyota Sentra
+827;81;filial_2;22-03-2022 10:32:14;718148;Honda Silverado
+828;82;filial_2;29-05-2022 10:40:30;73342;Jaguar 911
+829;191;filial_3;06-03-2022 07:38:33;480610;Mercedes Benz Explorer
+830;329;filial_3;16-03-2022 02:02:02;374383;Volkswagen Focus
+831;49;filial_3;26-05-2022 11:40:27;615669;Jaguar XTS
+832;142;filial_2;05-04-2022 06:12:27;841689;Mercedes Benz Altima
+833;172;filial_1;17-04-2022 09:58:39;682618;Chrysler Colorado
+834;412;filial_1;05-05-2022 06:09:14;971483;Mercedes Benz Roadster
+835;465;filial_2;18-03-2022 08:45:15;316559;Jaguar Model 3
+836;94;filial_2;21-03-2022 10:12:00;831802;Tesla PT Cruiser
+837;112;filial_3;24-02-2022 03:27:22;871222;Tesla Mustang
+838;394;filial_3;26-04-2022 09:14:18;952063;Rolls Royce Altima
+839;472;filial_2;17-02-2022 01:00:38;764188;Tesla Model 3
+840;363;filial_2;06-02-2022 03:48:58;400416;Fiat Mustang
+841;297;filial_2;07-04-2022 12:44:52;140454;Nissan Impala
+842;384;filial_1;19-02-2022 03:33:41;818293;Bentley Model 3
+843;124;filial_3;10-04-2022 06:14:33;934071;Bugatti Corvette
+844;274;filial_2;02-03-2022 04:16:00;248104;BMW Wrangler
+845;486;filial_2;10-05-2022 12:16:24;469914;Porsche Sentra
+846;45;filial_3;28-03-2022 01:28:38;225180;Chevrolet Impala
+847;133;filial_2;18-04-2022 07:48:35;779857;Cadillac Corvette
+848;197;filial_2;19-02-2022 07:15:27;225071;Bugatti Camaro
+849;98;filial_2;14-05-2022 10:59:33;820651;Dodge Cruze
+850;484;filial_1;09-03-2022 10:51:40;357092;Jaguar El Camino
+851;190;filial_3;07-04-2022 01:12:53;143147;Mini Corvette
+852;468;filial_2;28-03-2022 04:43:36;819786;Tesla Mustang
+853;98;filial_3;28-03-2022 12:50:33;959755;Bentley Altima
+854;499;filial_1;12-05-2022 03:01:32;630494;Fiat Prius
+855;63;filial_3;26-05-2022 12:05:05;313755;Honda El Camino
+856;321;filial_2;17-03-2022 03:58:40;413866;Bentley Charger
+857;250;filial_2;05-03-2022 04:06:13;434985;Tesla F-150
+858;180;filial_2;27-04-2022 04:03:59;733438;Jaguar Spyder
+859;194;filial_1;26-02-2022 06:30:40;800954;Toyota CTS
+860;234;filial_1;17-05-2022 10:45:16;183670;Cadillac Focus
+861;211;filial_1;01-02-2022 09:04:46;294685;Land Rover Fiesta
+862;465;filial_3;22-04-2022 04:59:32;146311;Volkswagen F-150
+863;173;filial_2;19-04-2022 03:07:33;957795;Maserati 911
+864;448;filial_2;28-05-2022 08:49:24;999647;Porsche Challenger
+865;255;filial_3;29-04-2022 10:32:27;439991;Jeep Expedition
+866;20;filial_1;28-02-2022 09:36:06;900279;Mini Aventador
+867;213;filial_3;27-03-2022 11:22:36;303889;Chevrolet Aventador
+868;315;filial_1;09-04-2022 08:40:46;779086;Jaguar XTS
+869;457;filial_2;31-03-2022 12:27:16;321932;Mini Alpine
+870;486;filial_1;17-04-2022 05:19:52;917249;Tesla LeBaron
+871;81;filial_1;21-04-2022 02:15:28;696459;Dodge Mustang
+872;402;filial_1;03-05-2022 12:31:55;536486;Bugatti A8
+873;154;filial_2;15-04-2022 11:35:23;55381;Bentley Alpine
+874;279;filial_3;07-04-2022 01:08:18;248154;Audi A4
+875;203;filial_1;16-02-2022 08:44:27;726062;Bentley Civic
+876;49;filial_3;05-04-2022 08:07:23;158584;Chevrolet Impala
+877;127;filial_2;10-05-2022 11:09:04;867694;Ford Ranchero
+878;410;filial_3;01-02-2022 09:13:34;879893;Honda Wrangler
+879;132;filial_2;04-04-2022 07:29:13;767745;Bugatti Focus
+880;36;filial_2;31-03-2022 09:10:17;183468;BMW Grand Caravan
+881;469;filial_1;27-04-2022 01:17:42;299201;Bentley Silverado
+882;132;filial_3;07-05-2022 07:28:26;55317;Ford Expedition
+883;412;filial_2;12-04-2022 05:21:39;798394;Ford Taurus
+884;193;filial_1;04-04-2022 12:54:23;616956;Audi Beetle
+885;238;filial_3;27-03-2022 01:42:49;897866;Chrysler Cruze
+886;168;filial_1;24-05-2022 02:47:35;821483;Cadillac Element
+887;377;filial_2;23-02-2022 12:19:10;348842;Mercedes Benz Element
+888;30;filial_1;13-03-2022 04:11:58;206564;BMW Camry
+889;372;filial_2;12-03-2022 06:51:53;463644;Mercedes Benz F-150
+890;206;filial_1;15-03-2022 04:36:20;240600;Dodge Camaro
+891;154;filial_2;15-03-2022 07:47:28;295312;Rolls Royce Challenger
+892;453;filial_2;12-03-2022 09:11:54;891724;Toyota Charger
+893;8;filial_2;23-04-2022 03:56:41;891961;Land Rover CTS
+894;471;filial_1;04-05-2022 12:33:28;279445;Land Rover Charger
+895;473;filial_2;20-05-2022 10:22:53;781888;Fiat Roadster
+896;2;filial_3;14-03-2022 04:57:27;286703;Nissan Mustang
+897;466;filial_3;27-03-2022 11:21:04;136651;Mercedes Benz F-150
+898;212;filial_2;30-04-2022 11:46:10;249236;Fiat Mustang
+899;264;filial_2;23-03-2022 12:27:03;796108;Volkswagen Spyder
+900;276;filial_3;07-03-2022 07:27:00;313886;Dodge F-150
+901;148;filial_2;15-02-2022 09:18:02;794935;Lamborghini Spyder
+902;389;filial_3;26-05-2022 11:25:44;541287;Kia Model S
+903;167;filial_2;27-04-2022 02:57:27;955034;Ford Prius
+904;253;filial_1;18-03-2022 09:53:36;526139;Chevrolet Wrangler
+905;346;filial_3;22-03-2022 08:45:31;843401;Tesla Spyder
+906;385;filial_2;30-04-2022 07:56:36;519961;Aston Martin Escalade
+907;50;filial_3;03-04-2022 02:56:41;697127;Audi Expedition
+908;82;filial_3;21-05-2022 02:33:03;422416;Jeep A8
+909;288;filial_3;08-03-2022 07:30:56;785336;Maserati Volt
+910;275;filial_2;22-02-2022 02:59:10;459255;Mini A4
+911;449;filial_1;02-02-2022 08:21:35;97338;Jeep Challenger
+912;51;filial_2;14-05-2022 11:06:45;598388;Bugatti ATS
+913;154;filial_1;16-05-2022 08:30:42;601921;Rolls Royce LeBaron
+914;131;filial_3;15-03-2022 12:13:50;855771;Mercedes Benz Mustang
+915;22;filial_2;16-05-2022 01:48:19;322215;Fiat Countach
+916;211;filial_2;23-04-2022 12:42:41;828266;Lamborghini Civic
+917;308;filial_3;17-05-2022 02:09:33;160923;Dodge Grand Cherokee
+918;14;filial_1;03-04-2022 10:46:32;922273;Bentley Roadster
+919;425;filial_3;15-03-2022 02:49:56;633916;Fiat Prius
+920;487;filial_3;04-05-2022 11:31:36;260680;Porsche Model S
+921;432;filial_1;31-03-2022 03:36:12;596627;Honda Mustang
+922;139;filial_1;27-03-2022 01:18:47;821402;Volkswagen Countach
+923;482;filial_2;02-02-2022 01:21:29;817364;Porsche Taurus
+924;74;filial_3;24-05-2022 06:46:31;198498;Honda Charger
+925;367;filial_2;05-02-2022 02:15:33;126158;Ferrari Fiesta
+926;186;filial_1;25-04-2022 11:17:21;769372;Fiat A8
+927;107;filial_3;23-04-2022 10:25:11;101571;Mercedes Benz Model T
+928;472;filial_2;15-03-2022 10:56:39;704982;Chevrolet LeBaron
+929;135;filial_3;30-04-2022 05:41:10;836467;Fiat Aventador
+930;495;filial_3;28-04-2022 11:53:35;456028;Fiat Fiesta
+931;138;filial_3;29-04-2022 11:21:07;426851;Porsche Model 3
+932;357;filial_3;10-05-2022 07:55:37;761146;Fiat Element
+933;92;filial_1;03-03-2022 10:55:14;80675;Bugatti Explorer
+934;477;filial_1;13-02-2022 10:55:31;416202;Ferrari Accord
+935;22;filial_3;06-02-2022 10:59:31;156340;Tesla Alpine
+936;115;filial_1;05-03-2022 10:39:35;589169;Land Rover Durango
+937;218;filial_3;18-02-2022 03:41:46;123373;Kia LeBaron
+938;91;filial_1;05-03-2022 12:15:50;420291;Ford Focus
+939;194;filial_2;08-05-2022 01:20:10;388120;Maserati Impala
+940;178;filial_3;24-04-2022 09:31:47;214799;Audi Corvette
+941;309;filial_2;14-05-2022 11:46:41;730465;Lamborghini Cruze
+942;150;filial_3;22-03-2022 06:04:32;941181;Bugatti Ranchero
+943;383;filial_1;16-05-2022 08:47:16;327788;Lamborghini Countach
+944;45;filial_2;05-03-2022 04:37:12;97291;Lamborghini Prius
+945;7;filial_2;20-03-2022 03:10:04;254772;Nissan Land Cruiser
+946;81;filial_2;26-02-2022 04:58:42;594220;Nissan Model T
+947;471;filial_1;23-04-2022 08:51:35;951463;BMW Focus
+948;353;filial_3;10-05-2022 10:04:44;382858;Toyota Element
+949;226;filial_2;23-03-2022 05:52:00;711543;Ferrari Golf
+950;443;filial_3;22-02-2022 01:01:24;142006;Audi CTS
+951;163;filial_3;10-05-2022 03:50:13;412003;Aston Martin XTS
+952;473;filial_2;28-03-2022 02:46:02;860026;Ferrari Element
+953;153;filial_3;28-05-2022 07:45:11;188358;Rolls Royce Model T
+954;97;filial_2;22-03-2022 09:05:39;484015;Volkswagen Malibu
+955;407;filial_1;16-05-2022 03:26:42;147271;Cadillac El Camino
+956;254;filial_1;10-03-2022 07:12:09;374689;Cadillac Grand Cherokee
+957;112;filial_2;28-05-2022 05:19:40;770224;Fiat Colorado
+958;210;filial_2;01-02-2022 08:05:55;783675;Lamborghini Countach
+959;340;filial_2;09-03-2022 04:40:36;184498;Aston Martin Taurus
+960;178;filial_1;25-04-2022 02:59:27;972018;Tesla Charger
+961;100;filial_3;04-05-2022 07:14:22;622740;Toyota Model T
+962;468;filial_3;06-02-2022 01:36:29;219315;Chevrolet Accord
+963;414;filial_3;09-05-2022 07:30:32;915027;Bentley Model S
+964;298;filial_2;11-04-2022 09:46:31;535808;Rolls Royce Camaro
+965;107;filial_2;30-05-2022 11:50:22;426674;Jeep Beetle
+966;206;filial_2;28-04-2022 01:07:54;724524;Ferrari Grand Cherokee
+967;362;filial_2;22-03-2022 12:49:14;609154;Porsche Colorado
+968;223;filial_3;16-04-2022 02:36:53;715457;Jaguar ATS
+969;345;filial_2;10-02-2022 05:00:57;532489;Cadillac Ranchero
+970;357;filial_2;16-05-2022 11:12:04;95940;Fiat Silverado
+971;481;filial_2;21-05-2022 08:58:14;110643;Maserati A4
+972;118;filial_2;04-03-2022 06:12:27;589711;Tesla Malibu
+973;38;filial_3;25-03-2022 10:20:39;568122;Lamborghini Model 3
+974;105;filial_1;06-04-2022 08:40:42;443679;Chevrolet Expedition
+975;414;filial_1;26-02-2022 01:54:38;774991;Tesla Expedition
+976;134;filial_3;29-03-2022 05:13:01;869261;Porsche Wrangler
+977;129;filial_1;12-03-2022 09:19:15;358308;Cadillac A4
+978;308;filial_1;25-04-2022 12:37:08;806034;Porsche Spyder
+979;307;filial_2;09-05-2022 08:49:57;810223;Bugatti Jetta
+980;305;filial_2;15-05-2022 11:49:51;674914;Volkswagen El Camino
+981;289;filial_1;29-05-2022 03:53:02;969852;Ford PT Cruiser
+982;420;filial_2;21-03-2022 06:00:16;72266;Hyandai Grand Cherokee
+983;85;filial_2;08-02-2022 10:34:45;243836;Audi Impala
+984;339;filial_2;18-03-2022 06:20:36;430321;Bugatti Accord
+985;376;filial_3;03-05-2022 08:31:02;498244;Fiat Civic
+986;120;filial_3;06-04-2022 05:21:40;525180;Dodge ATS
+987;118;filial_2;03-04-2022 08:28:58;852919;Honda El Camino
+988;216;filial_3;15-02-2022 05:24:43;332975;Volkswagen Fiesta
+989;68;filial_3;26-03-2022 01:59:51;858618;Honda Countach
+990;309;filial_2;10-05-2022 12:15:32;817679;Mercedes Benz Colorado
+991;341;filial_3;09-04-2022 12:42:55;182817;Audi Prius
+992;435;filial_3;01-02-2022 07:56:21;585078;Cadillac Ranchero
+993;119;filial_3;17-02-2022 09:48:23;730822;Toyota Expedition
+994;312;filial_2;11-04-2022 09:12:30;140275;Ferrari Civic
+995;36;filial_3;03-03-2022 11:44:07;268439;Porsche Civic
+996;129;filial_2;05-02-2022 09:02:45;296929;Audi A8
+997;446;filial_3;12-03-2022 12:46:50;863465;Porsche Charger
+998;492;filial_2;04-04-2022 05:00:40;698588;Mercedes Benz Land Cruiser
+999;126;filial_3;27-03-2022 08:03:09;180200;Toyota Wrangler
+1000;388;filial_2;09-04-2022 11:29:42;101557;Volkswagen Land Cruiser
+1001;385;filial_1;28-02-2022 07:16:38;859187;Nissan Impala
+1002;23;filial_2;22-03-2022 11:20:54;807178;Hyandai Model 3
+1003;123;filial_2;03-02-2022 07:33:20;386064;Aston Martin XTS
+1004;418;filial_1;05-02-2022 08:29:35;942458;Cadillac Camry
+1005;172;filial_2;10-03-2022 08:17:39;838917;BMW 911
+1006;92;filial_1;20-05-2022 03:58:04;435297;Honda Wrangler
+1007;186;filial_2;20-03-2022 10:05:20;287895;Kia Model T
+1008;205;filial_2;19-05-2022 05:30:35;375324;Bentley Model T
+1009;492;filial_2;10-02-2022 01:10:12;415974;Lamborghini Silverado
+1010;161;filial_3;20-05-2022 05:27:24;900854;Tesla Fiesta
+1011;318;filial_3;31-03-2022 02:54:43;999714;Ferrari Charger
+1012;222;filial_3;09-04-2022 07:06:00;747683;Honda Camaro
+1013;477;filial_1;19-04-2022 02:43:31;625319;Maserati Colorado
+1014;405;filial_3;08-04-2022 02:32:19;770963;Mini El Camino
+1015;224;filial_3;12-03-2022 08:57:11;157103;Porsche A4
+1016;226;filial_3;10-04-2022 11:13:55;59291;Aston Martin Element
+1017;445;filial_3;29-03-2022 06:11:01;647496;Chrysler Golf
+1018;427;filial_1;01-05-2022 06:01:07;823888;Land Rover Impala
+1019;495;filial_1;05-05-2022 08:12:05;685508;Land Rover Roadster
+1020;145;filial_3;08-02-2022 01:48:47;247603;Jaguar Escalade
+1021;432;filial_2;12-05-2022 09:04:52;143947;BMW Grand Cherokee
+1022;344;filial_2;21-03-2022 08:49:24;286996;Mercedes Benz CTS
+1023;365;filial_3;15-04-2022 01:20:39;266502;Ford Wrangler
+1024;231;filial_1;17-05-2022 06:34:35;324973;Chrysler Camaro
+1025;229;filial_2;06-05-2022 11:52:53;592319;Honda Mustang
+1026;45;filial_2;20-02-2022 09:06:28;848648;Lamborghini PT Cruiser
+1027;287;filial_1;05-02-2022 08:08:46;357085;Bentley Durango
+1028;193;filial_2;04-02-2022 05:37:48;546748;Rolls Royce Camry
+1029;467;filial_3;07-02-2022 05:34:05;580908;Rolls Royce ATS
+1030;441;filial_2;10-03-2022 10:32:00;554985;Audi Impala
+1031;458;filial_3;10-02-2022 12:57:32;803739;Ford Golf
+1032;60;filial_1;24-05-2022 06:30:25;116025;Cadillac Alpine
+1033;209;filial_3;05-04-2022 08:55:42;645246;Chrysler XTS
+1034;209;filial_3;05-05-2022 01:57:42;847186;Mercedes Benz Grand Cherokee
+1035;195;filial_3;21-05-2022 06:09:26;225897;Cadillac Model 3
+1036;317;filial_1;17-02-2022 07:55:26;782585;Kia Countach
+1037;59;filial_1;11-05-2022 10:00:35;476988;Tesla Explorer
+1038;233;filial_2;05-03-2022 06:12:24;509440;Cadillac Countach
+1039;391;filial_2;24-05-2022 01:46:21;903351;Tesla Ranchero
+1040;199;filial_2;25-02-2022 11:09:02;183184;Jeep Model S
+1041;371;filial_3;27-05-2022 07:26:28;844017;Chevrolet Fiesta
+1042;377;filial_3;21-02-2022 04:44:02;116344;Hyandai Aventador
+1043;161;filial_3;26-04-2022 07:08:43;961505;Land Rover Challenger
+1044;85;filial_2;17-05-2022 04:34:32;336114;Tesla F-150
+1045;407;filial_1;02-03-2022 02:08:48;642953;Mini Altima
+1046;396;filial_1;11-03-2022 06:45:36;83218;Toyota Alpine
+1047;324;filial_2;14-03-2022 08:54:09;172342;Volkswagen Volt
+1048;436;filial_3;12-05-2022 04:49:35;827141;Tesla Mercielago
+1049;175;filial_2;09-04-2022 08:32:01;294649;Rolls Royce Camry
+1050;319;filial_1;11-03-2022 11:39:05;291831;Ford Model 3
+1051;385;filial_1;25-04-2022 10:34:18;208241;Hyandai Model S
+1052;254;filial_2;30-05-2022 04:36:09;874036;Cadillac Grand Cherokee
+1053;165;filial_3;21-05-2022 07:01:44;429277;Kia Beetle
+1054;489;filial_1;06-05-2022 11:56:46;628005;Ford Golf
+1055;364;filial_3;07-04-2022 02:25:30;617127;Cadillac A4
+1056;29;filial_2;23-04-2022 12:42:10;540704;Audi Mercielago
+1057;293;filial_2;22-02-2022 04:52:08;409472;Fiat Cruze
+1058;334;filial_3;25-02-2022 02:18:09;724434;Ford Accord
+1059;349;filial_3;13-02-2022 01:21:40;168588;Hyandai Accord
+1060;179;filial_1;04-03-2022 01:59:00;500788;Mini Camry
+1061;141;filial_2;28-04-2022 11:28:34;960794;Chevrolet Wrangler
+1062;372;filial_1;25-02-2022 08:17:05;285294;Mini Colorado
+1063;436;filial_1;22-04-2022 03:15:35;953141;Toyota Land Cruiser
+1064;80;filial_2;13-04-2022 08:41:43;832446;Mercedes Benz 911
+1065;253;filial_3;21-02-2022 09:45:33;752519;Porsche Fiesta
+1066;412;filial_2;23-04-2022 07:45:31;271974;Chevrolet Model S
+1067;381;filial_1;24-04-2022 04:26:00;410528;Bugatti Cruze
+1068;324;filial_1;03-02-2022 04:13:43;243303;Mini Alpine
+1069;448;filial_2;19-05-2022 12:22:22;545322;Volkswagen Grand Cherokee
+1070;206;filial_1;26-04-2022 11:52:09;491818;Volkswagen Alpine
+1071;348;filial_3;19-05-2022 05:09:39;668181;Hyandai PT Cruiser
+1072;406;filial_1;19-04-2022 10:41:00;435862;Maserati Alpine
+1073;300;filial_3;05-04-2022 06:26:31;338147;Porsche Taurus
+1074;427;filial_2;20-03-2022 01:11:40;863976;Mercedes Benz Altima
+1075;205;filial_1;09-05-2022 10:43:14;323162;Honda Sentra
+1076;403;filial_2;28-04-2022 10:50:50;614970;Mini Camry
+1077;358;filial_2;15-04-2022 06:24:08;270725;Kia Fiesta
+1078;389;filial_1;12-02-2022 12:51:56;83596;Mercedes Benz Mercielago
+1079;363;filial_2;15-04-2022 07:15:37;492844;Jeep Prius
+1080;107;filial_1;25-05-2022 02:53:55;728763;Rolls Royce Grand Cherokee
+1081;287;filial_3;24-02-2022 08:28:08;957839;Jeep Malibu
+1082;300;filial_3;14-05-2022 12:04:45;133823;Nissan Durango
+1083;317;filial_3;22-05-2022 04:22:03;821193;Dodge Beetle
+1084;445;filial_1;28-03-2022 02:47:19;667599;Land Rover ATS
+1085;171;filial_3;17-02-2022 09:37:54;709641;Honda Mustang
+1086;406;filial_1;18-03-2022 02:55:05;993193;Bugatti Altima
+1087;131;filial_2;17-05-2022 04:07:44;901500;Nissan Camaro
+1088;89;filial_3;04-03-2022 05:40:59;112428;Honda Expedition
+1089;91;filial_1;14-02-2022 08:45:45;365927;Nissan CTS
+1090;166;filial_1;02-02-2022 05:50:06;878977;Cadillac Corvette
+1091;242;filial_2;03-04-2022 07:39:47;560203;Lamborghini Cruze
+1092;219;filial_1;17-02-2022 07:41:17;342824;Bentley A8
+1093;342;filial_3;09-05-2022 03:08:54;989025;Rolls Royce Element
+1094;32;filial_1;07-05-2022 10:26:27;569027;Volkswagen Volt
+1095;377;filial_3;31-03-2022 03:18:54;53922;Aston Martin Golf
+1096;345;filial_3;17-03-2022 09:37:47;574835;Porsche Mercielago
+1097;308;filial_1;08-02-2022 05:57:14;339845;Tesla Accord
+1098;460;filial_2;09-04-2022 07:16:00;795788;Bugatti Colorado
+1099;121;filial_2;14-02-2022 07:01:50;677002;Jeep Camry
+1100;83;filial_1;07-04-2022 12:59:20;97314;Chrysler Explorer
+1101;176;filial_3;22-05-2022 03:50:09;666698;Ford Ranchero
+1102;31;filial_2;23-05-2022 06:02:36;509199;Chrysler Beetle
+1103;376;filial_2;02-03-2022 10:25:14;997917;Chrysler Model T
+1104;488;filial_1;03-03-2022 12:26:46;847415;Ford Element
+1105;187;filial_3;21-04-2022 09:27:13;181693;Jeep Sentra
+1106;44;filial_3;20-02-2022 02:11:08;526504;Aston Martin Corvette
+1107;174;filial_1;18-04-2022 07:47:06;138165;Kia Mercielago
+1108;380;filial_2;15-02-2022 12:08:48;171101;Nissan Roadster
+1109;151;filial_3;19-04-2022 09:33:35;795987;Bentley Mercielago
+1110;20;filial_2;09-03-2022 03:33:36;96909;Tesla Ranchero
+1111;307;filial_3;19-04-2022 01:05:44;986832;Tesla Accord
+1112;77;filial_3;11-05-2022 07:09:35;56090;Mini Mercielago
+1113;385;filial_3;29-04-2022 09:45:54;284219;Land Rover Grand Caravan
+1114;459;filial_1;14-04-2022 01:00:00;391768;Lamborghini Model S
+1115;281;filial_3;10-03-2022 05:23:12;448783;Maserati Expedition
+1116;304;filial_3;23-05-2022 01:38:09;410527;Porsche PT Cruiser
+1117;69;filial_1;19-03-2022 10:10:22;830150;Cadillac A4
+1118;496;filial_3;28-03-2022 09:28:32;821578;Fiat LeBaron
+1119;283;filial_2;08-05-2022 04:09:57;641493;Mercedes Benz Malibu
+1120;113;filial_2;03-02-2022 07:47:13;279159;Chevrolet PT Cruiser
+1121;179;filial_3;26-03-2022 07:12:30;250398;Chrysler Aventador
+1122;340;filial_3;25-05-2022 07:09:14;453330;Tesla Cruze
+1123;127;filial_1;27-04-2022 09:05:22;971901;Kia LeBaron
+1124;229;filial_1;15-02-2022 03:49:39;767841;Lamborghini Expedition
+1125;186;filial_3;02-04-2022 10:22:37;826692;Tesla Silverado
+1126;49;filial_2;07-05-2022 05:04:44;752049;Toyota Spyder
+1127;342;filial_1;26-03-2022 12:41:08;595477;Kia Cruze
+1128;216;filial_1;28-04-2022 01:21:05;441754;Jeep El Camino
+1129;154;filial_1;14-05-2022 05:41:07;468879;Bugatti ATS
+1130;11;filial_3;02-02-2022 08:18:05;873559;Kia Camaro
+1131;316;filial_2;16-03-2022 06:43:54;977564;Mini Fiesta
+1132;134;filial_2;01-03-2022 01:21:17;879577;Dodge 911
+1133;458;filial_1;20-05-2022 08:05:32;948580;Dodge Volt
+1134;84;filial_1;07-04-2022 08:00:45;590474;Audi Expedition
+1135;425;filial_3;05-02-2022 07:51:34;84533;Land Rover F-150
+1136;41;filial_2;14-03-2022 10:19:33;143001;Fiat Altima
+1137;494;filial_2;25-03-2022 06:42:22;614515;Honda Explorer
+1138;94;filial_2;15-05-2022 08:21:02;194819;Rolls Royce Expedition
+1139;452;filial_2;24-05-2022 09:56:48;686906;Honda Corvette
+1140;2;filial_3;13-04-2022 05:17:18;564456;Maserati Explorer
+1141;252;filial_2;06-05-2022 04:27:27;925603;Rolls Royce Escalade
+1142;321;filial_2;31-03-2022 02:58:22;297358;Land Rover Impala
+1143;25;filial_2;28-03-2022 02:06:06;834185;Land Rover Mustang
+1144;463;filial_1;30-03-2022 07:06:29;565051;Cadillac Durango
+1145;307;filial_3;12-03-2022 02:27:06;773105;Bugatti CTS
+1146;189;filial_2;01-02-2022 05:01:15;949615;Chrysler 911
+1147;488;filial_2;07-02-2022 10:03:57;591376;Dodge Mustang
+1148;365;filial_1;15-05-2022 09:04:36;915416;Audi Silverado
+1149;471;filial_1;21-02-2022 07:32:55;543958;Chevrolet Durango
+1150;431;filial_3;11-03-2022 07:39:12;241272;Chrysler Grand Caravan
+1151;325;filial_1;17-04-2022 12:25:32;917889;Nissan Silverado
+1152;417;filial_3;05-04-2022 11:12:25;958416;Fiat XTS
+1153;225;filial_3;15-05-2022 09:22:50;598027;Kia Malibu
+1154;373;filial_2;01-05-2022 07:50:40;281457;Fiat Escalade
+1155;297;filial_2;06-03-2022 08:23:27;852554;Hyandai Malibu
+1156;198;filial_3;11-03-2022 11:42:51;800163;Porsche Charger
+1157;290;filial_3;08-05-2022 06:39:53;632825;Aston Martin El Camino
+1158;3;filial_1;02-03-2022 03:26:07;299981;Rolls Royce Model T
+1159;453;filial_3;04-03-2022 09:13:59;521204;Dodge Corvette
+1160;365;filial_2;24-04-2022 09:07:01;266500;Cadillac Alpine
+1161;317;filial_1;13-02-2022 02:32:06;319519;Ford Element
+1162;379;filial_2;11-04-2022 04:55:09;164083;Dodge Golf
+1163;475;filial_3;19-05-2022 01:48:49;381175;Audi Fiesta
+1164;451;filial_1;30-05-2022 04:38:29;998495;Toyota Charger
+1165;83;filial_3;22-05-2022 09:55:33;538765;Audi Volt
+1166;332;filial_2;07-02-2022 11:15:38;457883;Toyota Jetta
+1167;246;filial_2;21-02-2022 08:58:53;809439;Jeep Impala
+1168;40;filial_2;18-03-2022 07:21:34;171218;Honda LeBaron
+1169;208;filial_1;29-04-2022 09:30:53;282150;Ford Camry
+1170;209;filial_2;24-02-2022 10:01:25;667191;Fiat Model T
+1171;230;filial_1;26-03-2022 06:39:45;585816;Bentley Challenger
+1172;381;filial_3;22-03-2022 02:11:40;557734;Cadillac Prius
+1173;98;filial_3;13-02-2022 08:26:19;961314;Mini A4
+1174;323;filial_3;06-03-2022 03:46:41;393183;Audi Colorado
+1175;282;filial_1;20-04-2022 07:49:40;873162;Lamborghini Grand Caravan
+1176;191;filial_1;10-02-2022 03:39:45;289930;Bugatti Jetta
+1177;434;filial_1;16-04-2022 03:06:40;710301;Bugatti Element
+1178;90;filial_1;13-02-2022 11:07:49;597055;Audi ATS
+1179;352;filial_2;24-03-2022 05:18:49;761583;Aston Martin CTS
+1180;214;filial_2;23-02-2022 12:29:06;436819;Ford Explorer
+1181;248;filial_3;16-02-2022 10:08:59;78364;Mini Camry
+1182;183;filial_3;03-05-2022 04:12:08;673826;Ferrari CTS
+1183;492;filial_1;19-02-2022 05:13:35;832969;Honda Roadster
+1184;281;filial_3;13-02-2022 02:47:20;807667;Lamborghini Escalade
+1185;453;filial_2;02-05-2022 02:56:52;275307;Jeep PT Cruiser
+1186;212;filial_3;18-05-2022 12:52:24;878525;BMW Impala
+1187;364;filial_1;05-03-2022 05:26:44;491036;Chrysler Spyder
+1188;381;filial_2;23-04-2022 10:15:08;504404;Volkswagen Grand Cherokee
+1189;157;filial_2;05-02-2022 07:05:59;901751;Porsche Model T
+1190;449;filial_3;22-04-2022 11:34:01;487686;Maserati Camaro
+1191;30;filial_1;30-05-2022 12:06:14;409091;Porsche Expedition
+1192;212;filial_3;04-03-2022 01:09:42;442982;Dodge Silverado
+1193;355;filial_3;26-04-2022 11:09:09;745819;Bentley Durango
+1194;344;filial_1;11-05-2022 10:42:53;975495;Kia PT Cruiser
+1195;197;filial_3;13-05-2022 07:51:10;388021;Volkswagen Cruze
+1196;494;filial_3;19-03-2022 04:17:58;442876;Ford Spyder
+1197;333;filial_2;21-05-2022 09:21:28;528224;Ford Aventador
+1198;212;filial_2;18-04-2022 03:56:41;448886;Volkswagen Beetle
+1199;475;filial_2;28-02-2022 10:31:17;852518;Lamborghini Sentra
+1200;351;filial_1;18-02-2022 08:36:10;927534;Fiat PT Cruiser
+1201;348;filial_1;30-03-2022 04:18:53;54146;Hyandai Cruze
+1202;428;filial_3;10-03-2022 02:16:07;998462;Hyandai Charger
+1203;366;filial_3;24-03-2022 07:44:48;251470;Hyandai Civic
+1204;153;filial_1;10-04-2022 02:39:50;791829;Hyandai Focus
+1205;193;filial_1;21-05-2022 08:57:45;996308;Mini XTS
+1206;208;filial_2;03-02-2022 06:59:50;597096;BMW Beetle
+1207;284;filial_3;16-05-2022 09:00:14;312412;Jaguar Sentra
+1208;326;filial_1;30-03-2022 12:40:28;773104;Land Rover Explorer
+1209;131;filial_1;06-04-2022 03:34:19;123161;Maserati CTS
+1210;354;filial_2;21-02-2022 09:55:23;724893;Jeep Sentra
+1211;261;filial_3;27-03-2022 04:07:27;605601;Cadillac Corvette
+1212;462;filial_1;13-04-2022 04:49:32;436914;Bentley Mercielago
+1213;193;filial_2;25-05-2022 12:41:08;792922;Hyandai Colorado
+1214;373;filial_3;26-05-2022 03:30:26;961104;Chevrolet Impala
+1215;325;filial_3;03-03-2022 01:30:47;956411;Jaguar Malibu
+1216;229;filial_1;17-03-2022 04:40:48;116683;Chevrolet Escalade
+1217;398;filial_2;18-05-2022 01:16:42;807737;Maserati Explorer
+1218;242;filial_2;08-03-2022 12:15:55;768650;Chrysler A4
+1219;403;filial_1;23-02-2022 01:18:46;247181;Kia Ranchero
+1220;340;filial_2;08-04-2022 09:51:11;356320;Porsche Silverado
+1221;219;filial_2;09-04-2022 02:46:55;246862;Toyota Spyder
+1222;36;filial_3;11-02-2022 02:11:43;725100;Cadillac CTS
+1223;77;filial_1;13-05-2022 08:18:38;621093;Nissan Element
+1224;159;filial_2;09-05-2022 04:14:42;399162;Tesla El Camino
+1225;49;filial_2;19-03-2022 09:50:29;950466;Rolls Royce Prius
+1226;380;filial_2;08-05-2022 09:27:08;457799;Audi Camaro
+1227;435;filial_3;17-04-2022 01:02:23;54188;Land Rover Model T
+1228;243;filial_3;10-04-2022 07:20:08;653364;Maserati Malibu
+1229;184;filial_1;11-04-2022 05:02:19;921906;Chevrolet Aventador
+1230;390;filial_2;29-05-2022 07:25:23;168665;Nissan A8
+1231;471;filial_1;29-04-2022 06:09:57;456205;Honda Mustang
+1232;91;filial_2;08-03-2022 06:41:26;753994;Rolls Royce Golf
+1233;193;filial_3;10-03-2022 07:44:07;459139;Fiat Volt
+1234;271;filial_3;30-03-2022 12:59:36;616850;Honda Explorer
+1235;199;filial_2;25-02-2022 10:49:05;653796;Chrysler Golf
+1236;461;filial_2;13-03-2022 02:17:31;356022;Jaguar Mustang
+1237;255;filial_2;02-02-2022 09:24:02;501266;Bentley Aventador
+1238;69;filial_1;07-02-2022 03:34:14;197381;Honda Civic
+1239;51;filial_3;16-02-2022 02:36:45;500748;Bentley Colorado
+1240;427;filial_2;18-04-2022 07:39:43;676312;Dodge Charger
+1241;281;filial_3;03-04-2022 05:38:01;189858;Maserati Countach
+1242;133;filial_3;10-03-2022 09:17:02;942941;Bugatti Silverado
+1243;494;filial_2;25-02-2022 10:22:34;179843;Chevrolet Taurus
+1244;453;filial_3;26-02-2022 08:20:55;588493;Mercedes Benz A4
+1245;106;filial_1;28-04-2022 02:26:00;564056;Audi ATS
+1246;455;filial_3;09-05-2022 01:33:26;455799;Chevrolet Mercielago
+1247;39;filial_1;20-05-2022 02:23:08;492052;Audi Mustang
+1248;349;filial_1;01-02-2022 02:30:29;907733;Ford 911
+1249;232;filial_1;31-03-2022 03:01:27;256056;Mini Accord
+1250;395;filial_2;05-04-2022 06:52:39;683320;Bentley Cruze
+1251;329;filial_1;03-02-2022 02:22:38;588495;Fiat ATS
+1252;84;filial_2;23-04-2022 01:05:54;81946;Bugatti Ranchero
+1253;211;filial_1;14-04-2022 10:10:26;458241;Tesla Corvette
+1254;166;filial_1;19-05-2022 08:42:22;901947;Honda Model S
+1255;353;filial_3;11-03-2022 09:58:29;498526;Hyandai Fiesta
+1256;101;filial_1;31-03-2022 10:14:58;874527;Aston Martin Camry
+1257;452;filial_2;29-04-2022 11:29:38;865843;Aston Martin Camry
+1258;187;filial_3;28-03-2022 05:14:24;61465;Nissan Expedition
+1259;351;filial_1;05-04-2022 12:13:36;825237;Bentley ATS
+1260;39;filial_1;28-02-2022 05:57:31;440015;Mini Fiesta
+1261;324;filial_1;29-05-2022 08:29:03;950574;Jeep Model S
+1262;346;filial_1;02-05-2022 03:58:01;787985;Toyota LeBaron
+1263;193;filial_1;03-05-2022 07:30:02;83856;Ford CTS
+1264;372;filial_2;22-04-2022 05:25:20;420009;Porsche Model S
+1265;486;filial_2;27-02-2022 06:58:24;337372;Toyota Alpine
+1266;77;filial_1;10-03-2022 02:10:01;807394;Aston Martin Explorer
+1267;345;filial_2;10-04-2022 12:33:09;671877;Bugatti Sentra
+1268;152;filial_3;12-05-2022 10:53:44;542049;Ferrari Charger
+1269;257;filial_3;11-04-2022 03:26:04;116723;Audi Grand Caravan
+1270;445;filial_3;04-02-2022 10:21:21;157856;Kia Grand Cherokee
+1271;304;filial_2;11-03-2022 02:00:58;906922;Ferrari Volt
+1272;179;filial_3;27-04-2022 11:14:11;78991;Tesla CTS
+1273;322;filial_2;15-03-2022 12:19:39;86758;Chrysler Cruze
+1274;416;filial_1;04-04-2022 05:27:37;157373;Fiat Jetta
+1275;119;filial_1;29-04-2022 06:46:15;330620;Chevrolet Silverado
+1276;442;filial_3;09-04-2022 09:36:22;836703;Cadillac Wrangler
+1277;51;filial_1;08-02-2022 01:38:58;506971;Chrysler ATS
+1278;24;filial_1;22-05-2022 05:15:14;551464;Toyota Silverado
+1279;306;filial_2;26-02-2022 08:45:05;886907;Ford Jetta
+1280;186;filial_2;06-04-2022 07:19:29;130913;Maserati Malibu
+1281;134;filial_3;03-03-2022 09:06:46;503202;Fiat Aventador
+1282;161;filial_3;08-03-2022 06:40:41;247249;Mini Expedition
+1283;270;filial_1;29-03-2022 10:05:06;782437;Mercedes Benz Accord
+1284;471;filial_3;05-03-2022 11:09:00;470486;Porsche Beetle
+1285;280;filial_1;17-03-2022 01:49:25;162798;Toyota Model S
+1286;423;filial_3;18-04-2022 09:26:45;919126;Maserati XTS
+1287;376;filial_2;20-02-2022 04:00:35;467505;Kia Jetta
+1288;342;filial_1;24-04-2022 05:10:59;840528;Mercedes Benz Model S
+1289;11;filial_1;15-04-2022 11:49:05;550683;Land Rover Explorer
+1290;55;filial_1;21-03-2022 06:40:48;233017;Cadillac Grand Caravan
+1291;300;filial_1;20-02-2022 04:45:53;945684;Chevrolet Malibu
+1292;302;filial_2;02-04-2022 03:51:55;595883;Hyandai Roadster
+1293;494;filial_2;30-03-2022 12:00:50;952739;Rolls Royce Countach
+1294;221;filial_3;13-02-2022 10:45:03;944973;Ford A4
+1295;92;filial_3;09-03-2022 01:43:41;749631;Audi Civic
+1296;269;filial_3;03-04-2022 09:16:24;223920;BMW PT Cruiser
+1297;498;filial_2;26-05-2022 10:03:36;156674;Lamborghini Durango
+1298;92;filial_2;15-04-2022 11:50:15;422935;Dodge Ranchero
+1299;141;filial_3;24-05-2022 09:06:53;671003;Honda Model T
+1300;283;filial_3;09-02-2022 10:55:02;125027;Aston Martin Charger
+1301;37;filial_2;19-02-2022 05:37:18;128917;Lamborghini Focus
+1302;94;filial_1;23-04-2022 01:09:08;542682;Ferrari Volt
+1303;478;filial_1;16-03-2022 04:15:59;390322;Bugatti Countach
+1304;100;filial_3;13-05-2022 11:14:34;527547;Chevrolet Cruze
+1305;237;filial_2;08-02-2022 05:26:42;857703;Chrysler Countach
+1306;62;filial_3;04-05-2022 06:48:53;255661;Dodge Fiesta
+1307;285;filial_2;24-02-2022 10:14:19;397295;Kia A4
+1308;416;filial_2;28-02-2022 04:39:18;710050;Jaguar Ranchero
+1309;367;filial_2;04-04-2022 07:51:28;732677;Ferrari PT Cruiser
+1310;61;filial_3;24-03-2022 07:30:09;395203;Bugatti PT Cruiser
+1311;293;filial_1;06-03-2022 01:02:36;70926;Volkswagen Silverado
+1312;251;filial_3;07-05-2022 04:14:24;362175;Cadillac A4
+1313;340;filial_3;19-04-2022 05:11:03;648099;Kia El Camino
+1314;201;filial_3;05-03-2022 09:02:26;583876;Land Rover Corvette
+1315;2;filial_2;26-05-2022 06:11:05;217637;Jaguar Challenger
+1316;12;filial_2;24-05-2022 08:13:26;497251;Bugatti Altima
+1317;119;filial_3;11-02-2022 02:30:44;997313;Fiat Model T
+1318;456;filial_3;05-04-2022 02:41:26;401516;Hyandai Sentra
+1319;349;filial_1;25-05-2022 06:35:11;275188;Fiat Grand Caravan
+1320;129;filial_2;04-04-2022 02:01:00;334878;Audi Camry
+1321;140;filial_1;04-02-2022 09:55:59;533182;Chevrolet Taurus
+1322;236;filial_3;20-03-2022 10:15:53;203174;Hyandai Model 3
+1323;274;filial_2;24-03-2022 03:27:00;119606;Jaguar Focus
+1324;402;filial_1;03-04-2022 05:07:47;61461;Mini PT Cruiser
+1325;235;filial_1;15-03-2022 04:58:52;114742;Honda CTS
+1326;187;filial_3;14-04-2022 07:04:26;785895;Mercedes Benz PT Cruiser
+1327;62;filial_1;02-02-2022 02:39:09;917405;Land Rover Focus
+1328;125;filial_3;07-05-2022 02:49:25;315415;Land Rover F-150
+1329;233;filial_3;01-05-2022 07:46:36;997318;Dodge Alpine
+1330;101;filial_3;18-03-2022 04:36:43;132484;Ferrari CTS
+1331;218;filial_2;20-04-2022 02:16:01;552337;Tesla Silverado
+1332;180;filial_2;08-05-2022 10:18:19;572198;Mercedes Benz Volt
+1333;321;filial_3;10-05-2022 03:37:25;451252;Dodge Model T
+1334;7;filial_1;26-04-2022 05:27:56;417848;Ferrari LeBaron
+1335;482;filial_2;29-03-2022 07:02:08;90822;Volkswagen Silverado
+1336;363;filial_2;02-02-2022 10:28:25;249932;Maserati PT Cruiser
+1337;58;filial_1;08-04-2022 09:34:27;408093;Hyandai Roadster
+1338;265;filial_1;15-03-2022 05:04:57;888444;Bugatti 911
+1339;458;filial_1;06-04-2022 04:35:31;736086;Tesla Sentra
+1340;38;filial_2;21-03-2022 12:11:29;245376;Porsche Alpine
+1341;496;filial_1;23-05-2022 02:03:30;616786;Lamborghini Durango
+1342;190;filial_1;03-03-2022 02:36:55;480836;Bentley Malibu
+1343;36;filial_1;30-03-2022 09:12:03;929144;Jeep Malibu
+1344;76;filial_3;06-04-2022 04:25:46;632620;Dodge Mustang
+1345;474;filial_2;09-04-2022 07:43:17;107673;Ford Expedition
+1346;388;filial_2;15-05-2022 04:04:38;56700;Aston Martin Model T
+1347;274;filial_2;29-05-2022 06:56:04;69000;Chevrolet Charger
+1348;138;filial_2;15-02-2022 07:23:59;366164;Nissan LeBaron
+1349;358;filial_3;23-05-2022 02:51:23;562422;Honda Camaro
+1350;327;filial_2;04-04-2022 10:23:12;191589;Tesla Aventador
+1351;365;filial_2;03-02-2022 10:52:37;432646;Maserati Taurus
+1352;217;filial_1;05-04-2022 04:08:26;964634;Chevrolet Prius
+1353;290;filial_1;10-03-2022 06:11:42;490033;Hyandai El Camino
+1354;359;filial_1;16-02-2022 07:39:15;973703;Volkswagen Golf
+1355;214;filial_2;09-05-2022 05:16:02;344005;Rolls Royce Golf
+1356;431;filial_1;17-04-2022 07:38:20;112661;Jeep PT Cruiser
+1357;27;filial_2;23-02-2022 02:23:38;306745;Toyota Model 3
+1358;436;filial_3;04-03-2022 02:33:12;475641;Chrysler Camaro
+1359;170;filial_1;12-05-2022 05:55:59;81049;Maserati XTS
+1360;34;filial_1;25-04-2022 02:33:29;987169;Chevrolet Grand Caravan
+1361;222;filial_2;26-02-2022 05:05:58;985273;Bentley A4
+1362;396;filial_1;20-05-2022 07:43:11;356429;Honda Focus
+1363;398;filial_1;02-05-2022 10:25:55;239450;Volkswagen XTS
+1364;365;filial_1;18-04-2022 06:25:49;774602;Nissan Wrangler
+1365;158;filial_1;05-04-2022 02:46:46;977980;Audi Focus
+1366;11;filial_3;24-02-2022 01:09:20;911153;Jaguar F-150
+1367;84;filial_3;26-02-2022 06:18:08;415587;Cadillac Challenger
+1368;474;filial_1;21-02-2022 06:42:09;840262;Land Rover Volt
+1369;31;filial_1;06-04-2022 11:01:38;853553;Mini Spyder
+1370;433;filial_1;23-05-2022 03:41:44;491851;Maserati Jetta
+1371;158;filial_2;05-03-2022 08:57:16;235326;Mini Escalade
+1372;469;filial_1;25-03-2022 01:50:34;750121;Hyandai Model T
+1373;146;filial_3;12-03-2022 09:28:12;761001;Rolls Royce Wrangler
+1374;354;filial_3;18-04-2022 06:29:57;543861;Toyota F-150
+1375;333;filial_1;16-03-2022 04:45:59;404709;Nissan Malibu
+1376;23;filial_2;07-05-2022 10:08:29;955512;Dodge Element
+1377;18;filial_3;05-03-2022 02:58:52;175996;Kia PT Cruiser
+1378;394;filial_1;15-02-2022 01:17:40;364762;BMW Civic
+1379;300;filial_2;23-04-2022 09:41:02;433086;Maserati Beetle
+1380;220;filial_1;24-02-2022 02:01:15;356180;Kia Jetta
+1381;349;filial_2;22-04-2022 12:30:43;977324;Land Rover Model T
+1382;419;filial_1;17-02-2022 11:42:36;551114;Chevrolet Durango
+1383;392;filial_1;10-02-2022 09:00:54;827628;Mercedes Benz Volt
+1384;444;filial_3;22-05-2022 04:14:49;340516;Audi PT Cruiser
+1385;336;filial_2;14-03-2022 02:15:10;336000;Ford Model T
+1386;242;filial_2;23-05-2022 08:17:26;882751;Mercedes Benz Prius
+1387;8;filial_1;08-03-2022 06:09:56;480966;Ferrari 911
+1388;384;filial_2;11-04-2022 01:53:14;528353;Ferrari Fiesta
+1389;413;filial_3;10-05-2022 12:55:56;95377;Toyota CTS
+1390;377;filial_3;29-05-2022 05:30:04;202176;Hyandai Accord
+1391;417;filial_2;26-02-2022 11:16:45;359116;Jaguar Roadster
+1392;237;filial_3;21-05-2022 09:41:14;370856;Tesla Element
+1393;227;filial_1;18-05-2022 11:08:01;56553;Tesla Land Cruiser
+1394;239;filial_1;17-05-2022 04:43:33;940458;Dodge Focus
+1395;496;filial_2;05-05-2022 05:23:00;491697;Mercedes Benz Mercielago
+1396;3;filial_3;24-04-2022 10:26:27;275762;Ford Impala
+1397;155;filial_3;13-02-2022 08:09:33;790666;Chevrolet Roadster
+1398;383;filial_3;14-04-2022 05:23:13;346903;Fiat Taurus
+1399;76;filial_3;18-02-2022 05:36:45;985045;Porsche Sentra
+1400;260;filial_3;26-05-2022 07:22:25;493383;Mercedes Benz Escalade
+1401;205;filial_1;15-05-2022 12:13:10;697745;Jeep F-150
+1402;359;filial_2;06-05-2022 12:16:40;413504;Audi Aventador
+1403;265;filial_1;20-02-2022 08:09:03;83582;Ford Camaro
+1404;78;filial_1;24-03-2022 11:35:54;696480;Tesla CTS
+1405;308;filial_3;04-05-2022 12:48:08;945034;Dodge Escalade
+1406;113;filial_3;06-04-2022 03:13:13;157229;Mercedes Benz LeBaron
+1407;77;filial_2;06-03-2022 05:36:45;142637;Jaguar Mercielago
+1408;120;filial_3;23-05-2022 05:03:37;172515;Jeep Colorado
+1409;322;filial_2;11-05-2022 09:54:48;221497;Toyota Aventador
+1410;400;filial_1;22-02-2022 03:34:46;601929;Ferrari LeBaron
+1411;403;filial_2;25-05-2022 11:09:59;114668;Honda Malibu
+1412;313;filial_1;05-03-2022 03:21:44;999044;Dodge Altima
+1413;262;filial_2;24-03-2022 10:30:57;435857;BMW Wrangler
+1414;24;filial_2;06-04-2022 06:40:09;125368;Aston Martin Land Cruiser
+1415;38;filial_3;18-03-2022 09:59:38;502080;Honda Grand Cherokee
+1416;286;filial_2;25-02-2022 08:48:01;905952;Jaguar Impala
+1417;18;filial_2;28-03-2022 09:48:04;355331;Land Rover Mustang
+1418;9;filial_2;15-02-2022 12:04:05;281662;Ferrari Impala
+1419;189;filial_1;03-04-2022 11:50:57;716644;Audi Camaro
+1420;475;filial_3;22-02-2022 01:30:00;339289;Honda Golf
+1421;453;filial_2;05-05-2022 08:22:46;873518;Audi Camaro
+1422;366;filial_3;14-03-2022 05:20:09;982312;Aston Martin Challenger
+1423;498;filial_1;04-05-2022 06:38:02;922017;Dodge Roadster
+1424;303;filial_1;07-04-2022 04:41:12;738101;Dodge F-150
+1425;153;filial_1;13-03-2022 11:07:38;124380;Chevrolet Expedition
+1426;481;filial_1;29-05-2022 02:39:28;677644;Chrysler Grand Caravan
+1427;474;filial_1;29-04-2022 08:55:22;595486;Chevrolet El Camino
+1428;160;filial_3;01-04-2022 04:23:56;713712;Mercedes Benz Countach
+1429;479;filial_1;03-05-2022 12:27:47;324707;Porsche 911
+1430;468;filial_3;23-04-2022 03:19:05;441611;Volkswagen CTS
+1431;428;filial_3;17-04-2022 11:23:26;755191;Land Rover Mustang
+1432;228;filial_3;16-02-2022 06:32:39;651412;Bugatti PT Cruiser
+1433;252;filial_2;02-04-2022 09:22:10;169956;Rolls Royce Land Cruiser
+1434;446;filial_1;11-05-2022 01:30:19;472952;Kia Accord
+1435;218;filial_2;26-02-2022 07:13:33;869632;Hyandai Spyder
+1436;27;filial_2;10-04-2022 02:22:40;677142;Nissan Camaro
+1437;28;filial_2;14-04-2022 12:17:52;964071;Kia Camaro
+1438;110;filial_2;06-03-2022 09:18:52;630381;Toyota Taurus
+1439;32;filial_3;21-02-2022 10:14:49;117149;Tesla Roadster
+1440;311;filial_3;12-02-2022 03:01:54;202347;Audi Cruze
+1441;429;filial_1;15-05-2022 09:41:37;157933;Lamborghini Impala
+1442;368;filial_2;22-03-2022 07:16:35;166885;Porsche Aventador
+1443;466;filial_2;11-05-2022 11:30:15;145099;Ferrari Golf
+1444;172;filial_3;06-03-2022 07:57:10;939852;Bentley Element
+1445;345;filial_3;06-03-2022 01:06:40;721922;Chevrolet El Camino
+1446;283;filial_1;15-03-2022 02:22:33;364457;BMW XTS
+1447;271;filial_1;01-03-2022 04:49:41;684507;Ford Challenger
+1448;452;filial_2;22-03-2022 06:31:39;340800;Lamborghini LeBaron
+1449;494;filial_1;20-05-2022 12:39:10;683600;Toyota Jetta
+1450;133;filial_2;09-02-2022 10:13:31;918749;Bugatti Silverado
+1451;31;filial_3;24-05-2022 02:49:22;399377;Porsche A8
+1452;300;filial_2;05-05-2022 12:16:23;709324;Rolls Royce Volt
+1453;34;filial_3;02-05-2022 10:49:20;829444;Kia Malibu
+1454;362;filial_1;11-03-2022 03:18:19;192061;Fiat ATS
+1455;176;filial_1;27-03-2022 08:56:28;266311;Aston Martin LeBaron
+1456;124;filial_1;25-04-2022 05:07:58;350180;Jaguar Fiesta
+1457;90;filial_1;22-03-2022 01:17:55;801968;Ferrari Roadster
+1458;129;filial_1;06-03-2022 04:46:50;294618;Jeep Roadster
+1459;232;filial_2;25-05-2022 01:34:13;933862;Aston Martin Aventador
+1460;73;filial_1;24-05-2022 09:35:20;739361;Hyandai Prius
+1461;169;filial_2;03-04-2022 03:56:46;462475;Jeep Malibu
+1462;474;filial_1;07-02-2022 11:49:22;134874;Honda PT Cruiser
+1463;22;filial_1;27-04-2022 11:58:36;880479;Land Rover Impala
+1464;451;filial_3;10-04-2022 08:25:43;586982;Mercedes Benz Volt
+1465;391;filial_3;27-03-2022 04:30:54;290616;BMW Accord
+1466;216;filial_1;22-03-2022 02:14:53;789084;Rolls Royce Grand Caravan
+1467;151;filial_3;28-03-2022 07:28:14;797123;Honda El Camino
+1468;401;filial_3;02-02-2022 10:53:09;212520;Land Rover Silverado
+1469;426;filial_3;25-05-2022 04:01:42;184644;Jaguar Jetta
+1470;289;filial_3;09-02-2022 06:29:43;669092;Tesla El Camino
+1471;438;filial_3;28-05-2022 06:07:27;610262;Fiat Fiesta
+1472;159;filial_1;05-03-2022 08:39:48;101096;Fiat Land Cruiser
+1473;255;filial_2;15-02-2022 12:53:23;395726;Jeep Camaro
+1474;193;filial_3;19-04-2022 02:47:06;968082;Mini Focus
+1475;318;filial_1;20-05-2022 10:05:30;516810;Audi Roadster
+1476;135;filial_3;29-04-2022 11:08:08;808777;Jaguar Land Cruiser
+1477;218;filial_2;03-04-2022 08:09:26;547889;Chrysler CTS
+1478;351;filial_3;15-03-2022 09:14:27;925443;Tesla A8
+1479;197;filial_2;27-05-2022 09:12:24;791993;Mini Altima
+1480;155;filial_3;18-03-2022 01:01:46;160774;Aston Martin Mustang
+1481;184;filial_3;10-02-2022 04:23:38;363621;Jaguar Camry
+1482;261;filial_2;10-04-2022 06:26:35;816415;Hyandai Model T
+1483;275;filial_3;06-05-2022 10:33:28;829310;Chevrolet Land Cruiser
+1484;204;filial_3;03-02-2022 09:01:30;320273;Volkswagen Golf
+1485;258;filial_3;29-03-2022 03:03:55;505889;Volkswagen Expedition
+1486;428;filial_1;23-03-2022 04:08:54;878037;Porsche Taurus
+1487;2;filial_3;31-03-2022 01:12:40;808800;Volkswagen Aventador
+1488;222;filial_2;22-03-2022 10:47:39;309851;Volkswagen Altima
+1489;435;filial_2;10-04-2022 12:56:39;106739;Ferrari Volt
+1490;176;filial_1;16-03-2022 11:24:21;273559;Jeep El Camino
+1491;144;filial_1;09-05-2022 01:47:36;878693;Bentley Jetta
+1492;249;filial_1;30-04-2022 09:07:06;759287;BMW Spyder
+1493;286;filial_2;09-04-2022 05:33:50;775418;Audi El Camino
+1494;479;filial_2;21-02-2022 01:02:21;223311;Bugatti Beetle
+1495;226;filial_1;19-05-2022 04:22:29;195237;Honda A8
+1496;298;filial_2;08-04-2022 04:02:36;397243;Volkswagen Roadster
+1497;470;filial_1;14-05-2022 08:42:48;239312;Rolls Royce F-150
+1498;291;filial_1;30-05-2022 05:22:27;939759;Audi Sentra
+1499;162;filial_2;21-05-2022 02:42:07;617238;Ferrari Accord
+1500;347;filial_1;29-04-2022 04:33:37;793747;Maserati ATS
+1501;300;filial_1;11-02-2022 06:59:08;271186;Ferrari A4
+1502;287;filial_1;09-02-2022 01:36:47;680808;Nissan Sentra
+1503;455;filial_3;19-03-2022 12:03:07;65486;Porsche Model 3
+1504;21;filial_1;31-03-2022 04:39:14;958102;Chevrolet LeBaron
+1505;493;filial_1;15-02-2022 05:21:40;251665;Nissan Expedition
+1506;106;filial_3;28-04-2022 03:58:53;659884;Chrysler Accord
+1507;281;filial_1;25-02-2022 05:53:05;525703;Hyandai Accord
+1508;399;filial_2;07-03-2022 03:25:38;534492;Chevrolet Fiesta
+1509;100;filial_2;25-04-2022 12:23:45;952206;Fiat Colorado
+1510;477;filial_2;14-05-2022 05:03:51;510286;Chrysler Roadster
+1511;446;filial_2;12-02-2022 12:24:13;787593;Chevrolet Model T
+1512;143;filial_2;22-03-2022 09:56:33;248781;Dodge Taurus
+1513;344;filial_1;09-04-2022 01:03:55;616208;Ferrari Malibu
+1514;166;filial_2;20-05-2022 06:16:16;521181;Nissan 911
+1515;358;filial_1;06-05-2022 06:39:59;921151;Ferrari Volt
+1516;332;filial_2;12-02-2022 03:31:35;851120;Bugatti Focus
+1517;405;filial_2;17-03-2022 10:19:51;187996;Rolls Royce A4
+1518;458;filial_2;10-02-2022 12:59:33;347939;Porsche Accord
+1519;287;filial_1;06-03-2022 01:30:42;502762;Aston Martin Explorer
+1520;446;filial_2;26-04-2022 12:00:57;569117;Chrysler A4
+1521;24;filial_2;03-02-2022 04:48:08;400680;Honda Camry
+1522;335;filial_1;25-05-2022 12:10:03;536452;Porsche Prius
+1523;113;filial_3;26-02-2022 09:34:55;824271;Toyota CTS
+1524;196;filial_3;20-04-2022 10:13:47;402652;Porsche Taurus
+1525;372;filial_1;29-04-2022 06:53:08;160398;Mercedes Benz El Camino
+1526;484;filial_2;12-04-2022 11:31:00;378781;Lamborghini Grand Cherokee
+1527;335;filial_3;26-05-2022 01:36:11;581819;BMW Beetle
+1528;218;filial_2;29-03-2022 02:50:24;255872;Toyota Camaro
+1529;484;filial_1;12-03-2022 09:48:28;319104;Audi Wrangler
+1530;90;filial_1;18-03-2022 03:14:28;314804;Lamborghini Malibu
+1531;163;filial_1;13-03-2022 02:33:22;553390;Dodge Impala
+1532;192;filial_2;20-04-2022 10:43:13;748957;Maserati Civic
+1533;310;filial_1;25-02-2022 08:19:24;853520;Bentley Grand Caravan
+1534;315;filial_3;04-05-2022 04:14:29;966299;Volkswagen Wrangler
+1535;138;filial_1;22-05-2022 05:34:21;343137;Honda A8
+1536;411;filial_2;28-02-2022 07:02:25;178689;Cadillac Silverado
+1537;468;filial_1;19-02-2022 06:37:21;904151;Kia El Camino
+1538;434;filial_3;06-04-2022 06:38:52;172975;Rolls Royce Spyder
+1539;111;filial_3;18-04-2022 04:26:08;435785;Ferrari Jetta
+1540;411;filial_3;30-05-2022 09:18:59;556794;Dodge Altima
+1541;241;filial_1;03-04-2022 11:00:12;976909;Nissan Camaro
+1542;321;filial_2;14-05-2022 01:19:37;872928;BMW Malibu
+1543;101;filial_2;08-03-2022 04:02:59;202262;Chevrolet Charger
+1544;407;filial_3;22-05-2022 01:12:59;745552;Mercedes Benz A4
+1545;53;filial_2;01-03-2022 03:15:35;741348;BMW Grand Cherokee
+1546;354;filial_1;02-02-2022 05:25:39;271267;Mini Silverado
+1547;253;filial_2;01-03-2022 06:53:49;741388;Audi Colorado
+1548;437;filial_3;13-02-2022 09:12:02;977194;Ford Volt
+1549;310;filial_3;01-02-2022 08:59:47;973731;Mini Roadster
+1550;380;filial_2;30-05-2022 02:23:38;263401;Aston Martin Focus
+1551;175;filial_2;14-02-2022 07:45:11;694457;Kia Prius
+1552;208;filial_1;19-02-2022 09:52:16;130568;Rolls Royce A8
+1553;208;filial_1;16-04-2022 06:37:24;839669;Land Rover Colorado
+1554;121;filial_2;16-05-2022 08:17:04;406346;Cadillac Cruze
+1555;124;filial_2;10-03-2022 02:21:40;261457;Lamborghini Mercielago
+1556;272;filial_2;01-04-2022 05:07:22;745329;Fiat Silverado
+1557;104;filial_1;20-05-2022 05:58:58;954711;Nissan Malibu
+1558;138;filial_2;06-05-2022 03:05:44;148293;BMW Altima
+1559;478;filial_1;26-03-2022 12:16:09;238802;Mini Escalade
+1560;292;filial_2;05-04-2022 11:27:40;952626;Kia Spyder
+1561;297;filial_3;04-04-2022 01:31:01;320272;Ford Jetta
+1562;336;filial_1;17-02-2022 08:07:28;276485;Fiat Corvette
+1563;490;filial_3;10-04-2022 08:46:55;734626;Rolls Royce Grand Cherokee
+1564;205;filial_2;23-02-2022 12:34:21;796999;Kia Golf
+1565;260;filial_3;05-03-2022 11:32:07;358615;Fiat Model S
+1566;64;filial_2;06-03-2022 06:53:19;94393;Chrysler Impala
+1567;496;filial_1;13-04-2022 10:50:53;92051;Bentley A8
+1568;410;filial_3;19-05-2022 03:34:01;913673;Maserati Jetta
+1569;169;filial_2;25-04-2022 04:40:32;663943;Aston Martin Challenger
+1570;253;filial_3;07-02-2022 12:34:43;483940;Chevrolet ATS
+1571;234;filial_1;27-04-2022 05:19:22;863736;Maserati Golf
+1572;362;filial_1;24-05-2022 07:12:47;632747;Chrysler Grand Cherokee
+1573;287;filial_2;17-03-2022 06:03:19;173517;Kia Wrangler
+1574;360;filial_1;23-02-2022 07:45:54;740782;Porsche Element
+1575;317;filial_2;16-05-2022 09:49:38;987221;Fiat Spyder
+1576;293;filial_3;24-05-2022 02:40:29;372423;Chrysler Impala
+1577;139;filial_2;04-03-2022 11:33:28;691303;Porsche Grand Cherokee
+1578;210;filial_2;08-03-2022 10:27:20;69449;Porsche Silverado
+1579;76;filial_1;14-03-2022 04:52:28;655698;Nissan XTS
+1580;335;filial_3;26-04-2022 10:59:25;726034;Lamborghini Taurus
+1581;76;filial_1;24-05-2022 12:09:26;177094;Honda Model S
+1582;390;filial_1;15-03-2022 02:49:37;874354;Hyandai Challenger
+1583;216;filial_1;18-05-2022 12:07:23;189797;Hyandai Camry
+1584;17;filial_3;16-02-2022 11:05:37;355959;Ford XTS
+1585;407;filial_3;23-02-2022 12:14:28;283449;Jaguar PT Cruiser
+1586;189;filial_2;09-02-2022 03:20:10;721033;BMW Camry
+1587;56;filial_3;07-03-2022 03:28:01;80335;Volkswagen Silverado
+1588;415;filial_3;07-02-2022 12:25:35;293126;Nissan Roadster
+1589;115;filial_3;15-04-2022 11:44:15;537459;Jeep Element
+1590;414;filial_2;09-04-2022 06:55:47;367140;Cadillac Durango
+1591;466;filial_3;22-03-2022 07:05:00;354750;Ford Prius
+1592;51;filial_3;04-04-2022 06:45:51;195368;Audi Charger
+1593;440;filial_1;16-03-2022 05:01:00;210570;Kia Camry
+1594;186;filial_3;24-04-2022 11:42:58;770504;Cadillac Silverado
+1595;321;filial_1;15-03-2022 05:36:05;905179;Audi Mustang
+1596;180;filial_1;28-03-2022 09:45:36;698469;Volkswagen Grand Caravan
+1597;112;filial_1;13-03-2022 02:57:13;607900;Aston Martin Countach
+1598;235;filial_3;20-05-2022 05:12:47;724785;Ferrari LeBaron
+1599;200;filial_3;17-03-2022 09:58:37;446779;Kia Alpine
+1600;428;filial_1;17-03-2022 04:08:18;129727;Cadillac Cruze
+1601;446;filial_1;19-03-2022 05:02:04;948852;Bentley Civic
+1602;79;filial_2;30-05-2022 05:42:52;873770;Dodge Malibu
+1603;367;filial_1;29-03-2022 01:08:48;422830;Rolls Royce Mustang
+1604;44;filial_2;05-05-2022 01:26:53;847658;Mini El Camino
+1605;365;filial_2;23-03-2022 04:11:42;921548;Mercedes Benz Model T
+1606;85;filial_2;23-02-2022 10:04:45;502333;Toyota Camaro
+1607;421;filial_3;18-02-2022 01:16:32;911941;Audi Aventador
+1608;97;filial_2;19-05-2022 04:09:54;573662;Porsche F-150
+1609;164;filial_1;15-02-2022 05:02:55;320653;Honda Countach
+1610;420;filial_2;07-05-2022 03:03:18;385065;Mini Explorer
+1611;218;filial_3;10-05-2022 04:41:32;542859;Ford Charger
+1612;401;filial_2;22-02-2022 03:29:07;120658;Chevrolet Expedition
+1613;404;filial_1;25-02-2022 02:33:17;466473;Toyota Accord
+1614;254;filial_2;22-05-2022 02:35:01;54268;Lamborghini Challenger
+1615;357;filial_2;10-04-2022 05:34:20;70009;Honda Ranchero
+1616;421;filial_2;04-02-2022 08:02:21;229038;Hyandai Model 3
+1617;252;filial_2;29-05-2022 04:12:38;624105;Kia Silverado
+1618;184;filial_2;07-04-2022 01:15:36;592637;Nissan Model 3
+1619;410;filial_2;05-02-2022 10:10:19;344957;Land Rover Cruze
+1620;381;filial_3;15-02-2022 01:02:33;726417;Cadillac Prius
+1621;206;filial_3;01-05-2022 12:41:23;117968;Nissan Alpine
+1622;348;filial_2;17-03-2022 12:57:42;710078;Lamborghini Impala
+1623;254;filial_1;16-02-2022 12:48:55;233630;Mercedes Benz Escalade
+1624;255;filial_3;16-02-2022 03:02:03;108838;Ferrari Mustang
+1625;6;filial_3;16-04-2022 02:13:41;489367;Cadillac Mercielago
+1626;148;filial_1;23-03-2022 02:14:15;781614;Kia Cruze
+1627;43;filial_1;14-04-2022 10:58:30;895321;Maserati Roadster
+1628;65;filial_2;05-04-2022 11:41:39;748262;Dodge Grand Cherokee
+1629;112;filial_2;22-03-2022 04:34:04;713667;Hyandai Beetle
+1630;150;filial_3;28-04-2022 09:52:33;727900;Mercedes Benz 911
+1631;150;filial_3;13-02-2022 01:27:25;428516;Nissan Escalade
+1632;167;filial_2;05-05-2022 09:33:49;280673;Lamborghini Silverado
+1633;277;filial_1;13-04-2022 10:50:26;267483;Lamborghini Golf
+1634;226;filial_2;27-05-2022 09:58:02;987610;Ferrari Civic
+1635;30;filial_2;28-04-2022 01:33:05;384114;Tesla Grand Caravan
+1636;87;filial_1;28-04-2022 05:43:48;476200;BMW Challenger
+1637;342;filial_2;03-05-2022 11:13:04;572723;Mini 911
+1638;408;filial_1;28-04-2022 03:27:57;350691;Toyota A8
+1639;200;filial_3;25-05-2022 01:53:09;380689;Ford Sentra
+1640;342;filial_2;12-04-2022 04:33:16;146682;Tesla Countach
+1641;395;filial_3;21-02-2022 08:26:43;480203;Aston Martin Roadster
+1642;248;filial_1;21-03-2022 01:38:07;861495;Aston Martin ATS
+1643;181;filial_2;29-04-2022 06:07:25;574878;Hyandai Spyder
+1644;71;filial_2;31-03-2022 12:31:32;285090;Tesla Grand Caravan
+1645;28;filial_3;16-02-2022 01:44:23;910966;BMW Wrangler
+1646;31;filial_1;11-02-2022 09:24:08;50821;Land Rover ATS
+1647;494;filial_3;13-03-2022 05:43:52;242991;Chrysler Durango
+1648;46;filial_3;25-02-2022 10:10:38;363279;Chrysler Model S
+1649;372;filial_2;15-03-2022 09:33:52;518291;Fiat Malibu
+1650;79;filial_3;11-03-2022 12:59:13;203572;Cadillac CTS
+1651;146;filial_3;19-02-2022 08:14:28;424265;Land Rover Model S
+1652;353;filial_2;09-04-2022 01:39:04;412350;Volkswagen 911
+1653;447;filial_1;13-05-2022 10:32:44;899104;Jeep Challenger
+1654;380;filial_3;11-04-2022 09:12:38;792630;Audi Ranchero
+1655;123;filial_3;01-02-2022 11:25:18;928616;Bugatti Beetle
+1656;149;filial_3;29-03-2022 11:12:55;379899;Rolls Royce PT Cruiser
+1657;67;filial_2;29-05-2022 10:36:22;149135;Toyota Land Cruiser
+1658;442;filial_1;28-03-2022 09:36:34;311730;Tesla El Camino
+1659;60;filial_2;17-04-2022 09:56:00;836062;Jeep Roadster
+1660;391;filial_3;04-03-2022 01:19:56;138081;Bugatti Sentra
+1661;292;filial_2;12-02-2022 11:28:16;459863;Lamborghini Alpine
+1662;150;filial_2;19-02-2022 08:59:43;482456;Chrysler Grand Cherokee
+1663;285;filial_1;10-03-2022 08:16:17;710088;Nissan Grand Cherokee
+1664;494;filial_3;21-03-2022 10:20:23;655930;Ferrari Element
+1665;426;filial_1;18-05-2022 04:06:55;203404;Bentley Charger
+1666;11;filial_3;19-03-2022 08:15:42;582294;Mini LeBaron
+1667;322;filial_3;16-04-2022 05:31:33;699317;Lamborghini Alpine
+1668;435;filial_3;05-05-2022 08:26:08;540936;Mini Impala
+1669;98;filial_3;17-03-2022 05:16:29;129959;Toyota A4
+1670;321;filial_3;23-04-2022 06:16:36;50974;Dodge Model T
+1671;325;filial_2;08-05-2022 07:33:22;496350;Ferrari Silverado
+1672;125;filial_2;02-02-2022 02:44:29;960728;Volkswagen Alpine
+1673;13;filial_2;16-03-2022 05:20:18;102982;Land Rover Cruze
+1674;59;filial_3;13-02-2022 04:56:01;84536;Dodge Cruze
+1675;480;filial_3;12-02-2022 06:06:31;303829;Mini Cruze
+1676;267;filial_1;27-03-2022 04:00:42;511740;Porsche Sentra
+1677;394;filial_3;10-02-2022 09:18:27;723766;Bugatti ATS
+1678;311;filial_3;21-05-2022 09:12:19;927344;Volkswagen Mustang
+1679;417;filial_1;26-04-2022 05:03:31;274212;Ford ATS
+1680;64;filial_2;14-02-2022 07:56:55;737336;Bentley Grand Cherokee
+1681;20;filial_2;16-02-2022 02:54:49;614753;Ford Ranchero
+1682;339;filial_3;06-03-2022 05:59:24;861632;Ford Model 3
+1683;152;filial_3;13-03-2022 04:51:19;779995;Kia Golf
+1684;159;filial_1;04-02-2022 06:43:12;80504;Jaguar Civic
+1685;445;filial_2;29-03-2022 10:12:06;617035;Nissan Roadster
+1686;267;filial_2;27-04-2022 01:18:15;648956;Bugatti ATS
+1687;310;filial_3;12-02-2022 10:40:21;571805;Aston Martin Model 3
+1688;483;filial_3;05-02-2022 02:17:02;733623;Rolls Royce Fiesta
+1689;45;filial_3;14-05-2022 06:08:54;280644;Honda Beetle
+1690;181;filial_2;18-03-2022 05:33:12;146086;Lamborghini F-150
+1691;260;filial_3;21-04-2022 01:21:31;609538;Land Rover A4
+1692;186;filial_2;04-02-2022 08:28:39;635050;Maserati A8
+1693;67;filial_3;02-02-2022 08:44:41;955473;Bentley Model S
+1694;423;filial_2;01-04-2022 06:07:17;879784;Rolls Royce Taurus
+1695;197;filial_2;02-02-2022 09:46:28;318377;Kia Camaro
+1696;463;filial_3;10-03-2022 03:32:40;955804;Maserati Element
+1697;258;filial_3;13-05-2022 03:37:48;871533;BMW Volt
+1698;408;filial_2;20-03-2022 04:05:27;887659;Kia Cruze
+1699;151;filial_1;02-02-2022 06:17:25;73484;Lamborghini Jetta
+1700;250;filial_3;21-05-2022 02:05:52;918315;Rolls Royce Cruze
+1701;469;filial_1;27-03-2022 04:33:30;826945;Kia Alpine
+1702;256;filial_3;28-05-2022 07:03:33;137542;Kia Land Cruiser
+1703;194;filial_3;15-04-2022 06:02:34;500341;Toyota 911
+1704;223;filial_3;12-02-2022 09:01:02;942069;Ferrari Sentra
+1705;266;filial_2;28-02-2022 01:28:57;915720;Cadillac Spyder
+1706;267;filial_2;26-04-2022 10:56:07;658211;Volkswagen XTS
+1707;310;filial_3;28-05-2022 12:22:04;920913;Land Rover Alpine
+1708;2;filial_3;16-05-2022 05:52:09;796822;Kia Malibu
+1709;437;filial_2;03-05-2022 04:23:45;282524;Lamborghini Land Cruiser
+1710;269;filial_1;16-02-2022 02:54:22;350913;Cadillac Roadster
+1711;343;filial_1;11-03-2022 09:48:35;79886;Honda Explorer
+1712;3;filial_2;18-03-2022 07:28:29;568592;Chevrolet Ranchero
+1713;477;filial_2;24-03-2022 10:32:30;574763;Mercedes Benz Golf
+1714;43;filial_2;25-05-2022 04:58:36;744328;Cadillac Civic
+1715;483;filial_2;30-05-2022 06:58:39;525908;Land Rover Wrangler
+1716;230;filial_2;26-02-2022 03:25:22;752455;Chevrolet A8
+1717;341;filial_3;21-04-2022 02:43:51;433472;Ferrari Spyder
+1718;451;filial_2;21-05-2022 07:37:48;910413;Jeep Expedition
+1719;17;filial_1;02-03-2022 09:47:57;613225;Jaguar Element
+1720;296;filial_3;13-04-2022 05:38:16;908054;Volkswagen Cruze
+1721;103;filial_1;21-05-2022 04:15:23;94749;Ferrari Mercielago
+1722;319;filial_2;18-04-2022 03:22:25;952009;Mini Taurus
+1723;43;filial_2;05-04-2022 02:12:40;572200;Ferrari F-150
+1724;426;filial_1;05-03-2022 11:17:14;229324;Mercedes Benz Fiesta
+1725;223;filial_3;09-05-2022 06:36:33;88816;Land Rover Silverado
+1726;83;filial_1;06-04-2022 01:29:51;864975;Mini Countach
+1727;129;filial_2;14-05-2022 06:14:39;134956;Volkswagen Aventador
+1728;229;filial_1;22-04-2022 03:26:32;373797;Mini PT Cruiser
+1729;35;filial_3;06-05-2022 03:08:08;852553;Jaguar Grand Cherokee
+1730;411;filial_1;17-03-2022 04:07:59;235280;Fiat Escalade
+1731;373;filial_1;05-02-2022 08:39:44;586896;Lamborghini Malibu
+1732;410;filial_3;18-04-2022 02:21:10;51340;Rolls Royce Beetle
+1733;46;filial_1;14-02-2022 06:05:24;709941;Porsche Taurus
+1734;238;filial_2;29-04-2022 04:42:51;941672;Nissan Civic
+1735;152;filial_2;01-03-2022 12:58:42;657206;Audi 911
+1736;398;filial_2;02-03-2022 03:54:07;434806;Kia Ranchero
+1737;330;filial_2;14-04-2022 07:44:30;108108;Tesla Camaro
+1738;398;filial_1;10-04-2022 06:56:38;190808;Kia CTS
+1739;354;filial_1;19-04-2022 09:58:20;637092;Mini Camaro
+1740;499;filial_1;17-04-2022 05:48:30;667491;Volkswagen Roadster
+1741;207;filial_1;16-04-2022 01:26:24;727827;Porsche Countach
+1742;393;filial_2;21-04-2022 04:50:42;509482;Hyandai Silverado
+1743;481;filial_3;29-05-2022 01:03:53;829662;Tesla Camaro
+1744;66;filial_2;27-05-2022 05:27:25;336119;Volkswagen Explorer
+1745;113;filial_1;18-05-2022 11:45:00;432819;Rolls Royce Model T
+1746;352;filial_3;16-02-2022 01:41:48;716085;Toyota Ranchero
+1747;239;filial_3;03-04-2022 06:24:27;334972;Chevrolet Spyder
+1748;404;filial_2;09-03-2022 10:40:12;902096;Jaguar Model 3
+1749;3;filial_1;22-05-2022 09:51:59;901724;Ford A8
+1750;448;filial_3;24-03-2022 04:07:07;520734;Lamborghini Impala
+1751;30;filial_3;14-02-2022 07:00:54;354665;Jeep F-150
+1752;334;filial_1;24-05-2022 04:06:48;377101;Honda Mercielago
+1753;365;filial_1;05-04-2022 07:28:16;838616;Toyota Durango
+1754;7;filial_2;05-03-2022 04:00:04;808476;Bentley Model 3
+1755;45;filial_1;05-05-2022 09:36:27;877325;Cadillac Challenger
+1756;279;filial_1;21-04-2022 09:24:18;760937;Tesla Wrangler
+1757;389;filial_3;23-02-2022 09:55:07;384885;Bentley F-150
+1758;438;filial_1;23-02-2022 11:37:49;756259;Volkswagen Model S
+1759;453;filial_3;24-02-2022 01:39:09;972384;Nissan Ranchero
+1760;365;filial_2;28-02-2022 12:36:53;892220;Fiat A4
+1761;171;filial_3;31-03-2022 05:39:27;298174;Bentley Beetle
+1762;139;filial_2;17-03-2022 03:12:41;848811;Cadillac Volt
+1763;235;filial_2;29-03-2022 10:31:07;917025;Bentley Colorado
+1764;131;filial_3;08-03-2022 07:55:11;796867;Jaguar Silverado
+1765;321;filial_2;20-03-2022 09:40:36;533451;Lamborghini Taurus
+1766;131;filial_1;05-02-2022 08:24:25;917287;Cadillac Malibu
+1767;498;filial_2;01-03-2022 02:24:36;864502;Tesla Corvette
+1768;68;filial_1;03-04-2022 10:08:56;120953;Chrysler El Camino
+1769;21;filial_1;11-04-2022 02:07:35;683672;Toyota Expedition
+1770;465;filial_3;06-04-2022 04:30:46;289520;Ferrari Escalade
+1771;140;filial_1;14-04-2022 10:32:14;634341;Jaguar Model 3
+1772;294;filial_1;03-02-2022 09:53:17;772137;Porsche Golf
+1773;162;filial_2;09-05-2022 02:38:16;731526;Rolls Royce Aventador
+1774;147;filial_1;27-03-2022 01:15:51;402375;Toyota Charger
+1775;227;filial_1;10-05-2022 01:30:55;663311;Land Rover Colorado
+1776;392;filial_3;28-04-2022 11:12:06;346286;Toyota Ranchero
+1777;129;filial_3;19-04-2022 09:53:15;452635;Chevrolet Element
+1778;237;filial_2;22-05-2022 11:15:06;52117;Jeep Escalade
+1779;70;filial_3;23-02-2022 09:51:05;224179;Rolls Royce Land Cruiser
+1780;306;filial_2;10-05-2022 05:28:12;82437;BMW Prius
+1781;406;filial_3;07-03-2022 11:38:01;326930;Toyota Model T
+1782;245;filial_1;16-05-2022 11:13:45;127149;Jaguar Silverado
+1783;367;filial_1;31-03-2022 09:12:50;423635;Audi Beetle
+1784;407;filial_2;14-03-2022 04:02:22;945878;Land Rover Grand Cherokee
+1785;447;filial_2;19-04-2022 10:01:22;911636;Toyota Alpine
+1786;282;filial_2;10-04-2022 12:00:32;724748;Dodge Model 3
+1787;335;filial_2;17-04-2022 05:27:52;223178;Rolls Royce Countach
+1788;151;filial_3;04-03-2022 01:12:00;893153;Cadillac Volt
+1789;170;filial_3;04-02-2022 01:39:35;106160;Mercedes Benz LeBaron
+1790;371;filial_1;15-02-2022 01:08:18;331597;Honda Accord
+1791;115;filial_2;06-05-2022 07:55:25;635011;Tesla Ranchero
+1792;36;filial_3;14-02-2022 04:04:18;953754;Lamborghini Altima
+1793;248;filial_3;25-04-2022 07:12:55;786111;Toyota Cruze
+1794;470;filial_1;06-05-2022 04:38:41;242590;BMW Model 3
+1795;138;filial_1;07-04-2022 03:48:51;63952;Tesla Model S
+1796;381;filial_1;17-05-2022 05:12:24;342386;Chrysler Malibu
+1797;1;filial_3;15-03-2022 11:26:53;513090;Jaguar Grand Cherokee
+1798;296;filial_1;25-04-2022 10:41:36;727454;Honda Model T
+1799;305;filial_2;15-05-2022 03:50:16;422256;Jaguar ATS
+1800;363;filial_2;09-03-2022 12:41:11;123079;Cadillac Grand Caravan
+1801;414;filial_3;30-03-2022 09:20:17;320413;Bugatti XTS
+1802;124;filial_1;11-03-2022 09:41:06;663492;Jeep Volt
+1803;268;filial_3;20-03-2022 12:50:06;369869;Aston Martin Altima
+1804;358;filial_2;02-03-2022 04:25:16;471405;Mercedes Benz Model 3
+1805;485;filial_2;17-02-2022 05:34:00;253028;Toyota Model T
+1806;194;filial_2;13-04-2022 05:50:04;166586;Bentley Challenger
+1807;301;filial_3;13-05-2022 03:01:05;372377;Chevrolet Grand Caravan
+1808;159;filial_1;16-03-2022 02:28:43;248584;Dodge Camry
+1809;374;filial_1;07-03-2022 09:21:57;333523;Bentley Golf
+1810;151;filial_2;16-03-2022 11:50:17;831415;BMW XTS
+1811;363;filial_3;25-03-2022 03:00:23;460342;Ford Land Cruiser
+1812;472;filial_3;13-05-2022 01:26:56;293920;Lamborghini Countach
+1813;399;filial_1;17-05-2022 03:02:43;335481;Bentley Cruze
+1814;496;filial_1;16-03-2022 11:33:49;580469;Chevrolet CTS
+1815;50;filial_3;30-05-2022 05:57:48;655163;Bentley Malibu
+1816;196;filial_3;23-05-2022 11:31:50;671120;Bugatti Golf
+1817;329;filial_2;24-02-2022 01:29:35;676188;Ferrari Model 3
+1818;361;filial_1;14-04-2022 01:51:34;50451;Bentley Camry
+1819;318;filial_3;06-04-2022 05:42:14;283056;Cadillac A8
+1820;308;filial_3;23-04-2022 12:40:45;692621;Dodge Roadster
+1821;45;filial_1;21-02-2022 03:43:21;788100;Jaguar Beetle
+1822;263;filial_2;06-03-2022 05:21:11;510134;Toyota Model 3
+1823;437;filial_3;16-02-2022 05:43:56;859195;Aston Martin Silverado
+1824;183;filial_2;01-04-2022 06:15:53;741525;Bugatti Land Cruiser
+1825;75;filial_3;12-03-2022 01:20:37;170511;Rolls Royce Taurus
+1826;437;filial_3;03-03-2022 07:22:15;601702;Bentley Expedition
+1827;341;filial_1;07-02-2022 02:28:22;654823;Ford Ranchero
+1828;10;filial_2;15-02-2022 12:38:50;58516;Nissan XTS
+1829;72;filial_1;25-02-2022 09:06:06;937536;Toyota Taurus
+1830;214;filial_2;16-03-2022 09:14:29;606212;Tesla Fiesta
+1831;437;filial_1;28-03-2022 06:35:42;347409;Aston Martin Alpine
+1832;296;filial_2;28-02-2022 11:15:18;998245;Jaguar ATS
+1833;123;filial_1;01-02-2022 12:02:36;679560;Nissan Volt
+1834;84;filial_1;12-05-2022 03:19:29;260874;Toyota Jetta
+1835;194;filial_2;03-03-2022 01:03:04;146727;Aston Martin Altima
+1836;258;filial_2;24-02-2022 06:56:40;764194;Maserati Prius
+1837;367;filial_1;12-05-2022 05:09:05;546076;Aston Martin Volt
+1838;265;filial_3;17-03-2022 03:31:10;210962;Tesla Model T
+1839;373;filial_3;23-05-2022 07:47:41;373746;Hyandai Silverado
+1840;447;filial_1;05-03-2022 05:03:45;578161;Nissan Land Cruiser
+1841;50;filial_3;08-05-2022 10:21:15;62509;BMW Taurus
+1842;20;filial_1;16-02-2022 01:03:19;771941;Chevrolet Accord
+1843;461;filial_1;30-03-2022 07:54:31;359922;Fiat Alpine
+1844;493;filial_3;03-04-2022 05:25:05;634394;Audi Model 3
+1845;224;filial_1;08-03-2022 06:19:21;834929;Mercedes Benz Golf
+1846;397;filial_1;27-02-2022 11:21:03;997429;Kia Escalade
+1847;162;filial_3;23-02-2022 01:48:11;163360;Chevrolet ATS
+1848;367;filial_2;16-04-2022 08:47:25;926269;Chrysler Challenger
+1849;92;filial_3;16-04-2022 06:06:50;579297;Volkswagen Golf
+1850;29;filial_1;30-03-2022 01:19:15;246716;Volkswagen Model 3
+1851;467;filial_1;24-03-2022 12:09:41;837424;Porsche Silverado
+1852;237;filial_3;27-04-2022 01:35:41;515327;Bentley Escalade
+1853;81;filial_3;29-04-2022 04:24:06;536274;Aston Martin Charger
+1854;103;filial_3;22-05-2022 09:30:29;904842;Cadillac Prius
+1855;439;filial_3;04-02-2022 11:13:37;768956;Fiat Explorer
+1856;402;filial_1;13-05-2022 10:48:21;240020;Ford Expedition
+1857;35;filial_2;13-05-2022 08:59:08;114363;Chrysler Model 3
+1858;451;filial_2;13-03-2022 09:18:04;805995;Tesla Challenger
+1859;165;filial_2;19-04-2022 07:54:40;326482;Land Rover Accord
+1860;331;filial_3;14-05-2022 05:02:45;507239;Ferrari El Camino
+1861;153;filial_2;14-05-2022 08:10:34;255058;Land Rover Explorer
+1862;267;filial_2;12-03-2022 02:25:48;595564;Toyota XTS
+1863;46;filial_3;30-05-2022 08:08:25;162729;Tesla A4
+1864;62;filial_2;04-04-2022 11:17:04;178911;Chevrolet Camaro
+1865;228;filial_3;24-02-2022 01:04:13;870702;Mercedes Benz PT Cruiser
+1866;176;filial_1;27-02-2022 07:14:36;699931;Bugatti Sentra
+1867;303;filial_3;13-03-2022 07:33:10;997939;Chrysler Fiesta
+1868;76;filial_1;26-03-2022 09:49:48;263787;Tesla Alpine
+1869;240;filial_3;09-04-2022 02:14:24;975406;Audi LeBaron
+1870;38;filial_2;11-04-2022 02:58:55;100353;Jeep Countach
+1871;51;filial_2;10-04-2022 02:16:36;331149;Mini Volt
+1872;425;filial_1;30-04-2022 10:11:20;435605;Bentley Impala
+1873;28;filial_3;25-02-2022 01:29:39;207555;Jeep A8
+1874;151;filial_1;23-03-2022 06:23:01;173314;Fiat Expedition
+1875;386;filial_3;27-05-2022 05:21:03;922201;Land Rover Camry
+1876;182;filial_3;15-02-2022 01:20:48;519028;Ferrari Element
+1877;289;filial_1;15-05-2022 03:39:04;274816;Maserati Sentra
+1878;407;filial_3;18-04-2022 10:51:51;920699;Cadillac F-150
+1879;222;filial_2;01-03-2022 08:53:23;975415;Ford Countach
+1880;430;filial_2;17-02-2022 05:05:41;831062;BMW Focus
+1881;284;filial_1;31-03-2022 12:40:37;938667;Porsche XTS
+1882;156;filial_3;06-03-2022 04:53:47;458229;Ford Jetta
+1883;349;filial_2;03-05-2022 03:48:54;656944;Mercedes Benz Element
+1884;51;filial_3;09-05-2022 09:18:04;148250;Tesla Malibu
+1885;313;filial_1;21-02-2022 10:13:48;81415;Mini Golf
+1886;190;filial_3;17-02-2022 06:56:25;139141;Nissan El Camino
+1887;126;filial_1;21-05-2022 07:35:49;991836;Rolls Royce Camaro
+1888;372;filial_3;08-03-2022 05:13:12;464805;Toyota CTS
+1889;144;filial_3;15-05-2022 03:30:55;142958;Toyota Sentra
+1890;477;filial_1;01-04-2022 05:46:52;276744;Chrysler Ranchero
+1891;242;filial_1;30-04-2022 12:55:08;99544;Nissan Sentra
+1892;133;filial_2;05-03-2022 12:22:05;429344;Jeep Mercielago
+1893;197;filial_2;20-04-2022 01:44:33;778631;Rolls Royce Aventador
+1894;189;filial_2;09-05-2022 07:45:36;158790;Jeep Mustang
+1895;93;filial_2;12-02-2022 12:26:57;433926;Aston Martin Colorado
+1896;337;filial_3;10-03-2022 08:24:53;413597;Porsche Fiesta
+1897;13;filial_1;25-04-2022 03:40:28;521146;Volkswagen Silverado
+1898;409;filial_1;10-05-2022 02:48:50;159661;Chrysler LeBaron
+1899;121;filial_2;27-03-2022 11:00:37;505060;Aston Martin 911
+1900;481;filial_1;10-02-2022 10:52:55;100394;Rolls Royce Accord
+1901;296;filial_3;25-04-2022 12:58:18;533851;Honda Volt
+1902;319;filial_3;19-03-2022 02:44:12;221214;Aston Martin Wrangler
+1903;177;filial_2;14-03-2022 11:57:57;988188;Rolls Royce Altima
+1904;34;filial_2;14-05-2022 03:15:14;513857;Jaguar Mercielago
+1905;323;filial_2;24-05-2022 01:26:27;523498;Aston Martin A8
+1906;310;filial_3;13-05-2022 02:20:12;597169;Kia Volt
+1907;85;filial_2;03-03-2022 04:41:30;504608;Maserati CTS
+1908;331;filial_2;13-05-2022 05:15:11;621886;Mini Element
+1909;335;filial_3;22-05-2022 12:22:50;706724;Honda Golf
+1910;41;filial_1;16-03-2022 12:30:49;146991;Lamborghini LeBaron
+1911;158;filial_3;13-04-2022 05:09:58;954361;Ferrari Jetta
+1912;21;filial_3;11-03-2022 09:21:48;602492;Ferrari Roadster
+1913;63;filial_1;29-04-2022 05:23:24;382814;Cadillac Land Cruiser
+1914;447;filial_2;04-04-2022 04:56:15;556915;Jaguar Golf
+1915;470;filial_3;25-05-2022 05:10:43;718845;Hyandai Silverado
+1916;69;filial_2;20-04-2022 05:56:47;473382;Land Rover Grand Caravan
+1917;241;filial_3;10-03-2022 10:08:54;434902;Kia Explorer
+1918;360;filial_1;19-05-2022 05:48:27;781068;Porsche Jetta
+1919;328;filial_1;02-05-2022 07:42:03;871090;Toyota Fiesta
+1920;119;filial_3;19-02-2022 02:03:55;177795;BMW Ranchero
+1921;492;filial_2;16-05-2022 03:57:36;373406;Hyandai Aventador
+1922;487;filial_1;24-03-2022 08:48:56;51856;Aston Martin Malibu
+1923;176;filial_1;05-02-2022 11:07:21;136257;Cadillac CTS
+1924;79;filial_3;08-03-2022 03:21:21;478006;Mercedes Benz Mercielago
+1925;435;filial_2;14-03-2022 07:55:15;743129;Tesla Cruze
+1926;239;filial_1;22-02-2022 03:03:59;398585;Chevrolet Mustang
+1927;390;filial_3;27-02-2022 08:01:24;422148;Porsche Colorado
+1928;155;filial_2;12-02-2022 01:48:23;646439;Ford Altima
+1929;416;filial_1;02-02-2022 11:28:09;801549;Aston Martin Ranchero
+1930;313;filial_3;23-03-2022 02:14:41;323348;Audi Camry
+1931;286;filial_2;11-02-2022 03:26:14;991215;Kia Accord
+1932;287;filial_3;08-03-2022 08:45:39;168623;Honda Fiesta
+1933;338;filial_2;11-02-2022 10:17:35;455775;Chrysler Cruze
+1934;257;filial_3;21-05-2022 12:07:05;495466;Hyandai Accord
+1935;417;filial_3;17-02-2022 11:51:41;515672;Hyandai Wrangler
+1936;210;filial_2;30-03-2022 02:20:28;658033;Maserati Camry
+1937;435;filial_2;27-02-2022 03:54:24;504072;Tesla Aventador
+1938;443;filial_3;28-03-2022 07:06:54;927665;Honda Element
+1939;168;filial_3;28-05-2022 07:49:10;208473;Lamborghini Charger
+1940;411;filial_2;30-03-2022 03:22:25;501248;Hyandai Charger
+1941;438;filial_2;11-02-2022 05:27:42;629190;Toyota XTS
+1942;334;filial_1;01-04-2022 09:18:53;429026;Mini Ranchero
+1943;67;filial_2;08-03-2022 10:09:27;175652;BMW Grand Cherokee
+1944;299;filial_1;29-04-2022 03:58:06;368804;Dodge Malibu
+1945;442;filial_1;11-04-2022 04:11:59;136947;Tesla Volt
+1946;296;filial_3;11-03-2022 05:40:51;936689;Maserati CTS
+1947;42;filial_2;16-02-2022 06:23:03;464191;Maserati Charger
+1948;336;filial_2;15-02-2022 08:40:23;419098;Chevrolet Malibu
+1949;39;filial_2;08-03-2022 06:13:50;560485;Chrysler Wrangler
+1950;474;filial_3;25-02-2022 06:12:04;147858;Aston Martin Focus
+1951;30;filial_2;04-04-2022 04:23:09;860414;Land Rover Impala
+1952;28;filial_2;01-03-2022 08:01:55;663114;Jeep Golf
+1953;121;filial_1;22-04-2022 12:45:27;304343;Volkswagen Spyder
+1954;102;filial_3;16-03-2022 04:51:46;756644;Fiat A8
+1955;184;filial_1;10-02-2022 12:02:11;743003;Lamborghini Corvette
+1956;208;filial_2;28-04-2022 11:03:01;689496;Chevrolet Expedition
+1957;297;filial_1;28-04-2022 08:10:19;826089;Volkswagen Jetta
+1958;171;filial_1;11-04-2022 12:00:52;321967;Rolls Royce Explorer
+1959;149;filial_2;13-04-2022 11:17:14;645736;Maserati Altima
+1960;398;filial_2;19-03-2022 03:35:42;458133;Kia Mercielago
+1961;216;filial_2;19-02-2022 09:56:28;634202;Bentley Model 3
+1962;64;filial_2;18-02-2022 02:21:10;738510;Hyandai Roadster
+1963;474;filial_3;04-03-2022 06:23:48;577346;Dodge Cruze
+1964;460;filial_2;01-03-2022 03:06:50;83391;Mini Countach
+1965;382;filial_3;16-03-2022 02:28:32;792208;Chrysler Fiesta
+1966;244;filial_2;24-03-2022 06:40:46;246062;Fiat El Camino
+1967;74;filial_1;05-04-2022 08:47:23;312957;Aston Martin Civic
+1968;441;filial_1;24-03-2022 06:48:05;311677;Honda CTS
+1969;272;filial_1;25-05-2022 01:09:22;933565;Chrysler A8
+1970;197;filial_1;08-02-2022 04:03:26;221793;Toyota F-150
+1971;172;filial_1;02-05-2022 02:52:17;286191;Jaguar Grand Caravan
+1972;303;filial_3;22-03-2022 10:50:22;754156;Dodge Element
+1973;66;filial_3;07-03-2022 02:01:43;288697;Fiat Land Cruiser
+1974;158;filial_1;05-05-2022 01:22:45;173184;Volkswagen Land Cruiser
+1975;383;filial_1;09-04-2022 05:07:34;550830;Honda 911
+1976;5;filial_2;21-05-2022 04:10:18;285430;Ferrari Colorado
+1977;456;filial_3;31-03-2022 02:11:10;64524;Jeep Focus
+1978;165;filial_2;06-03-2022 12:43:33;632249;BMW Cruze
+1979;137;filial_2;28-03-2022 08:33:49;650607;Kia LeBaron
+1980;153;filial_1;23-05-2022 01:22:00;284103;Ford Explorer
+1981;304;filial_2;23-05-2022 12:25:38;668746;Bentley Taurus
+1982;346;filial_2;02-03-2022 10:32:34;688922;Fiat Challenger
+1983;432;filial_3;21-04-2022 05:47:32;574761;Dodge Model 3
+1984;420;filial_1;09-02-2022 10:56:15;442334;Tesla Impala
+1985;303;filial_1;29-05-2022 07:18:09;376041;Chevrolet A4
+1986;90;filial_2;30-05-2022 07:48:29;507547;Ford Golf
+1987;190;filial_3;18-05-2022 10:11:48;845109;Porsche Wrangler
+1988;149;filial_1;22-03-2022 04:16:11;557528;Kia Accord
+1989;462;filial_2;24-02-2022 06:13:30;281966;Audi Altima
+1990;321;filial_1;06-02-2022 02:43:21;248972;Ferrari Ranchero
+1991;190;filial_1;07-03-2022 04:23:33;808799;Chrysler Jetta
+1992;91;filial_1;14-03-2022 04:01:20;450453;Mini Civic
+1993;366;filial_2;05-04-2022 10:07:19;759829;Nissan Golf
+1994;475;filial_2;15-02-2022 07:52:34;154885;Ferrari Land Cruiser
+1995;271;filial_2;09-02-2022 04:46:19;336666;Tesla Volt
+1996;351;filial_3;26-05-2022 04:44:45;248352;Maserati Fiesta
+1997;415;filial_2;05-05-2022 05:08:06;316649;Rolls Royce Beetle
+1998;83;filial_2;10-03-2022 11:58:55;963384;Honda Malibu
+1999;369;filial_1;19-05-2022 11:26:41;399081;Volkswagen 911
+2000;66;filial_2;18-05-2022 08:15:35;609121;Dodge Model 3
+2001;467;filial_2;15-03-2022 08:41:35;264739;Fiat Volt
+2002;394;filial_1;26-03-2022 02:51:46;151583;Maserati Impala
+2003;24;filial_3;18-03-2022 02:17:05;658219;Volkswagen Fiesta
+2004;5;filial_3;12-04-2022 06:17:57;803199;Cadillac Camry
+2005;335;filial_2;05-05-2022 07:52:40;475260;Cadillac Accord
+2006;410;filial_3;16-03-2022 11:15:38;636634;Cadillac Jetta
+2007;77;filial_2;01-05-2022 05:50:56;795167;Maserati Colorado
+2008;452;filial_3;10-05-2022 02:00:46;801705;Chevrolet 911
+2009;337;filial_3;10-05-2022 07:03:08;878644;Audi Element
+2010;76;filial_3;13-02-2022 09:12:33;714744;Mini Fiesta
+2011;417;filial_1;25-03-2022 09:35:26;399241;Jaguar Camaro
+2012;3;filial_3;15-02-2022 06:32:54;457750;Bugatti A8
+2013;273;filial_3;14-05-2022 07:51:08;798895;Bentley 911
+2014;292;filial_2;02-03-2022 07:42:53;529191;Dodge A8
+2015;14;filial_2;02-05-2022 12:33:49;836915;Jaguar Civic
+2016;320;filial_3;23-05-2022 02:16:07;541022;Tesla Model T
+2017;429;filial_1;06-03-2022 10:06:08;944356;Hyandai Malibu
+2018;97;filial_2;24-04-2022 01:37:38;342051;Toyota Jetta
+2019;447;filial_3;19-02-2022 03:47:23;449108;Rolls Royce Alpine
+2020;392;filial_2;11-05-2022 03:21:59;72954;BMW Civic
+2021;380;filial_2;01-02-2022 01:08:18;125478;Fiat Roadster
+2022;160;filial_2;13-05-2022 11:21:54;951920;Kia Escalade
+2023;172;filial_1;03-02-2022 07:41:47;574742;Cadillac A4
+2024;119;filial_3;26-05-2022 03:52:48;185886;Jeep PT Cruiser
+2025;196;filial_1;20-03-2022 08:01:33;191386;BMW Jetta
+2026;369;filial_1;02-02-2022 03:41:40;222146;Honda XTS
+2027;59;filial_3;24-03-2022 08:45:46;868557;Lamborghini Golf
+2028;235;filial_1;15-04-2022 02:33:06;147303;Tesla Taurus
+2029;236;filial_2;15-03-2022 01:27:41;552541;BMW Countach
+2030;381;filial_3;25-05-2022 08:44:48;962802;Audi Spyder
+2031;101;filial_2;05-02-2022 01:26:48;965248;Hyandai A4
+2032;68;filial_2;15-03-2022 05:21:16;846220;Dodge Mustang
+2033;467;filial_3;06-02-2022 07:44:35;916811;Ferrari Jetta
+2034;74;filial_2;28-05-2022 02:59:10;145025;Jeep Corvette
+2035;232;filial_3;05-04-2022 12:37:42;505238;Jeep Altima
+2036;182;filial_1;08-02-2022 04:31:47;289703;Aston Martin Grand Cherokee
+2037;330;filial_1;03-04-2022 04:34:19;482467;Tesla Mustang
+2038;289;filial_3;15-05-2022 01:28:20;218120;Ford Countach
+2039;328;filial_1;20-04-2022 03:39:46;80589;Cadillac ATS
+2040;6;filial_2;04-03-2022 01:24:34;540314;Land Rover Model T
+2041;378;filial_3;27-02-2022 09:15:04;591995;Fiat Impala
+2042;356;filial_3;23-05-2022 08:55:21;945130;Ferrari Colorado
+2043;119;filial_2;05-03-2022 01:49:36;768644;Chevrolet Accord
+2044;78;filial_2;21-05-2022 06:56:56;896842;Porsche El Camino
+2045;78;filial_1;09-03-2022 11:50:05;427135;Volkswagen Wrangler
+2046;83;filial_2;03-04-2022 10:32:52;743871;Kia XTS
+2047;161;filial_2;11-04-2022 04:34:35;69893;Mini Grand Cherokee
+2048;286;filial_2;13-02-2022 11:07:19;71849;Jeep Land Cruiser
+2049;276;filial_3;20-05-2022 08:13:00;827187;Mercedes Benz Corvette
+2050;91;filial_3;12-05-2022 10:28:44;119593;Ford Aventador
+2051;26;filial_2;01-05-2022 08:21:56;885189;Maserati Silverado
+2052;384;filial_1;12-05-2022 11:06:56;941003;Hyandai Taurus
+2053;83;filial_3;02-03-2022 06:09:39;77375;Porsche ATS
+2054;388;filial_3;18-02-2022 06:01:38;619353;Dodge Challenger
+2055;217;filial_3;28-04-2022 06:24:09;477285;Jaguar ATS
+2056;203;filial_1;01-04-2022 12:12:54;544987;Toyota Beetle
+2057;457;filial_3;28-02-2022 10:03:00;374214;BMW Ranchero
+2058;252;filial_2;24-04-2022 05:23:11;217539;Land Rover XTS
+2059;29;filial_2;22-03-2022 01:26:24;636868;Porsche A8
+2060;357;filial_3;03-02-2022 10:31:46;322115;Aston Martin Taurus
+2061;269;filial_3;22-05-2022 04:32:55;104586;Rolls Royce Spyder
+2062;490;filial_2;14-03-2022 07:31:46;182658;Fiat Roadster
+2063;319;filial_2;05-02-2022 06:25:44;98802;Maserati Cruze
+2064;436;filial_2;29-04-2022 03:17:38;832230;Aston Martin A8
+2065;151;filial_3;22-05-2022 07:06:13;210897;Maserati PT Cruiser
+2066;264;filial_2;13-02-2022 04:49:08;454313;Cadillac Cruze
+2067;117;filial_1;11-05-2022 05:46:18;382044;Hyandai Taurus
+2068;478;filial_2;05-03-2022 08:00:23;310628;Bentley Sentra
+2069;441;filial_3;16-03-2022 12:14:34;707976;Aston Martin Land Cruiser
+2070;54;filial_2;11-02-2022 11:16:13;985014;Chevrolet CTS
+2071;85;filial_3;17-02-2022 10:11:29;426677;Aston Martin Aventador
+2072;212;filial_1;13-04-2022 06:23:11;687538;Porsche El Camino
+2073;67;filial_2;15-03-2022 01:31:46;350879;Land Rover Grand Cherokee
+2074;220;filial_1;26-04-2022 04:30:11;296615;Nissan Ranchero
+2075;309;filial_2;11-03-2022 10:28:17;810205;Maserati Civic
+2076;384;filial_1;12-02-2022 04:58:13;148372;Volkswagen Explorer
+2077;143;filial_2;09-02-2022 07:48:09;745486;Bugatti F-150
+2078;79;filial_1;12-03-2022 12:32:43;754671;Toyota XTS
+2079;145;filial_3;21-02-2022 05:45:27;269083;Tesla Charger
+2080;175;filial_1;03-04-2022 01:22:12;872172;Tesla Aventador
+2081;221;filial_3;10-03-2022 11:18:41;53436;Maserati Volt
+2082;230;filial_2;20-04-2022 10:17:10;213774;Chrysler Civic
+2083;128;filial_1;24-05-2022 06:16:04;249284;Rolls Royce Jetta
+2084;495;filial_2;05-02-2022 07:27:27;320262;Rolls Royce Civic
+2085;364;filial_2;23-05-2022 03:04:33;608992;Dodge Roadster
+2086;35;filial_1;07-03-2022 06:12:33;540588;Ferrari Alpine
+2087;40;filial_2;02-05-2022 12:02:09;555547;Ford A8
+2088;142;filial_3;02-02-2022 10:59:05;690372;Porsche Colorado
+2089;488;filial_1;17-03-2022 04:25:14;78628;Lamborghini Impala
+2090;430;filial_2;10-04-2022 09:51:40;525104;Fiat Golf
+2091;233;filial_3;16-05-2022 06:25:53;579187;Honda PT Cruiser
+2092;233;filial_1;02-03-2022 10:55:57;693575;Kia Prius
+2093;489;filial_1;04-03-2022 08:38:29;466390;Nissan 911
+2094;138;filial_2;28-02-2022 08:42:07;573169;Mercedes Benz A8
+2095;38;filial_2;21-03-2022 05:38:05;215463;Ferrari Land Cruiser
+2096;404;filial_1;01-04-2022 08:01:13;972033;Maserati ATS
+2097;136;filial_1;04-05-2022 12:46:47;948288;Jaguar Malibu
+2098;79;filial_2;02-02-2022 06:20:27;301968;Chevrolet ATS
+2099;369;filial_3;31-03-2022 11:54:20;232519;Aston Martin Prius
+2100;492;filial_1;13-03-2022 04:17:21;237083;Ford Grand Cherokee
+2101;29;filial_1;29-05-2022 10:56:02;880523;Hyandai Durango
+2102;239;filial_2;04-05-2022 02:52:12;605866;Aston Martin Wrangler
+2103;391;filial_3;20-05-2022 01:14:27;778198;Fiat Challenger
+2104;456;filial_3;28-02-2022 06:06:02;576458;Tesla Countach
+2105;339;filial_3;04-02-2022 04:35:39;840798;Kia 911
+2106;235;filial_3;04-05-2022 02:05:28;739140;Chevrolet PT Cruiser
+2107;127;filial_3;03-05-2022 01:40:00;691365;Toyota Civic
+2108;33;filial_3;20-03-2022 03:41:37;883325;Land Rover Alpine
+2109;82;filial_2;17-05-2022 09:00:37;441020;Lamborghini Camaro
+2110;486;filial_2;26-02-2022 10:01:26;103779;Lamborghini Golf
+2111;410;filial_2;18-04-2022 01:08:03;710974;Bentley Altima
+2112;13;filial_2;16-02-2022 12:43:50;903306;Audi Taurus
+2113;417;filial_2;11-02-2022 10:10:27;627493;Hyandai Sentra
+2114;176;filial_1;10-02-2022 09:24:51;620003;Jaguar A8
+2115;362;filial_3;19-03-2022 06:12:55;96810;Bentley Model 3
+2116;400;filial_2;28-05-2022 08:55:06;347061;Dodge 911
+2117;461;filial_1;22-04-2022 09:41:17;50520;Cadillac Model T
+2118;61;filial_1;25-04-2022 03:57:58;437917;Ford LeBaron
+2119;75;filial_2;03-02-2022 09:40:19;821475;Chrysler El Camino
+2120;263;filial_2;05-05-2022 10:41:19;850262;Jeep ATS
+2121;106;filial_1;02-04-2022 06:06:06;747957;Bentley Countach
+2122;342;filial_3;21-04-2022 02:34:38;680071;Bugatti Aventador
+2123;40;filial_3;05-02-2022 07:22:26;378381;Cadillac Silverado
+2124;300;filial_1;23-04-2022 07:46:50;454383;Jeep Jetta
+2125;496;filial_2;02-04-2022 07:21:01;395287;Maserati Wrangler
+2126;132;filial_3;13-03-2022 04:17:12;792300;Ford Camry
+2127;123;filial_3;31-03-2022 05:35:35;882430;Jaguar Grand Caravan
+2128;194;filial_3;05-02-2022 02:44:21;465022;Kia Challenger
+2129;280;filial_3;24-05-2022 03:42:43;275227;Mini LeBaron
+2130;449;filial_3;18-04-2022 08:19:38;415994;Honda A8
+2131;431;filial_3;15-05-2022 03:29:06;721881;Porsche A4
+2132;270;filial_1;16-04-2022 10:50:05;837589;Jeep Golf
+2133;10;filial_3;09-04-2022 09:03:21;198720;Honda Sentra
+2134;161;filial_2;01-04-2022 07:07:22;382091;Cadillac Ranchero
+2135;180;filial_2;14-05-2022 07:59:26;133470;Mercedes Benz Camry
+2136;309;filial_3;30-05-2022 08:37:35;97500;Jeep Grand Cherokee
+2137;18;filial_1;06-02-2022 05:59:31;958923;Mercedes Benz XTS
+2138;401;filial_3;10-04-2022 06:50:58;859321;Nissan Countach
+2139;335;filial_2;26-05-2022 01:32:30;702156;Bentley CTS
+2140;326;filial_1;02-05-2022 08:58:41;618283;Jeep ATS
+2141;426;filial_2;01-03-2022 01:56:24;91724;Ferrari Countach
+2142;21;filial_1;02-05-2022 08:53:56;954069;Bugatti Element
+2143;407;filial_1;24-05-2022 06:50:58;501275;Volkswagen Aventador
+2144;366;filial_3;25-03-2022 01:00:09;569852;BMW Ranchero
+2145;251;filial_2;26-02-2022 06:04:30;392583;Bentley Colorado
+2146;454;filial_3;20-03-2022 06:02:46;739076;Aston Martin Accord
+2147;300;filial_3;29-05-2022 04:22:11;644059;Tesla Sentra
+2148;416;filial_3;10-05-2022 07:23:06;805704;Chevrolet Taurus
+2149;19;filial_2;06-04-2022 01:15:30;952655;Maserati Escalade
+2150;421;filial_2;25-03-2022 07:31:10;966113;Ferrari A4
+2151;86;filial_2;23-05-2022 06:22:37;72603;Bugatti Model T
+2152;7;filial_2;27-03-2022 12:13:28;404015;Maserati Beetle
+2153;4;filial_1;06-02-2022 11:44:26;862555;Dodge Land Cruiser
+2154;344;filial_2;06-05-2022 09:49:28;575682;Volkswagen Ranchero
+2155;396;filial_3;01-03-2022 01:20:42;284022;Chevrolet Silverado
+2156;450;filial_2;26-02-2022 11:51:16;327793;Ferrari Malibu
+2157;329;filial_1;25-02-2022 04:56:36;312775;Bugatti Element
+2158;463;filial_1;17-04-2022 06:13:59;664045;Mercedes Benz Escalade
+2159;476;filial_3;13-04-2022 07:28:18;369825;Cadillac Silverado
+2160;271;filial_2;30-03-2022 05:00:59;981587;Lamborghini A8
+2161;348;filial_1;20-02-2022 08:25:03;571976;Jaguar A8
+2162;351;filial_2;20-04-2022 04:19:05;842234;Land Rover Civic
+2163;257;filial_2;07-03-2022 05:19:58;666457;Mercedes Benz Golf
+2164;468;filial_3;17-02-2022 05:15:36;156169;Ferrari Silverado
+2165;116;filial_1;24-05-2022 07:21:08;662580;Kia Model T
+2166;347;filial_1;12-05-2022 10:53:06;165466;Hyandai LeBaron
+2167;412;filial_3;10-02-2022 09:04:54;619971;Nissan El Camino
+2168;44;filial_1;02-03-2022 12:50:38;932914;Cadillac Mustang
+2169;44;filial_3;06-03-2022 09:48:17;202965;Fiat Civic
+2170;195;filial_2;22-02-2022 03:27:28;742942;Lamborghini Challenger
+2171;346;filial_1;08-02-2022 11:35:41;62254;Dodge Mercielago
+2172;235;filial_1;24-04-2022 09:18:53;932408;Jaguar Model T
+2173;413;filial_1;27-02-2022 10:01:37;93502;BMW Model S
+2174;415;filial_3;11-03-2022 10:48:02;617420;Nissan 911
+2175;144;filial_2;16-03-2022 01:42:06;89261;Tesla Taurus
+2176;418;filial_1;09-04-2022 02:08:36;64224;Jeep F-150
+2177;247;filial_3;20-02-2022 10:51:14;275613;Dodge Mustang
+2178;431;filial_3;07-02-2022 11:28:50;147477;Lamborghini Altima
+2179;352;filial_1;21-04-2022 01:01:17;929518;Toyota Volt
+2180;302;filial_3;27-05-2022 04:23:44;647269;Hyandai LeBaron
+2181;258;filial_2;03-05-2022 10:20:36;250763;Toyota Altima
+2182;61;filial_3;27-05-2022 10:46:55;982246;Dodge El Camino
+2183;476;filial_3;27-02-2022 02:28:56;819337;Cadillac Civic
+2184;368;filial_1;20-03-2022 05:06:07;295707;Maserati Accord
+2185;199;filial_1;31-03-2022 08:11:53;807931;Ford XTS
+2186;29;filial_1;08-02-2022 09:18:53;751587;Honda Altima
+2187;3;filial_2;03-02-2022 03:43:19;428341;Maserati Fiesta
+2188;22;filial_1;30-05-2022 07:16:33;276263;Bentley Accord
+2189;443;filial_1;11-04-2022 05:49:00;258354;Ferrari A4
+2190;158;filial_2;18-04-2022 02:16:42;422171;Volkswagen Impala
+2191;348;filial_3;16-02-2022 06:38:22;694017;Land Rover Accord
+2192;474;filial_1;10-03-2022 03:35:02;91254;Mercedes Benz Model S
+2193;23;filial_3;17-05-2022 05:14:21;854757;Chevrolet Silverado
+2194;343;filial_2;28-04-2022 04:10:45;273585;Bugatti Ranchero
+2195;86;filial_2;22-04-2022 01:33:17;91107;Land Rover PT Cruiser
+2196;232;filial_1;25-03-2022 12:04:24;722462;Jeep Volt
+2197;56;filial_2;24-04-2022 02:59:19;712418;Porsche Land Cruiser
+2198;297;filial_2;02-05-2022 04:50:27;482652;Toyota Model S
+2199;360;filial_2;13-05-2022 07:54:48;466832;Chevrolet Model T
+2200;323;filial_3;09-03-2022 07:41:13;505090;Bentley Cruze
+2201;236;filial_2;04-03-2022 05:38:28;119212;Porsche Camry
+2202;95;filial_2;20-03-2022 08:05:39;287313;Bentley F-150
+2203;250;filial_1;06-05-2022 03:01:19;219557;Chevrolet Beetle
+2204;94;filial_1;19-04-2022 05:44:07;478754;Mercedes Benz Altima
+2205;461;filial_3;03-05-2022 04:06:46;165064;Ferrari ATS
+2206;472;filial_2;24-02-2022 04:41:58;246799;Nissan LeBaron
+2207;247;filial_2;18-03-2022 01:12:05;716831;Hyandai Grand Cherokee
+2208;297;filial_1;06-03-2022 10:42:56;153419;Hyandai Altima
+2209;117;filial_3;25-02-2022 11:59:11;248194;Nissan Fiesta
+2210;180;filial_3;08-02-2022 07:01:33;168169;Ford Mustang
+2211;109;filial_2;20-03-2022 05:02:50;362465;Chrysler Wrangler
+2212;216;filial_2;27-03-2022 01:02:09;326826;Ford Countach
+2213;111;filial_3;29-03-2022 04:38:39;497185;Nissan Grand Caravan
+2214;423;filial_3;27-05-2022 05:15:35;290993;Bugatti Volt
+2215;5;filial_1;26-02-2022 06:26:18;484762;Volkswagen Sentra
+2216;48;filial_1;21-04-2022 07:40:00;868865;Jeep Corvette
+2217;275;filial_1;01-03-2022 04:22:08;618533;Kia Model S
+2218;478;filial_1;19-05-2022 07:09:42;276554;Honda 911
+2219;212;filial_1;24-05-2022 10:42:16;609342;Tesla Land Cruiser
+2220;226;filial_3;13-02-2022 03:37:49;991706;Dodge Alpine
+2221;478;filial_2;17-03-2022 09:38:40;394162;Honda Roadster
+2222;302;filial_1;31-03-2022 05:19:31;616365;Toyota Civic
+2223;113;filial_1;16-02-2022 01:24:55;478978;Bentley Element
+2224;8;filial_2;15-04-2022 09:56:07;227813;Dodge Ranchero
+2225;107;filial_1;14-05-2022 07:09:26;542226;Honda Expedition
+2226;439;filial_1;24-04-2022 08:26:35;508740;Volkswagen Camry
+2227;121;filial_3;25-02-2022 02:11:52;398159;Chrysler Golf
+2228;75;filial_2;13-03-2022 08:58:11;482521;Hyandai El Camino
+2229;219;filial_3;17-04-2022 12:23:51;347191;Honda Camaro
+2230;60;filial_3;04-03-2022 08:28:33;355827;Mini A8
+2231;21;filial_1;15-02-2022 01:15:36;715276;Cadillac Jetta
+2232;148;filial_1;27-03-2022 11:59:12;188205;Ferrari Camry
+2233;64;filial_2;27-03-2022 03:55:51;175338;Audi Explorer
+2234;439;filial_3;09-03-2022 03:03:20;126511;Hyandai Grand Caravan
+2235;12;filial_1;12-03-2022 01:52:49;683025;Chevrolet Impala
+2236;242;filial_3;19-03-2022 03:10:01;146379;Aston Martin Mercielago
+2237;198;filial_1;14-02-2022 05:08:46;640707;Volkswagen CTS
+2238;257;filial_1;01-05-2022 08:26:49;766944;Tesla Spyder
+2239;230;filial_2;24-05-2022 08:38:41;122497;Lamborghini Prius
+2240;157;filial_1;23-05-2022 01:32:29;741036;Rolls Royce Ranchero
+2241;208;filial_3;31-03-2022 06:13:06;336236;Jeep Model 3
+2242;248;filial_1;30-03-2022 03:41:41;692609;Toyota Durango
+2243;195;filial_3;29-04-2022 10:27:45;636735;Nissan Malibu
+2244;189;filial_1;03-05-2022 11:13:30;602436;Hyandai F-150
+2245;340;filial_2;28-04-2022 06:51:59;522534;Rolls Royce A8
+2246;150;filial_3;29-04-2022 12:40:35;448576;Fiat Corvette
+2247;444;filial_2;03-04-2022 04:58:58;257472;Rolls Royce ATS
+2248;69;filial_3;19-03-2022 05:33:14;634040;Lamborghini Land Cruiser
+2249;345;filial_2;01-02-2022 10:25:00;366461;Bugatti Element
+2250;145;filial_2;18-03-2022 03:54:22;337330;Mercedes Benz Ranchero
+2251;137;filial_3;13-05-2022 10:12:45;101734;Rolls Royce Corvette
+2252;404;filial_3;01-05-2022 06:19:16;72622;Mercedes Benz Fiesta
+2253;466;filial_1;11-05-2022 05:42:41;579483;Toyota Model 3
+2254;54;filial_2;01-05-2022 06:27:39;869053;Toyota Expedition
+2255;283;filial_3;11-02-2022 10:05:50;724091;Audi Cruze
+2256;442;filial_3;10-03-2022 10:15:21;317755;Bentley ATS
+2257;349;filial_3;12-04-2022 07:54:21;291392;Fiat ATS
+2258;215;filial_1;27-04-2022 03:20:10;991781;BMW Model S
+2259;489;filial_1;02-02-2022 11:41:30;536027;Chevrolet Mercielago
+2260;127;filial_3;21-03-2022 04:22:56;690236;Ford Grand Cherokee
+2261;114;filial_1;21-04-2022 03:13:40;842260;Cadillac 911
+2262;8;filial_2;23-05-2022 01:54:40;214685;Cadillac Jetta
+2263;47;filial_2;21-03-2022 03:10:22;67098;Tesla Countach
+2264;10;filial_3;23-04-2022 04:20:01;271164;Jeep Explorer
+2265;306;filial_1;11-04-2022 02:35:10;742662;Hyandai Volt
+2266;301;filial_1;07-05-2022 10:14:06;249375;Jaguar Fiesta
+2267;310;filial_1;24-03-2022 02:11:33;429542;Chevrolet Jetta
+2268;203;filial_1;16-04-2022 09:44:05;238775;Fiat El Camino
+2269;14;filial_2;26-05-2022 10:04:05;495066;Fiat Ranchero
+2270;380;filial_1;05-04-2022 06:58:49;736623;Rolls Royce Beetle
+2271;68;filial_3;12-03-2022 10:01:03;755609;Bugatti Beetle
+2272;16;filial_2;08-05-2022 03:58:05;277248;Audi Jetta
+2273;224;filial_1;11-04-2022 12:03:29;493018;Rolls Royce 911
+2274;419;filial_1;20-03-2022 02:00:02;540223;Hyandai Grand Cherokee
+2275;167;filial_3;14-05-2022 11:55:18;242197;Jaguar Wrangler
+2276;427;filial_1;05-02-2022 05:20:43;693827;Hyandai F-150
+2277;207;filial_1;02-05-2022 09:33:54;693379;Chrysler A4
+2278;474;filial_3;09-04-2022 03:28:44;191509;Dodge Grand Cherokee
+2279;318;filial_3;02-03-2022 09:07:40;602115;Lamborghini A8
+2280;334;filial_3;15-04-2022 07:30:10;562981;Ford CTS
+2281;91;filial_2;25-03-2022 08:14:38;564631;Tesla Volt
+2282;263;filial_2;27-04-2022 09:15:25;653592;Bentley 911
+2283;480;filial_1;24-04-2022 01:20:38;923755;Chrysler Focus
+2284;478;filial_3;19-04-2022 07:42:53;239326;Kia Volt
+2285;191;filial_3;28-03-2022 09:53:09;657654;Nissan Corvette
+2286;288;filial_1;03-04-2022 04:14:35;809179;Aston Martin Element
+2287;448;filial_1;29-03-2022 11:15:58;772516;Toyota A8
+2288;55;filial_2;09-05-2022 07:06:02;365955;Rolls Royce Model S
+2289;294;filial_1;01-05-2022 10:49:00;295756;Nissan Escalade
+2290;292;filial_2;01-03-2022 05:28:49;132001;Dodge Grand Caravan
+2291;430;filial_1;14-02-2022 03:12:52;910475;Dodge Durango
+2292;256;filial_3;16-02-2022 12:07:43;88963;Fiat Explorer
+2293;390;filial_3;04-03-2022 01:02:36;58148;Tesla Corvette
+2294;63;filial_1;08-02-2022 05:18:38;808298;Tesla Sentra
+2295;492;filial_2;26-02-2022 08:16:49;847769;Jeep Countach
+2296;77;filial_2;21-05-2022 02:35:27;647090;Lamborghini Model S
+2297;144;filial_1;14-02-2022 03:28:55;700378;Volkswagen Grand Caravan
+2298;9;filial_1;06-02-2022 09:26:32;232877;Volkswagen Ranchero
+2299;196;filial_1;13-03-2022 01:04:14;617856;Toyota Golf
+2300;58;filial_3;13-03-2022 03:13:18;727180;Toyota Colorado
+2301;65;filial_2;24-04-2022 07:22:50;787231;Jaguar Countach
+2302;204;filial_2;15-04-2022 11:12:50;907644;Dodge Model 3
+2303;478;filial_1;19-03-2022 02:00:28;592436;Chevrolet Mercielago
+2304;378;filial_2;05-03-2022 09:59:00;876487;Ford Countach
+2305;45;filial_3;12-03-2022 08:59:47;577574;Jeep Prius
+2306;277;filial_3;23-05-2022 04:24:24;880372;Land Rover Beetle
+2307;67;filial_2;24-02-2022 08:25:59;329064;Nissan Jetta
+2308;491;filial_1;27-05-2022 03:15:50;161594;Bugatti A4
+2309;8;filial_1;05-02-2022 11:53:15;675473;Maserati Camry
+2310;323;filial_3;14-05-2022 09:07:18;239928;Honda Explorer
+2311;138;filial_3;09-04-2022 04:46:11;150001;Nissan Model 3
+2312;441;filial_1;17-05-2022 06:23:04;654451;Jeep Accord
+2313;445;filial_2;27-04-2022 12:51:16;763835;Maserati Colorado
+2314;97;filial_3;22-05-2022 05:51:34;132088;Mercedes Benz Taurus
+2315;185;filial_2;17-03-2022 05:29:41;946657;Fiat XTS
+2316;1;filial_1;24-05-2022 06:53:55;722460;Maserati Model T
+2317;242;filial_1;08-05-2022 10:43:35;487487;Maserati Mercielago
+2318;262;filial_1;03-05-2022 11:13:16;198558;Jaguar Spyder
+2319;339;filial_2;30-05-2022 03:51:50;891955;Honda Sentra
+2320;430;filial_3;20-02-2022 05:50:01;857527;Toyota Jetta
+2321;324;filial_1;10-05-2022 11:55:31;774183;Jeep LeBaron
+2322;323;filial_3;28-02-2022 08:54:35;156179;Chrysler Prius
+2323;88;filial_1;06-05-2022 11:12:29;666629;Kia Focus
+2324;478;filial_3;12-03-2022 01:51:31;170603;Lamborghini Fiesta
+2325;484;filial_2;10-03-2022 12:20:47;829125;Land Rover Prius
+2326;458;filial_1;16-05-2022 10:56:08;571545;Land Rover Model 3
+2327;135;filial_1;06-02-2022 07:16:36;617166;Mercedes Benz Model S
+2328;337;filial_3;26-03-2022 06:58:26;116928;Fiat Silverado
+2329;315;filial_1;07-04-2022 04:26:27;292182;Tesla Charger
+2330;13;filial_1;06-04-2022 05:26:44;197732;Bentley Mustang
+2331;109;filial_1;06-05-2022 09:59:28;815093;Tesla Camaro
+2332;57;filial_1;14-03-2022 10:32:31;205784;Honda LeBaron
+2333;68;filial_1;11-04-2022 04:15:21;287659;Mini Spyder
+2334;492;filial_3;04-02-2022 10:00:31;633748;Audi Model T
+2335;9;filial_1;11-05-2022 11:44:53;166273;Volkswagen A4
+2336;344;filial_2;08-02-2022 05:15:51;384458;Mini Silverado
+2337;392;filial_1;24-03-2022 03:56:23;447426;Nissan Impala
+2338;455;filial_1;05-04-2022 07:48:00;62910;Cadillac 911
+2339;356;filial_2;19-02-2022 09:34:04;975001;Volkswagen Taurus
+2340;281;filial_1;31-03-2022 12:43:19;606013;Porsche ATS
+2341;104;filial_3;10-04-2022 05:16:49;928009;Chevrolet Model 3
+2342;80;filial_3;09-04-2022 02:50:15;531596;Bentley ATS
+2343;358;filial_2;10-05-2022 07:19:05;850599;Dodge CTS
+2344;355;filial_1;02-04-2022 11:44:34;948167;Chrysler Spyder
+2345;253;filial_3;05-05-2022 07:19:22;672479;Lamborghini Durango
+2346;238;filial_3;24-05-2022 11:01:14;348663;Nissan Cruze
+2347;73;filial_3;09-04-2022 07:43:45;498324;Chrysler Model S
+2348;18;filial_2;09-05-2022 05:32:44;285604;Hyandai Alpine
+2349;486;filial_1;05-04-2022 02:49:30;381401;Maserati XTS
+2350;326;filial_1;13-05-2022 10:35:41;823393;Maserati Challenger
+2351;100;filial_2;22-04-2022 08:30:50;647081;Cadillac A4
+2352;428;filial_3;24-03-2022 12:29:20;161833;BMW Challenger
+2353;65;filial_3;03-04-2022 11:04:02;951031;Mercedes Benz Focus
+2354;33;filial_2;19-05-2022 06:16:39;414464;Rolls Royce Mercielago
+2355;67;filial_3;08-02-2022 07:14:19;333229;Lamborghini Beetle
+2356;213;filial_3;20-02-2022 06:06:54;558084;Ferrari Grand Caravan
+2357;307;filial_1;31-03-2022 12:33:17;712434;Kia Aventador
+2358;412;filial_3;20-02-2022 10:49:52;666351;Maserati Beetle
+2359;460;filial_2;26-04-2022 02:43:26;622710;Chevrolet Ranchero
+2360;297;filial_1;11-05-2022 06:36:38;332105;Fiat Alpine
+2361;198;filial_3;20-02-2022 03:10:34;681384;Rolls Royce ATS
+2362;410;filial_2;22-03-2022 01:18:31;258118;Ferrari Alpine
+2363;474;filial_1;17-05-2022 08:43:28;993865;Toyota Jetta
+2364;438;filial_2;09-05-2022 01:46:04;794855;Chrysler Beetle
+2365;449;filial_1;01-03-2022 10:27:36;381521;Chevrolet Jetta
+2366;480;filial_3;06-05-2022 06:52:17;583925;Maserati Roadster
+2367;50;filial_3;17-04-2022 08:06:25;932136;Lamborghini Spyder
+2368;182;filial_3;01-03-2022 07:08:55;313375;Maserati Focus
+2369;20;filial_1;14-04-2022 05:20:36;564431;Volkswagen Element
+2370;89;filial_1;21-02-2022 06:11:05;353260;Chevrolet Alpine
+2371;426;filial_3;07-02-2022 01:21:51;638918;Chevrolet Grand Cherokee
+2372;377;filial_2;15-03-2022 05:25:06;368299;Dodge Silverado
+2373;348;filial_3;13-05-2022 05:56:36;542461;Honda XTS
+2374;280;filial_2;23-03-2022 05:48:20;958653;BMW Prius
+2375;195;filial_3;03-03-2022 04:07:00;212436;Rolls Royce Beetle
+2376;58;filial_2;01-04-2022 04:56:59;56726;Honda Spyder
+2377;416;filial_1;10-04-2022 01:34:19;153689;Tesla Countach
+2378;120;filial_1;05-02-2022 01:09:59;151541;Porsche Accord
+2379;450;filial_1;08-02-2022 08:18:23;292557;BMW Beetle
+2380;267;filial_1;04-02-2022 12:01:31;180825;Maserati LeBaron
+2381;203;filial_3;27-02-2022 07:13:30;374351;Nissan Escalade
+2382;191;filial_1;24-02-2022 02:32:42;739559;Chrysler Altima
+2383;355;filial_2;25-03-2022 04:37:25;403311;Lamborghini A4
+2384;291;filial_2;15-02-2022 08:21:26;348635;Maserati Grand Cherokee
+2385;171;filial_2;24-02-2022 03:12:03;640582;Maserati Jetta
+2386;192;filial_1;14-02-2022 01:15:28;716028;Bentley Focus
+2387;410;filial_3;27-03-2022 08:58:13;916720;Bugatti Explorer
+2388;36;filial_3;16-05-2022 11:25:04;826742;Volkswagen Countach
+2389;192;filial_2;08-05-2022 02:17:01;221474;Jeep Model 3
+2390;477;filial_2;18-05-2022 11:19:30;860778;Bugatti Alpine
+2391;374;filial_2;22-03-2022 07:29:45;123473;Bentley Sentra
+2392;75;filial_1;12-05-2022 06:20:19;588870;Rolls Royce Prius
+2393;3;filial_1;08-03-2022 12:48:03;405957;Nissan Charger
+2394;26;filial_1;02-05-2022 04:06:34;587366;Jaguar A4
+2395;106;filial_2;24-02-2022 12:39:41;94476;Jaguar Model S
+2396;212;filial_1;08-02-2022 06:03:40;735563;Jaguar Charger
+2397;175;filial_1;24-04-2022 01:06:57;752374;Audi F-150
+2398;22;filial_2;05-03-2022 09:53:02;996527;Land Rover Grand Caravan
+2399;83;filial_1;24-03-2022 11:56:32;122904;Nissan Land Cruiser
+2400;264;filial_2;19-05-2022 11:06:16;918600;Tesla Fiesta
+2401;497;filial_2;20-04-2022 03:45:22;483805;Mercedes Benz Fiesta
+2402;154;filial_1;02-05-2022 02:07:49;793603;Ford Colorado
+2403;473;filial_2;05-02-2022 06:09:51;458914;Mini Silverado
+2404;430;filial_1;31-03-2022 06:22:15;279625;Maserati Taurus
+2405;159;filial_1;24-05-2022 07:39:26;956102;BMW Ranchero
+2406;72;filial_3;03-05-2022 04:48:34;812487;Maserati Element
+2407;104;filial_2;28-02-2022 07:57:09;555069;Lamborghini A8
+2408;427;filial_3;27-03-2022 07:20:09;900711;Land Rover Fiesta
+2409;453;filial_1;23-05-2022 03:09:12;71183;Mini Prius
+2410;11;filial_3;10-02-2022 10:22:37;169891;Ford Grand Cherokee
+2411;246;filial_3;28-02-2022 02:20:48;770030;Jeep Alpine
+2412;426;filial_2;17-03-2022 05:57:05;687197;Nissan Expedition
+2413;235;filial_1;06-04-2022 08:54:00;211660;Volkswagen ATS
+2414;415;filial_3;17-04-2022 06:08:34;112154;Nissan A4
+2415;415;filial_3;19-02-2022 12:39:38;969435;Toyota A4
+2416;162;filial_3;05-05-2022 04:38:01;808197;Land Rover Land Cruiser
+2417;367;filial_1;28-02-2022 12:41:58;723718;Toyota Model 3
+2418;381;filial_3;12-02-2022 06:45:51;497672;Hyandai Taurus
+2419;463;filial_1;04-04-2022 06:19:49;991082;Rolls Royce Beetle
+2420;215;filial_2;21-02-2022 10:16:41;341353;Volkswagen Spyder
+2421;45;filial_2;13-02-2022 06:42:29;625921;Jaguar Grand Caravan
+2422;358;filial_3;26-03-2022 08:17:44;224651;Kia Civic
+2423;84;filial_1;04-04-2022 12:23:20;187970;Dodge Corvette
+2424;212;filial_2;28-04-2022 12:19:11;354837;Fiat LeBaron
+2425;290;filial_1;13-03-2022 12:53:07;786923;Mercedes Benz Challenger
+2426;233;filial_2;04-05-2022 02:13:13;534717;Nissan Focus
+2427;64;filial_1;03-05-2022 02:50:32;427570;Toyota Civic
+2428;167;filial_3;16-02-2022 12:54:12;796247;Land Rover A4
+2429;238;filial_2;24-02-2022 09:19:16;833988;Chevrolet Mustang
+2430;295;filial_1;11-05-2022 04:06:45;302783;Honda Charger
+2431;352;filial_3;20-05-2022 02:23:02;295457;Kia Spyder
+2432;398;filial_3;27-02-2022 08:47:05;80093;Audi Model S
+2433;408;filial_3;08-02-2022 02:35:17;216090;Volkswagen Impala
+2434;189;filial_3;13-02-2022 02:45:08;702012;Chevrolet Model 3
+2435;226;filial_2;24-03-2022 04:42:04;915928;BMW Taurus
+2436;400;filial_2;14-04-2022 10:14:11;515927;Mini Escalade
+2437;345;filial_3;07-02-2022 07:17:57;833758;Fiat Civic
+2438;208;filial_2;10-05-2022 04:52:08;887648;Jeep Corvette
+2439;184;filial_1;02-04-2022 09:56:23;886018;Bugatti Jetta
+2440;431;filial_2;02-03-2022 01:15:53;172557;Bugatti Alpine
+2441;270;filial_1;13-04-2022 07:24:58;299291;Chevrolet Aventador
+2442;495;filial_2;21-03-2022 03:36:21;71831;Cadillac Jetta
+2443;24;filial_1;20-04-2022 05:25:46;611922;Audi Malibu
+2444;54;filial_2;09-03-2022 11:13:38;634099;Maserati Ranchero
+2445;323;filial_3;28-02-2022 10:50:13;176653;Ford CTS
+2446;129;filial_3;30-05-2022 04:29:07;172394;Tesla Land Cruiser
+2447;402;filial_2;22-05-2022 01:56:07;157534;Cadillac Accord
+2448;89;filial_3;21-02-2022 01:23:56;365377;Toyota Corvette
+2449;479;filial_2;29-03-2022 11:40:33;165776;Bentley Mercielago
+2450;82;filial_3;10-03-2022 01:31:36;796643;Porsche Altima
+2451;308;filial_1;19-02-2022 03:35:47;143780;Volkswagen Explorer
+2452;472;filial_2;02-03-2022 10:43:40;919703;Rolls Royce Model T
+2453;286;filial_1;11-02-2022 02:28:44;300106;Volkswagen Golf
+2454;57;filial_1;28-04-2022 08:15:25;578568;Mini A4
+2455;286;filial_1;28-05-2022 05:45:13;72289;Chevrolet Colorado
+2456;206;filial_2;04-03-2022 03:13:29;220278;Volkswagen Civic
+2457;154;filial_2;07-02-2022 02:16:18;757300;Maserati Grand Cherokee
+2458;275;filial_3;25-05-2022 07:35:33;474161;Honda Colorado
+2459;432;filial_3;15-04-2022 08:16:32;958206;Porsche Fiesta
+2460;143;filial_3;14-04-2022 09:44:50;138396;Mini Focus
+2461;370;filial_2;13-05-2022 06:54:35;927349;Mercedes Benz Mustang
+2462;287;filial_3;14-05-2022 01:55:25;210360;Cadillac Impala
+2463;497;filial_2;05-04-2022 07:22:19;373853;Lamborghini Cruze
+2464;168;filial_3;24-05-2022 03:30:14;846851;Chevrolet Spyder
+2465;171;filial_3;20-02-2022 06:02:33;896576;Aston Martin Mustang
+2466;108;filial_3;11-05-2022 10:11:36;765406;Kia Aventador
+2467;286;filial_1;02-03-2022 10:29:41;882656;Audi Element
+2468;404;filial_2;25-05-2022 04:05:15;678396;Rolls Royce Altima
+2469;323;filial_1;02-05-2022 02:26:33;510038;Honda Mercielago
+2470;199;filial_1;23-02-2022 04:50:24;480324;Ford Roadster
+2471;470;filial_3;22-04-2022 12:33:36;495451;Fiat Charger
+2472;24;filial_2;06-02-2022 05:42:48;992098;Rolls Royce Model 3
+2473;405;filial_3;23-05-2022 07:02:07;333206;Tesla PT Cruiser
+2474;450;filial_2;30-04-2022 09:22:51;501923;Cadillac Model S
+2475;13;filial_3;20-02-2022 09:03:23;585080;Bentley Element
+2476;240;filial_1;19-02-2022 04:04:16;892852;Tesla Jetta
+2477;103;filial_1;09-03-2022 12:42:44;642337;Bugatti Mercielago
+2478;260;filial_2;27-03-2022 12:10:46;716918;Chevrolet CTS
+2479;18;filial_1;09-04-2022 10:54:29;745343;Rolls Royce Mercielago
+2480;102;filial_2;22-03-2022 06:48:41;927217;Land Rover Element
+2481;199;filial_3;10-04-2022 06:53:46;876090;Rolls Royce Mercielago
+2482;164;filial_3;09-04-2022 10:57:45;817851;Bentley Grand Cherokee
+2483;130;filial_2;17-05-2022 08:45:54;421111;Bugatti A4
+2484;294;filial_1;12-04-2022 10:41:15;226844;Jeep Civic
+2485;498;filial_3;28-05-2022 01:51:52;251790;Nissan Civic
+2486;142;filial_2;23-02-2022 04:37:36;752764;Bentley Prius
+2487;280;filial_3;09-02-2022 12:22:18;701136;Ferrari Civic
+2488;119;filial_2;14-05-2022 08:32:24;682712;Chrysler Volt
+2489;93;filial_3;18-04-2022 11:07:37;688382;Lamborghini A4
+2490;72;filial_2;11-02-2022 11:45:38;975865;Jeep Beetle
+2491;405;filial_2;30-05-2022 05:35:11;322519;Audi Cruze
+2492;147;filial_3;25-03-2022 11:02:49;151948;Bentley Corvette
+2493;71;filial_1;24-03-2022 04:49:13;752483;Toyota Cruze
+2494;373;filial_1;13-04-2022 12:09:11;439081;Jaguar Mustang
+2495;103;filial_2;07-02-2022 11:29:24;898714;Jaguar Camaro
+2496;301;filial_2;22-02-2022 11:57:57;366684;BMW Cruze
+2497;143;filial_2;30-03-2022 11:19:10;65580;Volkswagen XTS
+2498;458;filial_3;23-02-2022 11:49:51;742925;Cadillac Cruze
+2499;113;filial_3;24-02-2022 11:17:17;616809;Ferrari Fiesta
+2500;121;filial_2;08-05-2022 02:23:17;540899;Kia El Camino
+2501;302;filial_2;11-04-2022 11:31:04;937783;Audi Challenger
+2502;376;filial_2;27-05-2022 11:27:03;386779;Jeep Model S
+2503;26;filial_2;06-04-2022 09:01:08;402767;Ford Cruze
+2504;336;filial_2;15-03-2022 03:02:50;67909;Mercedes Benz Cruze
+2505;126;filial_3;23-03-2022 09:43:44;102987;Kia Accord
+2506;426;filial_3;22-04-2022 03:07:27;60694;Fiat Accord
+2507;379;filial_3;11-02-2022 09:56:48;271528;Honda Beetle
+2508;145;filial_1;14-03-2022 07:00:46;551824;Bugatti Focus
+2509;56;filial_3;07-05-2022 03:33:55;409336;Hyandai Alpine
+2510;335;filial_1;16-04-2022 04:47:02;933445;Chrysler Prius
+2511;76;filial_1;24-03-2022 12:01:09;282978;Chrysler Camaro
+2512;127;filial_2;18-02-2022 02:32:59;635105;Rolls Royce Durango
+2513;305;filial_1;16-05-2022 02:16:58;981531;Aston Martin El Camino
+2514;432;filial_1;18-03-2022 07:38:04;801647;Lamborghini Prius
+2515;326;filial_3;19-02-2022 02:17:46;668020;BMW Colorado
+2516;452;filial_1;19-04-2022 02:02:40;906908;Honda PT Cruiser
+2517;224;filial_1;26-02-2022 06:17:56;841446;Dodge Civic
+2518;205;filial_1;03-05-2022 11:44:47;237190;Aston Martin Sentra
+2519;13;filial_2;07-02-2022 12:46:19;903367;Bentley Fiesta
+2520;1;filial_1;19-05-2022 01:21:28;102797;Ford A8
+2521;352;filial_3;22-03-2022 01:41:44;740377;Bugatti Model T
+2522;470;filial_2;25-04-2022 12:34:26;994152;Ferrari Taurus
+2523;386;filial_3;27-04-2022 01:43:44;830587;Land Rover Camry
+2524;242;filial_3;14-03-2022 12:19:02;209374;Mini Malibu
+2525;78;filial_1;04-05-2022 04:57:21;111981;Hyandai A8
+2526;50;filial_2;18-03-2022 02:44:23;855630;Mercedes Benz F-150
+2527;298;filial_3;09-05-2022 10:12:43;779870;Hyandai A8
+2528;226;filial_1;13-03-2022 10:05:10;808379;Dodge Focus
+2529;229;filial_2;01-04-2022 12:16:45;285076;Aston Martin F-150
+2530;203;filial_1;09-02-2022 12:11:46;842021;Honda Malibu
+2531;178;filial_1;09-05-2022 07:57:12;751815;Chrysler Mustang
+2532;463;filial_1;20-04-2022 11:30:17;798418;Bugatti CTS
+2533;282;filial_3;07-03-2022 07:44:49;236581;Lamborghini LeBaron
+2534;28;filial_3;28-03-2022 05:25:34;583839;Bugatti Charger
+2535;81;filial_3;04-02-2022 03:19:19;898122;Porsche Silverado
+2536;162;filial_1;15-04-2022 01:53:14;132195;Jeep Alpine
+2537;499;filial_3;15-03-2022 11:07:34;740102;Rolls Royce Model T
+2538;95;filial_2;07-05-2022 08:20:04;546435;Chevrolet Prius
+2539;440;filial_3;03-03-2022 08:51:35;816294;Bugatti XTS
+2540;183;filial_3;24-03-2022 06:35:28;280726;Ferrari Focus
+2541;224;filial_2;06-03-2022 02:14:02;781000;Mercedes Benz Model T
+2542;382;filial_2;28-05-2022 09:17:45;705451;Honda Aventador
+2543;93;filial_3;03-05-2022 11:49:27;335181;Land Rover Aventador
+2544;262;filial_2;04-03-2022 12:24:32;835894;Hyandai CTS
+2545;157;filial_1;21-03-2022 12:54:34;429443;Cadillac Model S
+2546;188;filial_1;04-02-2022 10:27:16;709563;Ferrari PT Cruiser
+2547;493;filial_2;13-02-2022 01:48:08;243531;Chrysler Fiesta
+2548;49;filial_3;11-03-2022 07:33:07;755015;Aston Martin Explorer
+2549;419;filial_3;17-03-2022 11:49:52;107296;Mini Silverado
+2550;487;filial_1;27-02-2022 05:49:56;234315;Lamborghini Element
+2551;283;filial_2;01-03-2022 07:25:24;125074;Lamborghini Colorado
+2552;160;filial_1;28-04-2022 01:30:31;719798;Lamborghini Grand Cherokee
+2553;28;filial_1;23-05-2022 04:17:17;837866;BMW Taurus
+2554;393;filial_3;07-03-2022 03:30:06;515236;Tesla Mustang
+2555;134;filial_3;25-02-2022 02:46:07;527735;Lamborghini Mercielago
+2556;134;filial_2;08-03-2022 06:30:36;112436;Lamborghini Fiesta
+2557;129;filial_3;27-03-2022 03:32:43;100881;Mini Element
+2558;240;filial_3;15-04-2022 02:45:26;657053;Chrysler Charger
+2559;213;filial_3;07-05-2022 08:13:41;618971;Mercedes Benz Wrangler
+2560;199;filial_1;18-02-2022 04:21:52;909191;Bugatti Impala
+2561;167;filial_3;14-05-2022 10:08:39;639548;Hyandai Corvette
+2562;352;filial_1;12-04-2022 04:37:10;827993;Mini Mercielago
+2563;84;filial_1;14-04-2022 06:25:41;311986;Bentley Mercielago
+2564;85;filial_1;01-04-2022 04:44:06;966557;Ferrari Volt
+2565;358;filial_1;29-04-2022 05:29:20;646317;Hyandai Mercielago
+2566;145;filial_3;28-03-2022 09:56:47;377022;Chevrolet Colorado
+2567;350;filial_2;10-05-2022 05:54:52;332991;Lamborghini Civic
+2568;12;filial_3;14-03-2022 05:08:49;127318;Mini Alpine
+2569;367;filial_1;19-02-2022 09:07:52;955086;Aston Martin Corvette
+2570;470;filial_2;24-03-2022 08:26:01;528453;Audi Grand Caravan
+2571;480;filial_1;29-04-2022 01:47:49;820874;Cadillac Element
+2572;116;filial_2;05-03-2022 01:53:53;62706;Land Rover Expedition
+2573;174;filial_1;18-03-2022 10:24:26;328781;Jaguar A4
+2574;261;filial_1;02-02-2022 02:29:04;97288;Honda Camaro
+2575;349;filial_3;26-05-2022 07:35:05;99840;Hyandai 911
+2576;170;filial_3;21-04-2022 03:10:21;94776;Tesla Golf
+2577;458;filial_1;09-02-2022 11:51:07;919229;Dodge Escalade
+2578;178;filial_1;18-04-2022 06:12:45;746261;Chrysler A8
+2579;44;filial_3;02-03-2022 05:55:12;930213;Jeep Roadster
+2580;65;filial_1;18-05-2022 09:39:16;543120;Ford LeBaron
+2581;239;filial_3;22-04-2022 11:19:57;317375;Jeep Camry
+2582;292;filial_2;12-05-2022 11:20:05;215567;Mini LeBaron
+2583;98;filial_3;23-03-2022 09:22:37;553614;Volkswagen Jetta
+2584;77;filial_2;04-04-2022 01:41:52;250521;Mini Jetta
+2585;452;filial_1;18-03-2022 12:00:46;283249;Mercedes Benz Expedition
+2586;321;filial_2;23-04-2022 02:17:05;660569;BMW Durango
+2587;414;filial_2;03-04-2022 08:53:22;599296;Bentley Fiesta
+2588;263;filial_1;20-02-2022 05:33:06;401294;Mini Land Cruiser
+2589;462;filial_2;04-03-2022 03:28:51;348768;Ford Impala
+2590;222;filial_3;14-05-2022 02:20:29;943773;Nissan Camry
+2591;238;filial_1;15-02-2022 12:20:24;888667;Tesla Colorado
+2592;352;filial_3;09-02-2022 01:30:33;356326;Nissan Camry
+2593;351;filial_1;06-04-2022 11:43:33;107118;Mercedes Benz Accord
+2594;421;filial_3;06-02-2022 05:26:24;210627;Toyota Alpine
+2595;22;filial_3;28-02-2022 12:21:57;742764;Bentley Sentra
+2596;218;filial_2;17-02-2022 04:51:34;175701;Cadillac Corvette
+2597;350;filial_2;06-05-2022 02:06:42;412973;Dodge Corvette
+2598;226;filial_2;28-03-2022 02:00:33;400037;BMW Sentra
+2599;78;filial_3;28-04-2022 06:50:56;212293;Honda Altima
+2600;422;filial_3;24-03-2022 06:18:15;183203;Lamborghini Model 3
+2601;386;filial_3;25-04-2022 09:45:57;101988;Rolls Royce Volt
+2602;293;filial_3;17-05-2022 05:20:09;660934;Chrysler Mustang
+2603;498;filial_1;16-02-2022 03:00:08;431008;Mini Altima
+2604;262;filial_2;30-05-2022 11:31:50;127947;Mercedes Benz Explorer
+2605;410;filial_3;24-04-2022 10:34:16;663696;Honda Model T
+2606;283;filial_2;30-04-2022 11:23:09;509926;Aston Martin Element
+2607;266;filial_3;13-03-2022 10:20:41;409023;Dodge Altima
+2608;240;filial_2;10-05-2022 10:43:48;683491;Bentley PT Cruiser
+2609;404;filial_1;06-03-2022 07:27:06;355813;Chrysler Model S
+2610;89;filial_1;03-05-2022 02:21:20;531857;Chrysler A8
+2611;178;filial_3;04-02-2022 10:33:49;482464;Aston Martin Altima
+2612;439;filial_1;05-02-2022 02:26:51;54996;Fiat Volt
+2613;278;filial_3;17-03-2022 06:21:20;637660;Dodge Land Cruiser
+2614;419;filial_2;21-04-2022 07:42:03;475677;Lamborghini PT Cruiser
+2615;282;filial_2;30-03-2022 12:38:30;212542;Jeep Camaro
+2616;174;filial_2;22-03-2022 12:55:59;991919;Ferrari LeBaron
+2617;215;filial_2;25-02-2022 12:33:29;887600;Ferrari Roadster
+2618;416;filial_1;01-02-2022 09:43:14;143693;Rolls Royce Mustang
+2619;325;filial_2;28-02-2022 01:50:29;288727;Aston Martin Beetle
+2620;482;filial_3;19-02-2022 02:12:24;853388;Chrysler Civic
+2621;339;filial_2;26-05-2022 06:06:30;362841;Ferrari Ranchero
+2622;429;filial_2;02-02-2022 10:59:36;982692;Fiat Durango
+2623;177;filial_2;11-03-2022 10:48:36;629850;Cadillac Fiesta
+2624;143;filial_2;05-05-2022 08:18:43;803662;Chevrolet ATS
+2625;435;filial_2;07-03-2022 09:10:51;854721;Chevrolet Prius
+2626;187;filial_1;23-03-2022 08:33:15;116232;Fiat Prius
+2627;138;filial_1;27-03-2022 11:02:34;207421;Mini Aventador
+2628;447;filial_1;23-03-2022 05:28:36;373869;Lamborghini Silverado
+2629;221;filial_3;31-03-2022 03:03:58;648378;Honda Focus
+2630;96;filial_2;08-05-2022 08:25:48;822725;Jaguar Roadster
+2631;273;filial_1;13-05-2022 05:19:14;272007;Chevrolet Golf
+2632;375;filial_1;19-03-2022 11:43:48;768245;Nissan Civic
+2633;381;filial_2;28-04-2022 09:59:04;506288;Dodge ATS
+2634;303;filial_2;13-02-2022 02:12:14;777946;Jeep Aventador
+2635;457;filial_3;26-02-2022 10:17:21;81553;Cadillac Volt
+2636;245;filial_2;30-05-2022 05:35:58;625168;Lamborghini Ranchero
+2637;59;filial_2;26-04-2022 02:45:25;325272;Rolls Royce Grand Cherokee
+2638;214;filial_3;22-02-2022 08:14:36;129015;Rolls Royce Volt
+2639;150;filial_3;29-05-2022 07:27:34;651233;Chevrolet Countach
+2640;377;filial_3;06-04-2022 05:56:54;867648;Dodge Mustang
+2641;214;filial_3;11-05-2022 11:17:58;638236;Cadillac Camaro
+2642;381;filial_3;07-03-2022 12:32:47;309708;Kia Civic
+2643;128;filial_2;04-05-2022 09:47:33;455544;Ferrari Taurus
+2644;173;filial_2;25-02-2022 03:26:42;499464;Honda CTS
+2645;305;filial_2;16-05-2022 01:22:38;255413;Nissan Beetle
+2646;374;filial_3;24-02-2022 12:34:04;70425;Bugatti Expedition
+2647;194;filial_1;14-04-2022 01:14:20;455696;Tesla Aventador
+2648;12;filial_2;19-05-2022 05:37:15;632613;Land Rover XTS
+2649;454;filial_1;17-05-2022 05:33:28;542686;Hyandai XTS
+2650;235;filial_3;12-02-2022 10:05:36;600121;Chrysler Taurus
+2651;168;filial_3;07-02-2022 06:02:46;907799;Mercedes Benz ATS
+2652;343;filial_2;20-05-2022 12:53:58;769423;Volkswagen XTS
+2653;18;filial_3;12-02-2022 04:45:15;800268;Ferrari A4
+2654;234;filial_3;11-03-2022 09:53:55;929755;Chrysler Accord
+2655;383;filial_1;02-04-2022 12:21:01;357444;Ford F-150
+2656;16;filial_2;25-04-2022 06:23:38;581495;Land Rover Expedition
+2657;66;filial_1;04-03-2022 08:18:14;948835;Bugatti Focus
+2658;200;filial_3;13-05-2022 09:28:17;442944;Kia Mustang
+2659;479;filial_2;10-05-2022 10:07:37;990446;Bugatti PT Cruiser
+2660;29;filial_1;07-04-2022 01:13:02;292249;Toyota CTS
+2661;40;filial_2;07-05-2022 01:33:51;185342;Mini Civic
+2662;280;filial_3;26-02-2022 01:57:50;182251;Fiat Malibu
+2663;45;filial_1;05-05-2022 05:01:47;600266;Ford Aventador
+2664;357;filial_1;30-05-2022 05:23:09;804752;Jaguar Expedition
+2665;490;filial_2;10-03-2022 01:26:01;772490;Toyota El Camino
+2666;172;filial_3;09-03-2022 08:41:33;438825;Jaguar CTS
+2667;47;filial_3;15-05-2022 08:02:20;614308;Jeep Model T
+2668;205;filial_2;07-03-2022 04:25:38;432380;Volkswagen Prius
+2669;10;filial_3;13-02-2022 08:50:41;960029;BMW Explorer
+2670;332;filial_2;04-03-2022 04:42:43;867559;Chrysler Altima
+2671;288;filial_3;02-04-2022 01:37:49;287324;Maserati Malibu
+2672;389;filial_1;31-03-2022 12:42:33;764762;Chrysler Countach
+2673;234;filial_2;13-03-2022 08:37:53;841731;Bugatti Explorer
+2674;496;filial_3;23-03-2022 05:22:11;721116;Honda Silverado
+2675;91;filial_2;24-04-2022 09:38:34;433318;Land Rover Aventador
+2676;160;filial_1;10-04-2022 11:08:31;990683;Bentley Fiesta
+2677;316;filial_2;23-05-2022 09:57:18;175482;Porsche Impala
+2678;129;filial_1;15-04-2022 06:10:50;235230;Chevrolet LeBaron
+2679;452;filial_3;10-05-2022 04:29:08;977409;Maserati Element
+2680;472;filial_2;30-03-2022 11:09:09;959170;Aston Martin Escalade
+2681;317;filial_3;10-02-2022 03:41:12;301992;Nissan Charger
+2682;187;filial_1;08-02-2022 05:32:16;299365;Honda Grand Cherokee
+2683;284;filial_3;30-03-2022 06:27:40;319118;Hyandai Colorado
+2684;293;filial_3;13-04-2022 09:07:20;254103;Bugatti Accord
+2685;326;filial_3;27-03-2022 04:09:52;643640;Bugatti Altima
+2686;398;filial_2;21-03-2022 11:57:46;486395;BMW Cruze
+2687;498;filial_3;29-03-2022 03:24:25;546646;Bentley Aventador
+2688;275;filial_3;01-02-2022 01:06:05;294923;Dodge Prius
+2689;306;filial_1;26-03-2022 02:18:41;688388;Mini XTS
+2690;387;filial_1;26-04-2022 09:18:48;470969;Porsche Camaro
+2691;222;filial_2;29-04-2022 01:37:51;536446;Jeep Fiesta
+2692;190;filial_1;27-03-2022 08:16:40;64529;Jeep A4
+2693;250;filial_2;18-05-2022 02:30:03;58813;Aston Martin Malibu
+2694;442;filial_1;02-05-2022 10:55:17;701301;Land Rover Ranchero
+2695;151;filial_2;08-04-2022 10:21:04;735941;Jeep Durango
+2696;311;filial_1;09-05-2022 02:55:16;804119;Ford Model T
+2697;213;filial_3;13-05-2022 12:41:16;958121;Maserati XTS
+2698;434;filial_2;27-05-2022 04:17:18;339232;Cadillac Element
+2699;41;filial_1;09-03-2022 06:30:29;522520;Tesla Charger
+2700;17;filial_3;28-04-2022 12:27:31;242172;Cadillac Charger
+2701;100;filial_1;04-02-2022 06:23:38;87580;Chrysler Expedition
+2702;266;filial_1;19-04-2022 08:48:59;955891;Audi Expedition
+2703;453;filial_1;28-05-2022 09:10:04;399896;Jaguar Camry
+2704;428;filial_3;09-02-2022 08:05:18;872419;BMW Colorado
+2705;43;filial_2;27-03-2022 02:00:43;179331;Aston Martin Malibu
+2706;310;filial_2;21-04-2022 03:12:50;657936;Porsche Cruze
+2707;73;filial_1;14-03-2022 10:35:13;323142;Toyota PT Cruiser
+2708;410;filial_3;26-02-2022 07:48:12;214810;Honda Accord
+2709;425;filial_3;27-02-2022 09:33:49;866690;Mini A8
+2710;331;filial_3;02-03-2022 08:06:20;866278;Porsche Grand Cherokee
+2711;287;filial_1;18-02-2022 01:33:52;383388;Ferrari LeBaron
+2712;496;filial_3;22-03-2022 01:39:56;430213;Honda Grand Cherokee
+2713;181;filial_1;22-05-2022 09:27:12;577698;Bentley Ranchero
+2714;17;filial_3;06-05-2022 12:03:44;457807;Hyandai Golf
+2715;235;filial_3;11-05-2022 07:28:57;562108;Toyota Sentra
+2716;422;filial_2;11-05-2022 10:16:16;604417;Chrysler Volt
+2717;422;filial_1;13-03-2022 11:09:16;211689;Ford Model 3
+2718;304;filial_2;14-02-2022 04:31:58;990514;Maserati Silverado
+2719;74;filial_1;20-02-2022 11:12:16;875560;Porsche Focus
+2720;386;filial_2;28-04-2022 10:05:28;192601;Porsche Element
+2721;161;filial_1;24-05-2022 02:30:12;362009;Ferrari Camaro
+2722;405;filial_1;01-04-2022 12:41:14;667638;Land Rover Model 3
+2723;82;filial_2;21-03-2022 08:40:04;293467;Bugatti Model 3
+2724;17;filial_2;18-04-2022 09:35:25;996202;Bugatti Mustang
+2725;120;filial_3;29-04-2022 03:56:44;459448;Fiat Durango
+2726;480;filial_3;13-03-2022 07:03:34;386662;Hyandai A8
+2727;495;filial_1;09-05-2022 05:24:40;945081;Porsche Taurus
+2728;19;filial_3;26-02-2022 03:13:48;61465;Tesla A8
+2729;93;filial_2;07-05-2022 06:00:35;633987;Jeep Grand Caravan
+2730;486;filial_3;01-03-2022 07:33:42;481865;Chevrolet Sentra
+2731;464;filial_1;20-04-2022 06:39:43;341958;Jaguar Expedition
+2732;115;filial_2;11-03-2022 01:37:45;254216;Ferrari Charger
+2733;133;filial_2;10-05-2022 02:53:51;417597;Ford Durango
+2734;172;filial_2;17-04-2022 08:45:01;275419;Tesla Escalade
+2735;226;filial_3;23-05-2022 01:03:02;72590;Porsche Charger
+2736;163;filial_3;19-02-2022 05:10:08;981619;Nissan Model S
+2737;202;filial_2;10-03-2022 10:14:33;207209;Lamborghini Jetta
+2738;371;filial_3;02-05-2022 06:04:37;966062;Porsche Jetta
+2739;439;filial_1;15-03-2022 05:47:39;515021;Land Rover Countach
+2740;355;filial_3;20-04-2022 10:13:55;588259;Aston Martin Charger
+2741;139;filial_2;08-05-2022 11:32:31;824054;Chevrolet El Camino
+2742;324;filial_1;20-03-2022 06:04:08;177224;Bugatti Alpine
+2743;342;filial_2;06-04-2022 06:36:51;114708;Volkswagen Grand Caravan
+2744;7;filial_3;28-03-2022 11:34:23;886890;Hyandai Civic
+2745;228;filial_1;13-03-2022 03:21:47;460554;Mercedes Benz Land Cruiser
+2746;380;filial_3;19-02-2022 02:16:53;62093;Audi PT Cruiser
+2747;317;filial_1;13-04-2022 08:24:25;944508;Land Rover Explorer
+2748;225;filial_2;26-05-2022 07:23:38;480414;Chrysler Malibu
+2749;353;filial_1;14-03-2022 07:17:06;699140;Mercedes Benz Malibu
+2750;197;filial_3;21-03-2022 05:08:15;262682;Toyota Model T
+2751;486;filial_3;26-02-2022 10:58:31;85502;Chevrolet Civic
+2752;290;filial_1;05-03-2022 10:54:06;658449;Honda Colorado
+2753;59;filial_1;19-05-2022 09:04:40;853647;Chevrolet Model S
+2754;214;filial_1;07-04-2022 07:15:04;392513;Fiat Land Cruiser
+2755;21;filial_1;15-05-2022 12:46:38;896864;Chrysler 911
+2756;444;filial_1;15-05-2022 08:06:26;313536;Ferrari Alpine
+2757;478;filial_2;30-03-2022 04:01:13;682482;Mercedes Benz Land Cruiser
+2758;48;filial_2;02-04-2022 12:00:08;916239;Bugatti El Camino
+2759;362;filial_1;02-04-2022 11:47:02;562429;Ferrari XTS
+2760;394;filial_3;25-04-2022 11:11:52;405751;Mercedes Benz 911
+2761;487;filial_3;04-02-2022 05:13:17;635583;Ford ATS
+2762;414;filial_2;24-02-2022 02:25:22;771410;Hyandai LeBaron
+2763;386;filial_1;23-03-2022 05:40:48;447332;Dodge Beetle
+2764;411;filial_2;15-03-2022 01:56:56;544133;Rolls Royce A8
+2765;229;filial_2;22-04-2022 12:49:25;96831;Nissan Model T
+2766;250;filial_3;02-04-2022 09:41:35;77547;Audi PT Cruiser
+2767;248;filial_2;26-05-2022 02:46:51;390375;BMW Grand Cherokee
+2768;183;filial_3;01-03-2022 04:20:47;654460;Lamborghini Expedition
+2769;144;filial_2;13-02-2022 10:30:22;550870;Jaguar Charger
+2770;144;filial_2;20-02-2022 10:28:27;345470;Dodge Cruze
+2771;412;filial_2;28-05-2022 06:48:43;464542;BMW A8
+2772;30;filial_3;13-04-2022 01:29:11;969547;Chrysler El Camino
+2773;176;filial_3;09-04-2022 04:24:10;777542;Jeep Countach
+2774;267;filial_2;24-05-2022 03:28:21;587756;Ford Prius
+2775;469;filial_3;10-02-2022 06:10:05;680187;Cadillac Wrangler
+2776;270;filial_3;14-02-2022 09:12:32;415065;Mini Golf
+2777;389;filial_3;16-02-2022 12:58:44;210768;Hyandai Model S
+2778;323;filial_3;05-03-2022 11:53:20;199577;Jaguar LeBaron
+2779;198;filial_3;04-05-2022 11:43:35;223743;Toyota Durango
+2780;80;filial_1;03-05-2022 01:39:40;695176;Chrysler Escalade
+2781;71;filial_1;10-03-2022 12:00:15;266125;Tesla Alpine
+2782;1;filial_1;31-03-2022 03:22:23;92585;Kia Model T
+2783;244;filial_3;09-02-2022 07:57:35;369354;Honda Jetta
+2784;282;filial_2;17-03-2022 04:03:54;936762;Jeep Focus
+2785;117;filial_2;12-04-2022 02:52:42;977627;BMW Durango
+2786;139;filial_3;09-03-2022 02:50:33;601618;Fiat Model S
+2787;376;filial_3;19-05-2022 05:11:56;334487;Fiat Prius
+2788;277;filial_1;05-02-2022 08:48:42;276212;Hyandai Impala
+2789;67;filial_1;15-05-2022 12:57:54;247038;Mini Civic
+2790;268;filial_2;08-04-2022 12:00:50;200338;Ford Fiesta
+2791;94;filial_3;06-03-2022 03:07:11;834406;Ferrari LeBaron
+2792;184;filial_1;20-03-2022 03:08:28;865485;Honda Cruze
+2793;277;filial_2;18-05-2022 02:24:31;505959;Dodge Charger
+2794;285;filial_1;28-04-2022 11:42:38;545247;Land Rover Altima
+2795;184;filial_2;07-03-2022 08:08:42;595682;Mini Mercielago
+2796;208;filial_2;24-04-2022 11:44:30;479250;Audi Element
+2797;46;filial_3;01-03-2022 02:42:16;470410;Mercedes Benz Beetle
+2798;386;filial_2;26-05-2022 12:39:21;577159;Toyota XTS
+2799;298;filial_1;12-02-2022 08:33:45;239464;Volkswagen Golf
+2800;264;filial_1;16-05-2022 06:25:42;330827;Kia Grand Cherokee
+2801;379;filial_1;11-03-2022 12:20:32;430154;Mercedes Benz Fiesta
+2802;338;filial_2;10-02-2022 12:54:27;501073;Chevrolet XTS
+2803;495;filial_3;23-03-2022 02:05:11;242550;Nissan Camry
+2804;294;filial_1;09-04-2022 06:46:43;636580;Bentley Civic
+2805;372;filial_3;12-05-2022 06:35:38;830108;Rolls Royce Mercielago
+2806;144;filial_3;05-03-2022 09:19:35;757770;Rolls Royce Challenger
+2807;349;filial_3;24-04-2022 06:24:58;959036;BMW Spyder
+2808;32;filial_2;12-03-2022 04:52:59;72076;Volkswagen Wrangler
+2809;38;filial_2;03-02-2022 05:20:13;95776;Land Rover El Camino
+2810;371;filial_3;24-05-2022 04:41:13;331423;Tesla Element
+2811;200;filial_3;23-05-2022 01:47:43;642981;Kia 911
+2812;383;filial_2;02-04-2022 01:04:58;530388;Lamborghini Volt
+2813;16;filial_1;30-04-2022 10:32:59;156368;Mercedes Benz A8
+2814;353;filial_2;18-03-2022 07:01:44;950117;Hyandai XTS
+2815;447;filial_3;24-04-2022 11:20:48;632306;Ford PT Cruiser
+2816;433;filial_2;08-02-2022 09:12:07;137445;Audi PT Cruiser
+2817;488;filial_3;01-04-2022 08:22:52;986187;Lamborghini Land Cruiser
+2818;170;filial_1;19-02-2022 06:36:15;93788;Bentley Land Cruiser
+2819;465;filial_2;27-03-2022 04:00:06;513232;Kia Charger
+2820;450;filial_2;02-04-2022 10:08:45;284164;Hyandai Land Cruiser
+2821;336;filial_1;02-03-2022 11:45:07;396849;Jeep Grand Caravan
+2822;46;filial_2;13-05-2022 04:24:16;632241;Dodge El Camino
+2823;287;filial_2;29-04-2022 09:00:59;813983;Audi XTS
+2824;455;filial_2;21-03-2022 10:35:39;54228;Maserati Taurus
+2825;182;filial_1;16-05-2022 12:41:34;293503;Tesla Silverado
+2826;271;filial_3;11-05-2022 11:32:30;935968;Bentley F-150
+2827;283;filial_3;30-04-2022 12:08:25;575211;Dodge Model 3
+2828;75;filial_3;16-04-2022 04:25:15;426238;Nissan PT Cruiser
+2829;270;filial_3;14-02-2022 11:59:31;952486;Honda Countach
+2830;179;filial_1;24-02-2022 04:59:36;700324;Ferrari Beetle
+2831;419;filial_3;30-04-2022 09:46:59;881787;Chrysler LeBaron
+2832;231;filial_1;14-03-2022 01:50:26;457705;Chevrolet Aventador
+2833;396;filial_3;24-02-2022 04:25:00;141485;Jeep Challenger
+2834;340;filial_1;20-03-2022 03:16:47;635391;Ford Explorer
+2835;28;filial_1;26-02-2022 10:31:27;159872;Ford Malibu
+2836;234;filial_1;28-03-2022 03:35:43;572444;Land Rover Escalade
+2837;152;filial_1;15-04-2022 12:47:47;242297;Volkswagen Grand Caravan
+2838;295;filial_1;06-03-2022 04:41:34;841979;Honda Camaro
+2839;185;filial_1;16-02-2022 03:37:39;414782;Fiat Jetta
+2840;386;filial_3;17-02-2022 03:51:05;243470;Audi Expedition
+2841;437;filial_3;03-05-2022 01:34:32;288177;Mini Grand Caravan
+2842;342;filial_1;08-04-2022 10:45:15;796983;Aston Martin LeBaron
+2843;25;filial_3;13-03-2022 05:55:38;192278;Kia Ranchero
+2844;83;filial_3;30-05-2022 07:49:45;482903;Lamborghini Camry
+2845;200;filial_2;17-04-2022 10:53:27;909934;BMW Expedition
+2846;133;filial_2;02-04-2022 08:32:29;100455;Honda Expedition
+2847;25;filial_1;28-03-2022 05:00:57;188438;Nissan Golf
+2848;455;filial_3;16-02-2022 09:13:02;167089;Land Rover Escalade
+2849;333;filial_3;27-04-2022 10:17:05;228604;Maserati Accord
+2850;51;filial_1;28-02-2022 12:36:17;70292;Volkswagen Sentra
+2851;124;filial_3;08-03-2022 10:04:53;757041;Dodge Model T
+2852;489;filial_3;16-02-2022 01:41:13;378124;Honda Silverado
+2853;385;filial_1;28-02-2022 01:13:57;400476;Lamborghini Corvette
+2854;352;filial_3;14-03-2022 08:50:51;648138;Ford Grand Caravan
+2855;53;filial_3;19-02-2022 03:36:28;912883;Chrysler XTS
+2856;156;filial_2;16-03-2022 12:22:02;235086;Mercedes Benz Escalade
+2857;299;filial_1;20-05-2022 04:39:44;265223;Cadillac Impala
+2858;127;filial_1;09-02-2022 09:23:49;248496;Mercedes Benz Explorer
+2859;378;filial_3;09-05-2022 12:08:00;941224;Tesla Escalade
+2860;3;filial_2;11-05-2022 06:22:45;401384;Toyota Escalade
+2861;291;filial_3;23-03-2022 06:37:34;204957;Jeep Mercielago
+2862;349;filial_2;04-04-2022 09:36:44;111271;Ferrari El Camino
+2863;12;filial_3;09-03-2022 02:32:21;61136;Bugatti Golf
+2864;239;filial_2;18-03-2022 01:50:24;326458;Audi Element
+2865;128;filial_2;12-03-2022 10:02:52;123156;Honda F-150
+2866;436;filial_1;11-04-2022 06:53:56;745322;Nissan Taurus
+2867;102;filial_3;28-02-2022 08:29:44;974344;Lamborghini Model T
+2868;428;filial_1;11-03-2022 02:55:02;253821;Bugatti Volt
+2869;282;filial_1;09-03-2022 03:54:41;741117;Nissan Land Cruiser
+2870;334;filial_2;27-05-2022 02:36:38;968747;BMW Spyder
+2871;227;filial_3;08-03-2022 12:44:03;200765;Nissan Countach
+2872;465;filial_1;04-03-2022 07:47:32;52915;Audi Alpine
+2873;252;filial_1;20-04-2022 09:12:05;606470;Jeep Grand Caravan
+2874;445;filial_2;14-05-2022 09:34:48;724228;Ford ATS
+2875;355;filial_1;03-03-2022 10:58:09;762522;Chrysler Wrangler
+2876;6;filial_3;08-05-2022 11:33:20;111036;Chrysler Sentra
+2877;170;filial_1;15-02-2022 06:03:00;684194;Ferrari A8
+2878;192;filial_1;07-04-2022 08:36:50;653590;Aston Martin Alpine
+2879;300;filial_2;05-03-2022 12:45:23;657096;Chevrolet Land Cruiser
+2880;175;filial_3;22-03-2022 04:07:10;530075;Dodge Malibu
+2881;198;filial_1;06-02-2022 09:23:38;946160;Bugatti Fiesta
+2882;199;filial_1;25-05-2022 12:01:32;120579;Chevrolet Durango
+2883;128;filial_1;25-03-2022 08:09:16;642070;Cadillac Silverado
+2884;489;filial_3;29-03-2022 06:04:04;452408;Audi Charger
+2885;80;filial_1;25-04-2022 02:15:29;642429;Volkswagen ATS
+2886;397;filial_3;17-04-2022 12:37:06;988547;Kia Model T
+2887;125;filial_3;27-04-2022 01:30:32;519545;Mini Challenger
+2888;98;filial_2;08-03-2022 03:14:24;816079;Maserati Prius
+2889;113;filial_3;08-05-2022 12:21:41;615416;Chrysler XTS
+2890;264;filial_1;20-02-2022 05:21:39;959905;Chrysler CTS
+2891;8;filial_2;30-04-2022 12:14:33;570253;Fiat Model S
+2892;226;filial_1;03-03-2022 02:52:14;721038;Jaguar PT Cruiser
+2893;62;filial_2;15-05-2022 05:43:26;290558;Audi A4
+2894;430;filial_3;06-03-2022 08:54:36;462497;Fiat Model S
+2895;29;filial_3;02-05-2022 06:58:42;337864;Chevrolet Jetta
+2896;317;filial_2;16-04-2022 08:11:03;709231;Volkswagen Camaro
+2897;216;filial_2;21-05-2022 03:14:18;328957;BMW Alpine
+2898;344;filial_3;23-02-2022 07:03:48;138010;Mini Durango
+2899;440;filial_2;15-03-2022 11:33:19;958635;Jeep Countach
+2900;28;filial_2;03-03-2022 03:38:49;950290;Dodge Silverado
+2901;90;filial_3;11-04-2022 04:14:34;462026;Porsche Element
+2902;251;filial_2;01-04-2022 06:56:36;489791;Audi Explorer
+2903;185;filial_1;22-03-2022 02:02:55;954004;Tesla Model 3
+2904;12;filial_2;10-04-2022 08:31:20;328276;Bentley Focus
+2905;479;filial_1;08-02-2022 11:04:52;111060;Toyota Corvette
+2906;232;filial_3;06-03-2022 07:13:15;419843;Fiat Fiesta
+2907;3;filial_3;16-02-2022 05:30:59;617128;Bentley Countach
+2908;253;filial_1;15-05-2022 03:23:01;209117;Aston Martin Element
+2909;31;filial_2;25-04-2022 05:03:36;199889;Dodge Model S
+2910;14;filial_2;04-03-2022 05:39:31;346534;Ford Element
+2911;249;filial_2;06-02-2022 11:36:31;90367;Ford Prius
+2912;341;filial_2;26-05-2022 04:23:37;62001;Jeep Expedition
+2913;122;filial_1;05-05-2022 11:41:24;757882;Jaguar El Camino
+2914;54;filial_2;22-03-2022 08:42:21;895214;Porsche Alpine
+2915;413;filial_3;19-02-2022 09:40:39;445357;Audi Silverado
+2916;409;filial_2;03-03-2022 03:38:51;592164;Chevrolet Silverado
+2917;207;filial_1;20-02-2022 09:41:19;106744;Fiat Charger
+2918;37;filial_1;12-03-2022 02:18:28;362497;Toyota Countach
+2919;59;filial_1;25-04-2022 06:31:36;472253;Porsche Spyder
+2920;134;filial_1;18-05-2022 05:15:46;547264;Chevrolet Model S
+2921;146;filial_2;02-03-2022 12:11:03;822799;Nissan Impala
+2922;480;filial_1;06-05-2022 07:39:43;489566;Bentley Accord
+2923;158;filial_1;10-04-2022 05:43:40;548125;Mercedes Benz F-150
+2924;87;filial_2;08-05-2022 07:55:03;727810;Audi Escalade
+2925;217;filial_3;27-04-2022 05:15:12;489638;Chevrolet Sentra
+2926;354;filial_3;08-03-2022 07:29:49;829963;Fiat Mercielago
+2927;231;filial_2;05-05-2022 10:34:37;294868;Volkswagen Mustang
+2928;153;filial_3;15-03-2022 02:32:09;67535;Honda Impala
+2929;121;filial_1;26-02-2022 01:11:36;777453;Chevrolet Sentra
+2930;201;filial_1;14-05-2022 06:13:20;652179;Chrysler Mercielago
+2931;370;filial_1;02-04-2022 04:05:48;551113;Mini Golf
+2932;294;filial_1;14-02-2022 06:48:59;63697;Aston Martin PT Cruiser
+2933;344;filial_1;19-03-2022 04:38:41;442878;Bugatti Element
+2934;395;filial_3;05-04-2022 09:24:51;820180;Chevrolet Expedition
+2935;70;filial_2;24-04-2022 03:30:21;119001;Hyandai Land Cruiser
+2936;471;filial_2;26-02-2022 06:41:18;579124;Chrysler LeBaron
+2937;412;filial_2;07-02-2022 06:38:29;851859;Ferrari Explorer
+2938;475;filial_2;06-04-2022 06:07:48;340890;Kia Challenger
+2939;88;filial_1;29-04-2022 08:48:04;334948;Bugatti Camry
+2940;476;filial_2;10-02-2022 12:47:28;391930;Audi Corvette
+2941;259;filial_2;06-03-2022 03:34:59;704431;Jeep A8
+2942;250;filial_3;16-04-2022 04:20:52;314581;Bugatti CTS
+2943;156;filial_2;24-03-2022 06:25:06;437485;BMW Charger
+2944;414;filial_2;12-05-2022 08:41:50;236435;Chrysler Civic
+2945;52;filial_2;29-04-2022 03:14:25;924702;Ford Sentra
+2946;178;filial_3;23-02-2022 01:53:08;881948;Dodge El Camino
+2947;493;filial_2;05-05-2022 12:41:15;824083;Audi Prius
+2948;215;filial_2;20-04-2022 10:00:56;73447;Bugatti Accord
+2949;488;filial_2;23-04-2022 06:43:28;453128;Mercedes Benz CTS
+2950;176;filial_1;14-02-2022 07:40:09;146004;Tesla Spyder
+2951;23;filial_1;06-04-2022 08:01:54;561605;Nissan Countach
+2952;32;filial_2;24-02-2022 09:03:18;205746;Bugatti Element
+2953;261;filial_3;06-03-2022 12:09:37;510510;Cadillac Camaro
+2954;309;filial_2;08-03-2022 08:32:37;698710;Volkswagen Countach
+2955;352;filial_3;05-05-2022 12:40:02;152356;Chrysler Camaro
+2956;495;filial_2;02-05-2022 10:55:18;269037;Dodge Prius
+2957;194;filial_1;12-04-2022 05:18:41;997883;Lamborghini Model 3
+2958;242;filial_3;22-05-2022 03:14:35;919810;Rolls Royce Wrangler
+2959;98;filial_1;11-03-2022 03:43:35;130195;Maserati F-150
+2960;16;filial_2;15-05-2022 07:11:33;814072;Ferrari Altima
+2961;357;filial_2;18-05-2022 11:03:16;611857;Mercedes Benz Fiesta
+2962;262;filial_1;04-02-2022 10:06:21;279927;Fiat Explorer
+2963;292;filial_3;09-04-2022 11:40:04;985402;Ferrari F-150
+2964;465;filial_3;10-04-2022 07:50:17;137968;Jeep A8
+2965;489;filial_2;19-03-2022 03:03:59;177394;Cadillac Ranchero
+2966;204;filial_1;28-04-2022 10:46:25;883139;Audi Taurus
+2967;447;filial_2;26-02-2022 08:50:09;194133;Aston Martin XTS
+2968;183;filial_2;17-04-2022 06:02:33;362034;Hyandai Durango
+2969;232;filial_3;01-05-2022 05:07:25;963853;Porsche PT Cruiser
+2970;321;filial_2;03-02-2022 03:35:10;693613;Mini Mustang
+2971;94;filial_3;06-03-2022 10:08:05;767638;Maserati Mustang
+2972;411;filial_3;22-03-2022 01:22:51;857441;Rolls Royce A4
+2973;183;filial_3;17-03-2022 07:41:35;571249;Ford Golf
+2974;413;filial_3;10-02-2022 04:23:24;456451;Volkswagen Corvette
+2975;262;filial_3;26-03-2022 10:28:59;309314;Maserati A4
+2976;152;filial_2;24-03-2022 04:43:53;406932;Ford Camry
+2977;179;filial_3;26-04-2022 09:17:07;441175;Kia Civic
+2978;449;filial_3;01-04-2022 05:26:23;976601;Mercedes Benz Accord
+2979;182;filial_1;08-03-2022 03:43:57;714685;Rolls Royce Focus
+2980;144;filial_3;20-02-2022 03:28:14;628770;Volkswagen Charger
+2981;60;filial_2;20-03-2022 02:47:27;157872;Aston Martin Fiesta
+2982;21;filial_2;01-02-2022 10:09:57;330982;Honda El Camino
+2983;443;filial_3;23-02-2022 05:15:29;584719;Honda Explorer
+2984;243;filial_2;31-03-2022 05:27:35;145659;Honda Colorado
+2985;223;filial_2;11-04-2022 03:50:10;755928;Tesla CTS
+2986;30;filial_1;10-05-2022 08:26:16;330074;Dodge Element
+2987;129;filial_3;30-04-2022 07:18:46;200226;BMW Golf
+2988;173;filial_1;22-04-2022 01:01:17;744865;Chevrolet Focus
+2989;488;filial_3;09-02-2022 05:49:57;459442;Bugatti Accord
+2990;120;filial_2;23-04-2022 10:39:18;644807;Fiat Accord
+2991;257;filial_3;22-04-2022 02:03:24;186674;Hyandai Challenger
+2992;364;filial_2;15-03-2022 07:46:37;395442;Chevrolet Civic
+2993;348;filial_2;22-04-2022 04:42:15;616426;Kia Grand Cherokee
+2994;285;filial_3;09-02-2022 04:17:40;179541;Chevrolet PT Cruiser
+2995;23;filial_2;15-02-2022 12:36:02;56588;Mercedes Benz Camaro
+2996;50;filial_3;06-05-2022 11:50:43;98143;Ford A8
+2997;399;filial_2;09-05-2022 02:24:08;232541;Chevrolet El Camino
+2998;148;filial_2;01-02-2022 06:11:07;915122;Fiat Challenger
+2999;99;filial_2;03-04-2022 01:11:00;175072;Kia Alpine
