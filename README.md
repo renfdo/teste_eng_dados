@@ -20,11 +20,12 @@ Bases:
 - Dados de funcionários de 3 diferentes filiais.</br>
 - Dados de vendas de todas as filiais.</br>
 
+Link: [dados]
+
 ### Requisitos
 
 1 - Realizar as tratativas informadas abaixo salvando as informações em formato parquet. É interessante organizar os dados respeitando alguma regra de "camadas de dados". Justifique os critérios utilizados.</br>
 2 - Desenvolvimento do processo utilizando linguagem Python/Scala com o framework de preferência (Spark será considerado diferencial).</br>
-
 
 ### Data Quality
 
@@ -51,3 +52,5 @@ Apresentar um documento com a arquitetura proposta para execução desse projeto
 
  - Apresentação poderá ser feita na sua própria máquina. </br>
  - O projeto deve ser disponibilizado em um repositório git de sua prefêrencia desde que o avaliador tenha acesso.
+
+[dados]: ../dados/
